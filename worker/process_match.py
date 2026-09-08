@@ -111,7 +111,7 @@ def main() -> int:
         rc = run([PY, "worker/scan.py", "--run", "--video", str(vfile),
                   "--from-sec", str(sp[0]), "--to-sec", str(sp[1]),
                   "--tag", tag, "--max-maps", "1",
-                  "--expect", mp.get("score", "")],
+                  "--expect", mp.get("score", ""), "--map-name", mp["name"]],
                  timeout=int(min(left(), 70)) * 60, log=mlog)
         fin = WORK / "checkpoints" / f"final_{tag}.json"
         if rc != 0 or not fin.exists():

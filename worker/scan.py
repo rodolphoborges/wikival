@@ -107,7 +107,8 @@ class Reader:
 
 
 def run(from_sec: float = 0.0, to_sec: float | None = None,
-        tag: str = "", max_maps: int = 3, expect_end: str = "") -> int:
+        tag: str = "", max_maps: int = 3, expect_end: str = "",
+        map_name: str = "") -> int:
     import cv2
     from rois import ROIS_1080P, crop
     from fsm import RoundFSM
@@ -286,7 +287,12 @@ def run(from_sec: float = 0.0, to_sec: float | None = None,
                            pct=round(100 * t / dur, 1), rounds=len(fsm.finished_rounds),
                            score=f"{scoreA}-{scoreB}", rate_fps=round(rate, 1),
                            eta_min=round((dur - t) / max(rate, 0.01) / 60, 1),
-                           errors=len(fsm.errors))
+                           errors=len(fsm.errors),
+                           tag=tag or None, map=map_name or None,
+                           round_now=fsm.state.round_number,
+                           phase=fsm.state.phase,
+                           detail=(f"{map_name} R{fsm.state.round_number} [{fsm.state.phase}] "
+                                   f"{scoreA}-{scoreB}" + (f" · tag {tag}" if tag else "")))
         if int(t) % 300 == 0:
             (CKPT_DIR / f"obs_{ckpt_prefix}{int(t):06d}.json").write_text(
                 json.dumps([{"scoreA": o["a"], "scoreB": o["b"],
@@ -326,6 +332,8 @@ def main() -> int:
     ap.add_argument("--max-maps", type=int, default=3)
     ap.add_argument("--expect", type=str, default="",
                     help="Placar final esperado vlr.gg (ex: 13-4): aceita com 1 voto a menos")
+    ap.add_argument("--map-name", type=str, default="",
+                    help="Nome do mapa p/ o dashboard (ex: Pearl)")
     ap.add_argument("--video", type=str, default="",
                     help="Arquivo de video (padrao D:/wikival-work/vod_1080p.mp4)")
     a = ap.parse_args()
@@ -335,7 +343,7 @@ def main() -> int:
     if a.calibrate:
         return calibrate()
     if a.run:
-        return run(a.from_sec, a.to_sec, a.tag, a.max_maps, a.expect)
+        return run(a.from_sec, a.to_sec, a.tag, a.max_maps, a.expect, a.map_name)
     ap.print_help()
     return 0
 
