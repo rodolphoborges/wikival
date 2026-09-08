@@ -94,15 +94,40 @@ def main() -> int:
     segs = json.loads(maps_json.read_text(encoding="utf-8"))
 
     def span(name: str) -> tuple[float, float] | None:
-        hits = [s for s in segs if (s.get("label") or "").upper() == name.upper()]
-        if not hits:
+        import difflib
+        labels = sorted(set((s.get("label") or "") for s in segs if s.get("label")))
+        best = difflib.get_close_matches(name.upper(), [l.upper() for l in labels],
+                                         n=1, cutoff=0.6)
+        if not best:
             return None
+        hits = [s for s in segs if (s.get("label") or "").upper() == best[0]]
         return (max(0.0, hits[0]["t_start"] - 60.0), hits[-1]["t_end"] + 60.0)
+
+    def span_fallback(k: int) -> tuple[float, float] | None:
+        # sem faixa no strip: interpola no vao entre mapas vizinhos conhecidos
+        prev_end, next_start = 150.0, dur_hint()
+        for j, mp2 in enumerate(maps):
+            if j == k:
+                continue
+            sp2 = span(mp2["name"])
+            if sp2 is None:
+                continue
+            if j < k:
+                prev_end = max(prev_end, sp2[1])
+            else:
+                next_start = min(next_start, sp2[0])
+        if next_start - prev_end < 300:
+            return None
+        return (prev_end, next_start)
+
+    def dur_hint() -> float:
+        d = (q.get("vods") or [{}])[0].get("durationSec")
+        return float(d) if d else 7200.0
 
     # 4. scan por mapa
     rounds_all: list[list[dict]] = []
     for k, mp in enumerate(maps):
-        sp = span(mp["name"])
+        sp = span(mp["name"]) or span_fallback(k)
         if sp is None:
             print(json.dumps({"matchId": mid, "status": "FAIL",
                               "reason": f"no-strip:{mp['name']}"}))
@@ -129,8 +154,43 @@ def main() -> int:
             return 1
         rounds_all.append(rds)
 
-    # 5. valida: contagem == verdade + placar final == catalogo
+    # 4b. mapeia lados (esq/dir lidos) -> times do catalogo via verdade vlr, por maioria
+    try:
+        from enrich_vlr import parse_rows as _pr, split_maps as _sm
+        mhtml = (WORK / "matches" / f"{mid}.html").read_text(encoding="utf-8")
+        truth_maps = _sm(_pr(mhtml))
+    except Exception as e:
+        print(json.dumps({"matchId": mid, "status": "FAIL", "reason": f"truth-load:{e}"}))
+        return 1
+    for mp, rds, tm in zip(maps, rounds_all, truth_maps):
+        votes_lr: dict[str, dict[str, int]] = {"teamA": {"teamA": 0, "teamB": 0},
+                                               "teamB": {"teamA": 0, "teamB": 0}}
+        tby_n = {t["n"]: t for t in tm}
+        for r in rds:
+            t = tby_n.get(r["roundNumber"])
+            if t:
+                votes_lr[r["result"]["winner"]][t["winner"]] += 1
+        # esquerda (nosso teamA) = time do catalogo com mais votos nos rounds dela
+        left_team = max(("teamA", "teamB"), key=lambda c: votes_lr["teamA"][c])
+        mp["_left"] = left_team
+        for r in rds:
+            a, b = (int(x) for x in r["result"]["scoreAfterRound"].split("-"))
+            if left_team == "teamA":
+                r["result"]["scoreAfterRound"] = f"{a}-{b}"
+            else:
+                # espelha: esquerda = teamB
+                r["result"]["scoreAfterRound"] = f"{b}-{a}"
+                r["result"]["winner"] = ("teamB" if r["result"]["winner"] == "teamA" else "teamA")
+    # 5. valida: contagem == verdade vlr (placares ja normalizados p/ ordem do catalogo)
     problems = []
+    for mp, rds in zip(maps, rounds_all):
+        if len(rds) != mp.get("nRounds"):
+            problems.append(f"{mp['name']}: {len(rds)}r vs vlr {mp.get('nRounds')}r")
+        if rds and mp.get("score"):
+            ours = sorted(rds[-1]["result"]["scoreAfterRound"].split("-"))
+            exp = sorted(str(mp["score"]).split("-"))
+            if ours != exp:
+                problems.append(f"{mp['name']}: placar {rds[-1]['result']['scoreAfterRound']} vs vlr {mp['score']}")
     for mp, rds in zip(maps, rounds_all):
         if len(rds) != mp.get("nRounds"):
             problems.append(f"{mp['name']}: {len(rds)}r vs vlr {mp.get('nRounds')}r")

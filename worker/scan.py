@@ -212,11 +212,22 @@ def run(from_sec: float = 0.0, to_sec: float | None = None,
                         first_seen = min(v[1] for v in votes if v[0] == top)
                         is_flip = (ta + tb == scoreA + scoreB + 1)
                         is_low = (ta + tb < scoreA + scoreB - 2)
-                        is_expected = (ta == expA and tb == expB)
+                        # truth-guide: aceita o placar esperado mesmo com lados trocados
+                        # (overlay pode inverter; ex.: espera 13-8, le 8-13)
+                        is_expected = (expA >= 0 and sorted((ta, tb)) == sorted((expA, expB)))
                         need = VOTE_MIN - 1 if (is_expected and
                                                 t - last_live_t < 300) else VOTE_MIN
-                        if cnt >= need and is_flip and \
-                                t - last_live_t < LIVE_MEMORY_SEC:
+                        # flip breve mas duplo-consecutivo do placar ESPERADO vale
+                        # (closer some rapido do ar; fantasma nunca acerta o placar final)
+                        consec = (len(votes) >= 2 and votes[-1][0] == votes[-2][0] == top
+                                  and is_expected)
+                        if cnt >= need and is_flip and t - last_live_t < LIVE_MEMORY_SEC:
+                            accept = True
+                        elif consec and is_flip and t - last_live_t < 300:
+                            accept = True
+                        else:
+                            accept = False
+                        if accept:
                             scoreA, scoreB = ta, tb  # flip +1 com round vivo
                             votes.clear()
                             reset_streak = 0
