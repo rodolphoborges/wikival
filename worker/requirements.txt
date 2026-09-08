@@ -4,6 +4,10 @@ yt-dlp>=2026.8.19
 opencv-python>=4.10
 numpy>=1.26
 jsonschema>=4.0
+# WebGPU (RTX via Vulkan/Dawn). Bench: worker/gpubench.py.
+# Medido: preprocess 2MP ~1.6ms GPU vs ~2.1ms CPU — sem ganho p/ scan
+# (gargalo real: seeks 87ms + Tesseract 86ms). Reservado p/ inferencia neural (Fase 3).
+# wgpu>=0.32  (pip install wgpu; quebrado on_submitted_work_done_sync no Py3.14 — ver gpubench)
 # OCR opcional (pesado, ~500MB). MVP roda sem ele (--dry-run + bootstrap vlr.gg):
 # paddleocr>=3.0
 # rapidfuzz>=3.0
