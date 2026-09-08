@@ -15,10 +15,11 @@ VIDEO = WORK / "vod_1080p.mp4"
 OUT = WORK / "checkpoints" / "maps.json"
 sys.path.insert(0, str(Path(__file__).parent))
 
-MAPS_KNOWN = ["PEARL", "LOTUS", "BREEZE", "SPLIT", "SUNSET", "ASCENT", "HAVEN", "SUMMIT"]
+MAPS_KNOWN = ["PEARL", "LOTUS", "BREEZE", "SPLIT", "SUNSET", "ASCENT", "HAVEN",
+              "SUMMIT", "BIND", "ICEBOX", "FRACTURE", "ABYSS", "CORRODE"]
 
 
-def strip_label(img) -> str | None:
+def strip_label(img) -> tuple[str | None, str]:
     import cv2
     from rois import ROIS_1080P, crop, TESSERACT_EXE
     s = crop(img, ROIS_1080P["map_strip"])
@@ -32,7 +33,7 @@ def strip_label(img) -> str | None:
     for m in MAPS_KNOWN:
         if f"CURRENT: {m}" in txt or f"CURRENT:{m}" in txt:
             cur = m
-    return cur
+    return cur, txt.strip()[:80]
 
 
 def main() -> int:
@@ -59,7 +60,11 @@ def main() -> int:
     while t < dur:
         cap.set(cv2.CAP_PROP_POS_MSEC, t * 1000)
         ok, frame = cap.read()
-        label = strip_label(frame) if ok else None
+        raw = ""
+        if ok:
+            label, raw = strip_label(frame)
+        else:
+            label = None
         if label != cur:
             if label == pending:
                 pending_n += 1
@@ -67,7 +72,8 @@ def main() -> int:
                 pending, pending_n = label, 1
             if pending_n >= 2:
                 if cur is not None or True:
-                    segs.append({"label": cur, "t_start": cur_start, "t_end": t})
+                    segs.append({"label": cur, "t_start": cur_start, "t_end": t,
+                                 "raw": raw})
                 cur, cur_start = label, t
                 pending, pending_n = None, 0
                 print(f"  [{t:.0f}s] -> {label}", flush=True)

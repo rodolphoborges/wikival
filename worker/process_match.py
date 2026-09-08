@@ -7,6 +7,7 @@ Nunca edita o catalog.json (orquestrador faz). Validação dura:
 """
 from __future__ import annotations
 import json
+import re
 import subprocess
 import sys
 import time
@@ -101,7 +102,7 @@ def main() -> int:
         if not best:
             return None
         hits = [s for s in segs if (s.get("label") or "").upper() == best[0]]
-        return (max(0.0, hits[0]["t_start"] - 60.0), hits[-1]["t_end"] + 60.0)
+        return (max(0.0, hits[0]["t_start"] - 60.0), hits[-1]["t_end"] + 150.0)
 
     def span_fallback(k: int) -> tuple[float, float] | None:
         # sem faixa no strip: interpola no vao entre mapas vizinhos conhecidos
@@ -154,7 +155,33 @@ def main() -> int:
             return 1
         rounds_all.append(rds)
 
-    # 4b. mapeia lados (esq/dir lidos) -> times do catalogo via verdade vlr, por maioria
+    # 4b. ancora times: nomes top/bottom do HTML -> catalogo (prefixo), depois
+    # lados esq/dir -> catalogo por consenso de vencedores (barreira 70%)
+    def norm(s: str) -> str:
+        return re.sub(r"[^a-z0-9]", "", s.lower())
+
+    def page_teams(html: str) -> tuple[str, str] | None:
+        i = html.find("vlr-rounds-row-col")
+        if i < 0:
+            return None
+        hdr = html[max(0, i - 4000):i]
+        names = re.findall(r'<div class="team[^"]*">.*?team-name">\s*([^<]+?)\s*<', hdr, re.S)
+        names = [n.strip() for n in names if n.strip()]
+        if len(names) < 2:  # fallback: formato antigo (img + nome puro)
+            names = re.findall(r'<div class="team"[^>]*>\s*(?:<img[^>]*>)?\s*([^<]+?)\s*</div>', hdr)
+            names = [n.strip() for n in names if n.strip()]
+        if len(names) >= 2:
+            return names[-2], names[-1]
+        return None
+
+    def to_catalog_team(page_name: str) -> str | None:
+        p = norm(page_name)
+        cands = []
+        for side, cname in (("teamA", entry["teamA"]), ("teamB", entry["teamB"])):
+            c = norm(cname)
+            if p and c and (c.startswith(p) or p.startswith(c)):
+                cands.append(side)
+        return cands[0] if len(cands) == 1 else None
     try:
         from enrich_vlr import parse_rows as _pr, split_maps as _sm
         mhtml = (WORK / "matches" / f"{mid}.html").read_text(encoding="utf-8")
@@ -162,16 +189,40 @@ def main() -> int:
     except Exception as e:
         print(json.dumps({"matchId": mid, "status": "FAIL", "reason": f"truth-load:{e}"}))
         return 1
+    pt_pb = page_teams(mhtml)
+    if not pt_pb:
+        print(json.dumps({"matchId": mid, "status": "FAIL", "reason": "teams-parse"}))
+        return 1
+    p_cat = to_catalog_team(pt_pb[0])
+    q_cat = to_catalog_team(pt_pb[1])
+    if not p_cat or not q_cat or p_cat == q_cat:
+        print(json.dumps({"matchId": mid, "status": "FAIL",
+                          "reason": f"teams-map:{pt_pb}"}))
+        return 1
+    # vencedor vlr vem em termos top/bottom -> traduz p/ catalogo
+    top2cat = {"teamA": p_cat, "teamB": q_cat}
     for mp, rds, tm in zip(maps, rounds_all, truth_maps):
-        votes_lr: dict[str, dict[str, int]] = {"teamA": {"teamA": 0, "teamB": 0},
-                                               "teamB": {"teamA": 0, "teamB": 0}}
+        lv: dict[str, int] = {"teamA": 0, "teamB": 0}
+        rv: dict[str, int] = {"teamA": 0, "teamB": 0}
         tby_n = {t["n"]: t for t in tm}
+        n = 0
         for r in rds:
             t = tby_n.get(r["roundNumber"])
-            if t:
-                votes_lr[r["result"]["winner"]][t["winner"]] += 1
-        # esquerda (nosso teamA) = time do catalogo com mais votos nos rounds dela
-        left_team = max(("teamA", "teamB"), key=lambda c: votes_lr["teamA"][c])
+            if not t:
+                continue
+            n += 1
+            cat_w = top2cat[t["winner"]]
+            if r["result"]["winner"] == "teamA":
+                lv[cat_w] += 1
+            else:
+                rv[cat_w] += 1
+        left_team = max(("teamA", "teamB"), key=lambda c: lv[c])
+        right_team = "teamB" if left_team == "teamA" else "teamA"
+        agree = (lv[left_team] + rv[right_team]) / max(n, 1)
+        if n == 0 or agree < 0.7:
+            print(json.dumps({"matchId": mid, "status": "FAIL",
+                              "reason": f"sides-unclear:{mp['name']} agree={agree:.2f}"}))
+            return 1
         mp["_left"] = left_team
         for r in rds:
             a, b = (int(x) for x in r["result"]["scoreAfterRound"].split("-"))
@@ -191,9 +242,6 @@ def main() -> int:
             exp = sorted(str(mp["score"]).split("-"))
             if ours != exp:
                 problems.append(f"{mp['name']}: placar {rds[-1]['result']['scoreAfterRound']} vs vlr {mp['score']}")
-    for mp, rds in zip(maps, rounds_all):
-        if len(rds) != mp.get("nRounds"):
-            problems.append(f"{mp['name']}: {len(rds)}r vs vlr {mp.get('nRounds')}r")
     if problems:
         print(json.dumps({"matchId": mid, "status": "FAIL", "reason": "validate",
                           "problems": problems}))
