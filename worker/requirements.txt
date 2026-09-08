@@ -1,0 +1,9 @@
+# Camada 0 — dependencias do Desktop Worker
+# Instalacao: python -m pip install -r requirements.txt
+yt-dlp>=2026.8.19
+opencv-python>=4.10
+numpy>=1.26
+jsonschema>=4.0
+# OCR opcional (pesado, ~500MB). MVP roda sem ele (--dry-run + bootstrap vlr.gg):
+# paddleocr>=3.0
+# rapidfuzz>=3.0

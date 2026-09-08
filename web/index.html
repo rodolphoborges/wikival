@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Wikival — G2 vs 100T (piloto)</title>
+  </head>
+  <body>
+    <div id="app">
+      <header>
+        <h1>wikival --match g2-vs-100t <span class="tag">camada-0</span></h1>
+        <p id="match-sub">carregando…</p>
+      </header>
+      <main>
+        <section class="player-col">
+          <div id="yt-player"></div>
+          <div id="chapters" title="capítulos = rounds"></div>
+          <div id="chap-label"># capítulos: 1 bloco = 1 round; clique para seek; bloco aceso = agora</div>
+          <div class="player-controls">
+            <button id="btn-back">−2s</button>
+            <button id="btn-fwd">+2s</button>
+            <span class="size-btns">
+              <button data-w="480">s</button>
+              <button data-w="720" class="on">m</button>
+              <button data-w="960">l</button>
+              <button id="btn-wide" title="player largura total">wide</button>
+            </span>
+            <label class="contrib">
+              <input type="checkbox" id="opt-contrib" disabled />
+              gpu-contrib [fase-3]
+            </label>
+          </div>
+          <p class="hint"># player segue o VOD do youtube; selecione mapa/round para seek direto.</p>
+        </section>
+        <section class="timeline-col">
+          <nav id="map-tabs"></nav>
+          <div id="round-list"></div>
+        </section>
+      </main>
+    </div>
+    <script src="https://www.youtube.com/iframe_api"></script>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

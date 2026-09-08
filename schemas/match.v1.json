@@ -1,0 +1,83 @@
+{
+  "$id": "https://wiki-vct.internal/schemas/v1/match.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Wikival Match Camada 0 (v1, MVP sem backend)",
+  "description": "Macroestrutura navegavel: mapas + rounds + timestamps. Compativel com evolucao para Camada 1 (events).",
+  "type": "object",
+  "required": ["matchId", "youtubeVideoId", "meta", "maps"],
+  "properties": {
+    "matchId": { "type": "string", "example": "vct-2026-americas-s2-gf-100t-vs-loud" },
+    "youtubeVideoId": { "type": "string", "minLength": 11, "maxLength": 11 },
+    "vlrUrl": { "type": "string", "format": "uri" },
+    "meta": {
+      "type": "object",
+      "required": ["tournament", "teams", "enrichmentStatus", "enrichmentCoveragePercent"],
+      "properties": {
+        "tournament": { "type": "string" },
+        "stage": { "type": "string" },
+        "broadcast": { "type": "string", "description": "Ex: VALORANT Esports BR (PT-BR)" },
+        "videoDurationSec": { "type": "number" },
+        "teams": {
+          "type": "object",
+          "required": ["teamA", "teamB"],
+          "properties": {
+            "teamA": { "type": "string" },
+            "teamB": { "type": "string" }
+          }
+        },
+        "finalScore": { "type": "string", "example": "3-2" },
+        "winner": { "type": "string", "enum": ["teamA", "teamB", "unknown"] },
+        "enrichmentStatus": { "type": "string", "enum": ["pending", "in_progress", "complete"] },
+        "enrichmentCoveragePercent": { "type": "number", "minimum": 0, "maximum": 100 }
+      }
+    },
+    "maps": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["mapIndex", "mapName", "status", "rounds"],
+        "properties": {
+          "mapIndex": { "type": "integer", "minimum": 1 },
+          "mapName": { "type": "string" },
+          "pickBy": { "type": "string" },
+          "score": { "type": "string", "example": "7-13" },
+          "winner": { "type": "string" },
+          "anchorApproxSec": { "type": ["number", "null"], "description": "Seek aproximado do inicio do mapa no VOD. Null = desconhecido." },
+          "status": { "type": "string", "enum": ["pending_detection", "detected", "verified"] },
+          "rounds": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["roundNumber", "timestamps", "result", "layer1Enriched", "events"],
+              "properties": {
+                "roundNumber": { "type": "integer", "minimum": 1 },
+                "type": { "type": "string", "enum": ["pistol", "eco", "bonus", "fullbuy", "force", "overtime", "unknown"] },
+                "timestamps": {
+                  "type": "object",
+                  "required": ["buyPhaseStart", "roundStart", "roundEnd"],
+                  "properties": {
+                    "buyPhaseStart": { "type": ["number", "null"] },
+                    "roundStart": { "type": ["number", "null"] },
+                    "roundEnd": { "type": ["number", "null"] },
+                    "confidence": { "type": "number", "minimum": 0, "maximum": 1 }
+                  }
+                },
+                "result": {
+                  "type": "object",
+                  "required": ["winner", "scoreAfterRound"],
+                  "properties": {
+                    "winner": { "type": "string" },
+                    "scoreAfterRound": { "type": "string" },
+                    "endKind": { "type": "string", "enum": ["elim", "defuse", "boom", "time", "unknown"] }
+                  }
+                },
+                "layer1Enriched": { "type": "boolean" },
+                "events": { "type": "array", "items": { "type": "object" } }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
