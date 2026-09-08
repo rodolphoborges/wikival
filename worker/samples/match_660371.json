@@ -1,0 +1,682 @@
+{
+ "matchId": "vct2026-660371",
+ "youtubeVideoId": "62rQ6rGBSBc",
+ "vlrUrl": "https://www.vlr.gg/660371/mibr-vs-leviat-n-vct-2026-americas-stage-1-ubsf",
+ "meta": {
+  "tournament": "VCT 2026 Americas Stage 1",
+  "stage": "Playoffs · Upper Semifinals",
+  "broadcast": "auto",
+  "teams": {
+   "teamA": "MIBR",
+   "teamB": "LEVIATÁN"
+  },
+  "finalScore": "1-2",
+  "winner": "teamB",
+  "enrichmentStatus": "complete",
+  "enrichmentCoveragePercent": 100.0
+ },
+ "maps": [
+  {
+   "mapIndex": 1,
+   "mapName": "Split",
+   "pickBy": "MIBR",
+   "score": "10-13",
+   "winner": "teamB",
+   "anchorApproxSec": 351.0,
+   "status": "detected",
+   "rounds": [
+    {
+     "roundNumber": 1,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 351.0,
+      "roundStart": 361.0,
+      "roundEnd": 452.0
+     },
+     "result": {
+      "winner": "teamB",
+      "scoreAfterRound": "0-1",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 2,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 457.0,
+      "roundStart": 462.0,
+      "roundEnd": 489.0
+     },
+     "result": {
+      "winner": "teamB",
+      "scoreAfterRound": "0-2",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 3,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 523.0,
+      "roundStart": 526.0,
+      "roundEnd": 631.0
+     },
+     "result": {
+      "winner": "teamB",
+      "scoreAfterRound": "0-3",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 4,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 658.0,
+      "roundStart": 670.0,
+      "roundEnd": 726.0
+     },
+     "result": {
+      "winner": "teamB",
+      "scoreAfterRound": "0-4",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 5,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 757.0,
+      "roundStart": 761.0,
+      "roundEnd": 868.0
+     },
+     "result": {
+      "winner": "teamA",
+      "scoreAfterRound": "1-4",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 6,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 874.0,
+      "roundStart": 890.0,
+      "roundEnd": 962.0
+     },
+     "result": {
+      "winner": "teamA",
+      "scoreAfterRound": "2-4",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 7,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 967.0,
+      "roundStart": 984.0,
+      "roundEnd": 1193.0
+     },
+     "result": {
+      "winner": "teamA",
+      "scoreAfterRound": "3-4",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 8,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 1198.0,
+      "roundStart": 1220.0,
+      "roundEnd": 1309.0
+     },
+     "result": {
+      "winner": "teamA",
+      "scoreAfterRound": "4-4",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 9,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 1339.0,
+      "roundStart": 1348.0,
+      "roundEnd": 1435.0
+     },
+     "result": {
+      "winner": "teamB",
+      "scoreAfterRound": "4-5",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 10,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 1514.0,
+      "roundStart": 1543.0,
+      "roundEnd": 1656.0
+     },
+     "result": {
+      "winner": "teamB",
+      "scoreAfterRound": "4-6",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 11,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 1690.0,
+      "roundStart": 1695.0,
+      "roundEnd": 1823.0
+     },
+     "result": {
+      "winner": "teamB",
+      "scoreAfterRound": "4-7",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 12,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 1828.0,
+      "roundStart": 1860.0,
+      "roundEnd": 1977.0
+     },
+     "result": {
+      "winner": "teamB",
+      "scoreAfterRound": "4-8",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 13,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 2128.0,
+      "roundStart": 2140.0,
+      "roundEnd": 2166.0
+     },
+     "result": {
+      "winner": "teamA",
+      "scoreAfterRound": "5-8",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 14,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 2173.0,
+      "roundStart": 2178.0,
+      "roundEnd": 2300.0
+     },
+     "result": {
+      "winner": "teamA",
+      "scoreAfterRound": "6-8",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 15,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 2305.0,
+      "roundStart": 2313.0,
+      "roundEnd": 2396.0
+     },
+     "result": {
+      "winner": "teamA",
+      "scoreAfterRound": "7-8",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 16,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 2418.0,
+      "roundStart": 2435.0,
+      "roundEnd": 2483.0
+     },
+     "result": {
+      "winner": "teamA",
+      "scoreAfterRound": "8-8",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 17,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 2511.0,
+      "roundStart": 2522.0,
+      "roundEnd": 2568.0
+     },
+     "result": {
+      "winner": "teamB",
+      "scoreAfterRound": "8-9",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 18,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 2596.0,
+      "roundStart": 2607.0,
+      "roundEnd": 2744.0
+     },
+     "result": {
+      "winner": "teamB",
+      "scoreAfterRound": "8-10",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 19,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 2749.0,
+      "roundStart": 2774.0,
+      "roundEnd": 2895.0
+     },
+     "result": {
+      "winner": "teamA",
+      "scoreAfterRound": "9-10",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 20,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 2917.0,
+      "roundStart": 2934.0,
+      "roundEnd": 2998.0
+     },
+     "result": {
+      "winner": "teamA",
+      "scoreAfterRound": "10-10",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 21,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 3075.0,
+      "roundStart": 3104.0,
+      "roundEnd": 3210.0
+     },
+     "result": {
+      "winner": "teamB",
+      "scoreAfterRound": "10-11",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 22,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 3217.0,
+      "roundStart": 3219.0,
+      "roundEnd": 3231.0
+     },
+     "result": {
+      "winner": "teamB",
+      "scoreAfterRound": "10-12",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 23,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 3254.0,
+      "roundStart": 3270.0,
+      "roundEnd": 3326.0
+     },
+     "result": {
+      "winner": "teamB",
+      "scoreAfterRound": "10-13",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    }
+   ]
+  },
+  {
+   "mapIndex": 2,
+   "mapName": "Fracture",
+   "pickBy": "LEV",
+   "score": "13-4",
+   "winner": "teamB",
+   "anchorApproxSec": 3483.0,
+   "status": "detected",
+   "rounds": [
+    {
+     "roundNumber": 1,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 3483.0,
+      "roundStart": 3496.0,
+      "roundEnd": 3536.0
+     },
+     "result": {
+      "winner": "teamA",
+      "scoreAfterRound": "1-0",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 2,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 3561.0,
+      "roundStart": 3567.0,
+      "roundEnd": 3595.0
+     },
+     "result": {
+      "winner": "teamA",
+      "scoreAfterRound": "2-0",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 3,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 3613.0,
+      "roundStart": 3632.0,
+      "roundEnd": 3699.0
+     },
+     "result": {
+      "winner": "teamA",
+      "scoreAfterRound": "3-0",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 4,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 3705.0,
+      "roundStart": 3736.0,
+      "roundEnd": 3791.0
+     },
+     "result": {
+      "winner": "teamA",
+      "scoreAfterRound": "4-0",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 5,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 3820.0,
+      "roundStart": 3830.0,
+      "roundEnd": 3899.0
+     },
+     "result": {
+      "winner": "teamA",
+      "scoreAfterRound": "5-0",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 6,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 3930.0,
+      "roundStart": 3932.0,
+      "roundEnd": 4003.0
+     },
+     "result": {
+      "winner": "teamA",
+      "scoreAfterRound": "6-0",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 7,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 4008.0,
+      "roundStart": 4111.0,
+      "roundEnd": 4123.0
+     },
+     "result": {
+      "winner": "teamA",
+      "scoreAfterRound": "7-0",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 8,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 4128.0,
+      "roundStart": 4147.0,
+      "roundEnd": 4201.0
+     },
+     "result": {
+      "winner": "teamA",
+      "scoreAfterRound": "8-0",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 9,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 4206.0,
+      "roundStart": 4240.0,
+      "roundEnd": 4323.0
+     },
+     "result": {
+      "winner": "teamB",
+      "scoreAfterRound": "8-1",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 10,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 4329.0,
+      "roundStart": 4336.0,
+      "roundEnd": 4454.0
+     },
+     "result": {
+      "winner": "teamB",
+      "scoreAfterRound": "8-2",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 11,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 4461.0,
+      "roundStart": 4462.0,
+      "roundEnd": 4580.0
+     },
+     "result": {
+      "winner": "teamB",
+      "scoreAfterRound": "8-3",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 12,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 4587.0,
+      "roundStart": 4600.0,
+      "roundEnd": 4678.0
+     },
+     "result": {
+      "winner": "teamB",
+      "scoreAfterRound": "8-4",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 13,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 4848.0,
+      "roundStart": 4848.0,
+      "roundEnd": 4877.0
+     },
+     "result": {
+      "winner": "teamA",
+      "scoreAfterRound": "9-4",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 14,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 4887.0,
+      "roundStart": 4914.0,
+      "roundEnd": 5035.0
+     },
+     "result": {
+      "winner": "teamA",
+      "scoreAfterRound": "10-4",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 15,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 5040.0,
+      "roundStart": 5063.0,
+      "roundEnd": 5085.0
+     },
+     "result": {
+      "winner": "teamA",
+      "scoreAfterRound": "11-4",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 16,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 5091.0,
+      "roundStart": 5108.0,
+      "roundEnd": 5213.0
+     },
+     "result": {
+      "winner": "teamA",
+      "scoreAfterRound": "12-4",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    },
+    {
+     "roundNumber": 17,
+     "type": "unknown",
+     "timestamps": {
+      "buyPhaseStart": 5247.0,
+      "roundStart": 5248.0,
+      "roundEnd": 5288.0
+     },
+     "result": {
+      "winner": "teamA",
+      "scoreAfterRound": "13-4",
+      "endKind": "unknown"
+     },
+     "layer1Enriched": false,
+     "events": []
+    }
+   ]
+  }
+ ]
+}

@@ -161,15 +161,20 @@ def main() -> int:
         return re.sub(r"[^a-z0-9]", "", s.lower())
 
     def page_teams(html: str) -> tuple[str, str] | None:
+        # ordem da pagina: esquerda (class="team") e direita (class="team mod-right")
         i = html.find("vlr-rounds-row-col")
         if i < 0:
             return None
         hdr = html[max(0, i - 4000):i]
-        names = re.findall(r'<div class="team[^"]*">.*?team-name">\s*([^<]+?)\s*<', hdr, re.S)
+        left = re.findall(r'<div class="team">.*?team-name">\s*([^<]+?)\s*<', hdr, re.S)
+        right = re.findall(r'<div class="team mod-right">.*?team-name">\s*([^<]+?)\s*<', hdr, re.S)
+        left = [n.strip() for n in left if n.strip()]
+        right = [n.strip() for n in right if n.strip()]
+        if left and right:
+            return left[-1], right[-1]
+        # fallback formato antigo
+        names = re.findall(r'<div class="team"[^>]*>\s*(?:<img[^>]*>)?\s*([^<]+?)\s*</div>', hdr)
         names = [n.strip() for n in names if n.strip()]
-        if len(names) < 2:  # fallback: formato antigo (img + nome puro)
-            names = re.findall(r'<div class="team"[^>]*>\s*(?:<img[^>]*>)?\s*([^<]+?)\s*</div>', hdr)
-            names = [n.strip() for n in names if n.strip()]
         if len(names) >= 2:
             return names[-2], names[-1]
         return None
@@ -201,6 +206,16 @@ def main() -> int:
         return 1
     # vencedor vlr vem em termos top/bottom -> traduz p/ catalogo
     top2cat = {"teamA": p_cat, "teamB": q_cat}
+    # verdade em termos do catalogo (titulos vÃem em ordem top==left da pagina)
+    for mp in maps:
+        if mp.get("score"):
+            a, b = (int(x) for x in str(mp["score"]).split("-"))
+            if p_cat == "teamA":
+                mp["_truth"] = (a, b)
+            else:
+                mp["_truth"] = (b, a)
+        else:
+            mp["_truth"] = None
     for mp, rds, tm in zip(maps, rounds_all, truth_maps):
         lv: dict[str, int] = {"teamA": 0, "teamB": 0}
         rv: dict[str, int] = {"teamA": 0, "teamB": 0}
@@ -232,6 +247,85 @@ def main() -> int:
                 # espelha: esquerda = teamB
                 r["result"]["scoreAfterRound"] = f"{b}-{a}"
                 r["result"]["winner"] = ("teamB" if r["result"]["winner"] == "teamA" else "teamA")
+    def infer_closer(vfile: Path, last_end: float, map_name: str) -> dict | None:
+        """Micro-varredura da cauda: buy = 1o freeze visivel, start = salto do timer,
+        end = inicio do break (placar some >5s). Retorna round com inferred=True."""
+        import cv2
+        import re as _re
+        from scan import Reader
+        from rois import ROIS_1080P, crop
+        full_re = _re.compile(r"(\d):([0-5]\d)")
+        cap = cv2.VideoCapture(str(vfile))
+        if not cap.isOpened():
+            return None
+        r = Reader()
+        t = last_end + 1.0
+        t_end = last_end + 400.0
+        buy = start = None
+        prev_sec: int | None = None
+        dark_since: float | None = None
+        round_end: float | None = None
+        while t < t_end:
+            cap.set(cv2.CAP_PROP_POS_MSEC, t * 1000)
+            ok, frame = cap.read()
+            if not ok:
+                break
+            tm = r.ocr(crop(frame, ROIS_1080P["timer"]), 7)
+            m = full_re.search(tm)
+            sec = int(m.group(1)) * 60 + int(m.group(2)) if m else None
+            la = r.ocr(crop(frame, ROIS_1080P["score_left"]), 8)
+            ra = r.ocr(crop(frame, ROIS_1080P["score_right"]), 8)
+            board = bool(_re.match(r"^\d{1,2}$", la) and _re.match(r"^\d{1,2}$", ra))
+            if buy is None and sec is not None and 0 < sec <= 35 and board:
+                buy = t
+            if sec is not None and prev_sec is not None and sec - prev_sec > 30:
+                if start is None:
+                    start = t
+            if sec is not None:
+                prev_sec = sec
+            if start is not None and round_end is None:
+                if not board:
+                    dark_since = t if dark_since is None else dark_since
+                    if t - dark_since > 5:
+                        round_end = dark_since
+                        break
+                else:
+                    dark_since = None
+            t += 1.0
+        cap.release()
+        if start is None:
+            return None
+        return {"roundNumber": -1, "type": "unknown",
+                "timestamps": {"buyPhaseStart": buy, "roundStart": start,
+                               "roundEnd": round_end or t_end},
+                "result": {"winner": "unknown", "scoreAfterRound": "?",
+                           "endKind": "unknown"},
+                "layer1Enriched": False, "events": [], "inferred": True}
+
+    # 4c. closer inferido: falta exatamente 1 round e o placar final esta a 1 ponto
+    # da verdade -> o vencedor e forcado; timestamps vêm do timer/break (flag inferred)
+    for mp, rds in zip(maps, rounds_all):
+        if not rds or not mp.get("_truth") or not mp.get("nRounds"):
+            continue
+        if len(rds) != mp["nRounds"] - 1:
+            continue
+        ta, tb = mp["_truth"]  # ordem do catalogo
+        oa, ob = (int(x) for x in rds[-1]["result"]["scoreAfterRound"].split("-"))
+        if not ((ta == oa + 1 and tb == ob) or (tb == ob + 1 and ta == oa)):
+            continue
+        winner = "teamA" if ta == oa + 1 else "teamB"
+        last_end = rds[-1]["timestamps"]["roundEnd"] or 0.0
+        inv = infer_closer(vfile, last_end, mp["name"])
+        if inv is None:
+            continue
+        inv["roundNumber"] = rds[-1]["roundNumber"] + 1
+        inv["result"] = {"winner": winner,
+                         "scoreAfterRound": f"{ta}-{tb}",
+                         "endKind": "unknown"}
+        rds.append(inv)
+        log_infer = WORK / f"match_{mid}.log"
+        with open(log_infer, "a", encoding="utf-8") as f:
+            f.write(f"\ncloser inferido {mp['name']} R{inv['roundNumber']}: {inv['timestamps']}\n")
     # 5. valida: contagem == verdade vlr (placares ja normalizados p/ ordem do catalogo)
     problems = []
     for mp, rds in zip(maps, rounds_all):

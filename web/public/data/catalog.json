@@ -3866,8 +3866,8 @@
      "format": "Bo3",
      "date": "6:00 pm -03, May 15",
      "vlrUrl": "https://www.vlr.gg/660371/mibr-vs-leviat-n-vct-2026-americas-stage-1-ubsf",
-     "status": "pending",
-     "dataFile": null
+     "status": "processed",
+     "dataFile": "data/match_660371.json"
     },
     {
      "id": "660372",
