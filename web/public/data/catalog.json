@@ -3832,8 +3832,8 @@
      "format": "Bo3",
      "date": "6:00 pm -03, May 14",
      "vlrUrl": "https://www.vlr.gg/660369/furia-vs-leviat-n-vct-2026-americas-stage-1-ur1",
-     "status": "pending",
-     "dataFile": null
+     "status": "processed",
+     "dataFile": "data/match_660369.json"
     },
     {
      "id": "660370",
