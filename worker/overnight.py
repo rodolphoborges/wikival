@@ -21,6 +21,13 @@ PY = sys.executable
 START = time.time()
 DEADLINE = START + 7 * 3600
 MAX_MATCHES = 2
+sys.path.insert(0, str(HERE))
+try:
+    from ledger import set_status, find, log_job
+except ImportError:  # pragma: no cover
+    set_status = lambda *a, **k: None
+    find = lambda *a, **k: None
+    log_job = lambda *a, **k: ""
 
 
 def log(msg: str) -> None:
@@ -116,6 +123,29 @@ def main() -> int:
             progress(stage="overnight:match-done", detail=f"{mid} {res.get('status')}")
         passed = [r for r in results if r.get("status") == "PASS"]
         failed = [r for r in results if r.get("status") != "PASS"]
+        for r in results:
+            j = find(r["matchId"], "running") or find(r["matchId"], "planned")
+            if j:
+                set_status(j["id"], "done" if r.get("status") == "PASS" else "failed",
+                           f"{r.get('status')} {r.get('reason', '')} {r.get('rounds', '')}")
+        # varredura final: resultados PASS externos (ex.: paralelo manual) em proc*.out
+        for out in sorted(WORK.glob("proc*.out")):
+            try:
+                lines = out.read_text(encoding="utf-8").splitlines()
+                last = [ln for ln in lines if ln.strip().startswith("{")]
+                if not last:
+                    continue
+                res = json.loads(last[-1])
+                if res.get("status") == "PASS" and res.get("matchId") not in [r["matchId"] for r in results]:
+                    res["matchId"] = res.get("matchId")
+                    results.append(res)
+                    passed.append(res)
+                    log(f"sweep: {res['matchId']} PASS externo incorporado")
+                    j = find(res["matchId"], "running") or find(res["matchId"])
+                    if j:
+                        set_status(j["id"], "done", f"PASS {res.get('rounds', '')}")
+            except Exception as e:
+                log(f"sweep {out.name}: {e}")
         report.append(f"- partidas: {len(passed)} PASS, {len(failed)} FAIL")
         for r in results:
             report.append(f"  - {r['matchId']}: {r.get('status')} {r.get('reason', '')} {r.get('rounds', '')}")
@@ -133,6 +163,9 @@ def main() -> int:
             cat_p.write_text(json.dumps(cat, ensure_ascii=False, indent=1), encoding="utf-8")
             sh(["cmd", "/c", "npm run build"], 10, cwd=str(ROOT / "web"))
             report.append("- catalogo atualizado + rebuild")
+            j = find("revisao")
+            if j:
+                set_status(j["id"], "done", f"{len(passed)} PASS / {len(failed)} FAIL")
 
         # docs + commit/push
         stamp = datetime.date.today().isoformat()
@@ -141,6 +174,9 @@ def main() -> int:
         sh(["git", "commit", "-m", f"turno madrugada {stamp}: agenda + {len(passed)} partida(s)"], 2)
         rc, _ = sh(["git", "push", "origin", "main"], 5)
         report.append(f"- push: {'OK' if rc == 0 else 'FAIL (ver log)'}")
+        j = find("documentacao")
+        if j:
+            set_status(j["id"], "done" if rc == 0 else "failed", f"push {'OK' if rc == 0 else 'FAIL'}")
 
         progress(stage="overnight:done", detail=f"{len(passed)} PASS / {len(failed)} FAIL")
     except Exception:
@@ -150,6 +186,9 @@ def main() -> int:
             f"duracao: {(time.time() - START) / 3600:.1f}h", ""] + report + [
             "", "ver: docs/overnight_*.md, D:/wikival-work/overnight.log, dashboard :8000"]
     (WORK / "WAKEUP.md").write_text("\n".join(wake), encoding="utf-8")
+    j = find("relatorio matinal")
+    if j:
+        set_status(j["id"], "done", "WAKEUP.md")
     log("WAKEUP.md escrito. Fim do turno.")
     return 0
 

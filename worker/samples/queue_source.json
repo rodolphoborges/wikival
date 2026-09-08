@@ -8501,5 +8501,9434 @@
   "done": true,
   "schedulable": true,
   "reason": null
+ },
+ {
+  "matchId": "660374",
+  "eventId": "2860",
+  "teams": [
+   "LEVIATÁN",
+   "G2 Esports"
+  ],
+  "vods": [
+   {
+    "id": "0f1BgnLZGzc",
+    "durationSec": 16892
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Fracture",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "12-14",
+    "nRounds": 26
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "G2",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   },
+   {
+    "number": 3,
+    "name": "Ascent",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   },
+   {
+    "number": 4,
+    "name": "Pearl",
+    "pickBy": "G2",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "660375",
+  "eventId": "2860",
+  "teams": [
+   "FURIA",
+   "NRG"
+  ],
+  "vods": [
+   {
+    "id": "gUeHhStI2YE",
+    "durationSec": 5655
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "FUR",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "660376",
+  "eventId": "2860",
+  "teams": [
+   "100 Thieves",
+   "LOUD"
+  ],
+  "vods": [
+   {
+    "id": "04Gn6zdgfiE",
+    "durationSec": 4866
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "LOUD",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "100T",
+    "played": true,
+    "score": "13-4",
+    "nRounds": 17
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "660377",
+  "eventId": "2860",
+  "teams": [
+   "KRÜ Esports",
+   "NRG"
+  ],
+  "vods": [
+   {
+    "id": "CLAYG_sVl5A",
+    "durationSec": 4995
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "KRÜ",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "660378",
+  "eventId": "2860",
+  "teams": [
+   "MIBR",
+   "100 Thieves"
+  ],
+  "vods": [
+   {
+    "id": "7IAZriYT6mU",
+    "durationSec": 5804
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Fracture",
+    "pickBy": "MIBR",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "100T",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "660379",
+  "eventId": "2860",
+  "teams": [
+   "NRG",
+   "100 Thieves"
+  ],
+  "vods": [
+   {
+    "id": "HeoQ9f_gChU",
+    "durationSec": 6453
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Fracture",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "100T",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "660380",
+  "eventId": "2860",
+  "teams": [
+   "G2 Esports",
+   "NRG"
+  ],
+  "vods": [
+   {
+    "id": "h3nGpjT5BIk",
+    "durationSec": 15797
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "G2",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 3,
+    "name": "Pearl",
+    "pickBy": "G2",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   },
+   {
+    "number": 4,
+    "name": "Haven",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644710",
+  "eventId": "2863",
+  "teams": [
+   "Team Liquid",
+   "Karmine Corp"
+  ],
+  "vods": [
+   {
+    "id": "doaVPXfcPb8",
+    "durationSec": 23569
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "KC",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "TL",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644712",
+  "eventId": "2863",
+  "teams": [
+   "Gentle Mates",
+   "Fut Esports"
+  ],
+  "vods": [
+   {
+    "id": "FADt60npqew",
+    "durationSec": 21564
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "M8",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "FUT",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644713",
+  "eventId": "2863",
+  "teams": [
+   "Team Heretics",
+   "Natus Vincere"
+  ],
+  "vods": [
+   {
+    "id": "Ze91eRIMmj8",
+    "durationSec": 25195
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "NAVI",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "TH",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644719",
+  "eventId": "2863",
+  "teams": [
+   "Team Liquid",
+   "Team Heretics"
+  ],
+  "vods": [
+   {
+    "id": "ky2aYIftA5s",
+    "durationSec": 19354
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "TH",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "TL",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644720",
+  "eventId": "2863",
+  "teams": [
+   "Fut Esports",
+   "Natus Vincere"
+  ],
+  "vods": [
+   {
+    "id": "0b4SPzgrMso",
+    "durationSec": 24935
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Fracture",
+    "pickBy": "NAVI",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "FUT",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644721",
+  "eventId": "2863",
+  "teams": [
+   "Gentle Mates",
+   "Karmine Corp"
+  ],
+  "vods": [
+   {
+    "id": "0b4SPzgrMso",
+    "durationSec": 24935
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Fracture",
+    "pickBy": "KC",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "M8",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644723",
+  "eventId": "2863",
+  "teams": [
+   "Gentle Mates",
+   "Natus Vincere"
+  ],
+  "vods": [
+   {
+    "id": "DmhPaBwVwT0",
+    "durationSec": 23079
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "M8",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "NAVI",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644725",
+  "eventId": "2863",
+  "teams": [
+   "Karmine Corp",
+   "Team Heretics"
+  ],
+  "vods": [
+   {
+    "id": "11kVPznV9mQ",
+    "durationSec": 20460
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "TH",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "KC",
+    "played": true,
+    "score": "2-13",
+    "nRounds": 15
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644726",
+  "eventId": "2863",
+  "teams": [
+   "Fut Esports",
+   "Team Liquid"
+  ],
+  "vods": [
+   {
+    "id": "0hVLiDjhZgA",
+    "durationSec": 19120
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "TL",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "FUT",
+    "played": true,
+    "score": "15-13",
+    "nRounds": 28
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644729",
+  "eventId": "2863",
+  "teams": [
+   "Natus Vincere",
+   "Team Liquid"
+  ],
+  "vods": [
+   {
+    "id": "gMbluHIkprQ",
+    "durationSec": 8825
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Bind",
+    "pickBy": "TL",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "NAVI",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644731",
+  "eventId": "2863",
+  "teams": [
+   "Karmine Corp",
+   "Fut Esports"
+  ],
+  "vods": [
+   {
+    "id": "Pf5d2qp2PD4",
+    "durationSec": 23670
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "KC",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "FUT",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644732",
+  "eventId": "2863",
+  "teams": [
+   "Gentle Mates",
+   "Team Heretics"
+  ],
+  "vods": [
+   {
+    "id": "s4lqes2N1go",
+    "durationSec": 21374
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Fracture",
+    "pickBy": "M8",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "TH",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644734",
+  "eventId": "2863",
+  "teams": [
+   "Team Heretics",
+   "Fut Esports"
+  ],
+  "vods": [
+   {
+    "id": "q8zEriwNSjo",
+    "durationSec": 17674
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "TH",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "FUT",
+    "played": true,
+    "score": "13-2",
+    "nRounds": 15
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644736",
+  "eventId": "2863",
+  "teams": [
+   "Natus Vincere",
+   "Karmine Corp"
+  ],
+  "vods": [
+   {
+    "id": "hm-5tBHIWfg",
+    "durationSec": 16850
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "KC",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "NAVI",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644739",
+  "eventId": "2863",
+  "teams": [
+   "Gentle Mates",
+   "Team Liquid"
+  ],
+  "vods": [
+   {
+    "id": "WSeCBGo_EzQ",
+    "durationSec": 17075
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "M8",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "TL",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644709",
+  "eventId": "2863",
+  "teams": [
+   "Fnatic",
+   "Eternal Fire"
+  ],
+  "vods": [
+   {
+    "id": "doaVPXfcPb8",
+    "durationSec": 23569
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "EF",
+    "played": true,
+    "score": "14-12",
+    "nRounds": 26
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "FNC",
+    "played": true,
+    "score": "15-17",
+    "nRounds": 32
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644711",
+  "eventId": "2863",
+  "teams": [
+   "Team Vitality",
+   "Giantx"
+  ],
+  "vods": [
+   {
+    "id": "FADt60npqew",
+    "durationSec": 21564
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "VIT",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "GX",
+    "played": true,
+    "score": "13-3",
+    "nRounds": 16
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644714",
+  "eventId": "2863",
+  "teams": [
+   "Bbl Esports",
+   "Pcific Esports"
+  ],
+  "vods": [
+   {
+    "id": "Ze91eRIMmj8",
+    "durationSec": 25195
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "PCF",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "BBL",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644716",
+  "eventId": "2863",
+  "teams": [
+   "Pcific Esports",
+   "Giantx"
+  ],
+  "vods": [
+   {
+    "id": "6iFdVQxqDv4",
+    "durationSec": 22540
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "GX",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "PCF",
+    "played": true,
+    "score": "14-12",
+    "nRounds": 26
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644717",
+  "eventId": "2863",
+  "teams": [
+   "Bbl Esports",
+   "Eternal Fire"
+  ],
+  "vods": [
+   {
+    "id": "6iFdVQxqDv4",
+    "durationSec": 22540
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "BBL",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "EF",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644718",
+  "eventId": "2863",
+  "teams": [
+   "Fnatic",
+   "Team Vitality"
+  ],
+  "vods": [
+   {
+    "id": "ky2aYIftA5s",
+    "durationSec": 19354
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "FNC",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "VIT",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644722",
+  "eventId": "2863",
+  "teams": [
+   "Bbl Esports",
+   "Giantx"
+  ],
+  "vods": [
+   {
+    "id": "DmhPaBwVwT0",
+    "durationSec": 23079
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "BBL",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "GX",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644724",
+  "eventId": "2863",
+  "teams": [
+   "Eternal Fire",
+   "Team Vitality"
+  ],
+  "vods": [
+   {
+    "id": "11kVPznV9mQ",
+    "durationSec": 20460
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Bind",
+    "pickBy": "EF",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "VIT",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644727",
+  "eventId": "2863",
+  "teams": [
+   "Pcific Esports",
+   "Fnatic"
+  ],
+  "vods": [
+   {
+    "id": "0hVLiDjhZgA",
+    "durationSec": 19120
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "PCF",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "FNC",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644728",
+  "eventId": "2863",
+  "teams": [
+   "Eternal Fire",
+   "Pcific Esports"
+  ],
+  "vods": [
+   {
+    "id": "V3KETXPOc-U",
+    "durationSec": 8632
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "PCF",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Fracture",
+    "pickBy": "EF",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644730",
+  "eventId": "2863",
+  "teams": [
+   "Giantx",
+   "Fnatic"
+  ],
+  "vods": [
+   {
+    "id": "Pf5d2qp2PD4",
+    "durationSec": 23670
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "GX",
+    "played": true,
+    "score": "13-3",
+    "nRounds": 16
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "FNC",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644733",
+  "eventId": "2863",
+  "teams": [
+   "Bbl Esports",
+   "Team Vitality"
+  ],
+  "vods": [
+   {
+    "id": "s4lqes2N1go",
+    "durationSec": 21374
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "VIT",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "BBL",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644735",
+  "eventId": "2863",
+  "teams": [
+   "Team Vitality",
+   "Pcific Esports"
+  ],
+  "vods": [
+   {
+    "id": "q8zEriwNSjo",
+    "durationSec": 17674
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "VIT",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "PCF",
+    "played": true,
+    "score": "13-0",
+    "nRounds": 13
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644737",
+  "eventId": "2863",
+  "teams": [
+   "Bbl Esports",
+   "Fnatic"
+  ],
+  "vods": [
+   {
+    "id": "hm-5tBHIWfg",
+    "durationSec": 16850
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "BBL",
+    "played": true,
+    "score": "3-13",
+    "nRounds": 16
+   },
+   {
+    "number": 2,
+    "name": "Fracture",
+    "pickBy": "FNC",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644738",
+  "eventId": "2863",
+  "teams": [
+   "Giantx",
+   "Eternal Fire"
+  ],
+  "vods": [
+   {
+    "id": "WSeCBGo_EzQ",
+    "durationSec": 17075
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "GX",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "EF",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "660381",
+  "eventId": "2863",
+  "teams": [
+   "Eternal Fire",
+   "Team Heretics"
+  ],
+  "vods": [
+   {
+    "id": "Sjgq8Cj6vOo",
+    "durationSec": 23779
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Fracture",
+    "pickBy": "TH",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "EF",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "660382",
+  "eventId": "2863",
+  "teams": [
+   "Team Liquid",
+   "Team Vitality"
+  ],
+  "vods": [
+   {
+    "id": "Sjgq8Cj6vOo",
+    "durationSec": 23779
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "VIT",
+    "played": true,
+    "score": "3-13",
+    "nRounds": 16
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "TL",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "660383",
+  "eventId": "2863",
+  "teams": [
+   "FUT Esports",
+   "Eternal Fire"
+  ],
+  "vods": [
+   {
+    "id": "5KvqU9A2lDs",
+    "durationSec": 21350
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "EF",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "FUT",
+    "played": true,
+    "score": "13-4",
+    "nRounds": 17
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "660384",
+  "eventId": "2863",
+  "teams": [
+   "FNATIC",
+   "Team Vitality"
+  ],
+  "vods": [
+   {
+    "id": "5KvqU9A2lDs",
+    "durationSec": 21350
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "FNC",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "VIT",
+    "played": true,
+    "score": "13-15",
+    "nRounds": 28
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "660385",
+  "eventId": "2863",
+  "teams": [
+   "FUT Esports",
+   "Team Vitality"
+  ],
+  "vods": [
+   {
+    "id": "nWM-3hZv0I0",
+    "durationSec": 27340
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "VIT",
+    "played": true,
+    "score": "15-17",
+    "nRounds": 32
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "FUT",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "660386",
+  "eventId": "2863",
+  "teams": [
+   "Team Vitality",
+   "Team Heretics"
+  ],
+  "vods": [
+   {
+    "id": "9StmB4cjGuM",
+    "durationSec": 24900
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "VIT",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "TH",
+    "played": true,
+    "score": "13-15",
+    "nRounds": 28
+   },
+   {
+    "number": 3,
+    "name": "Pearl",
+    "pickBy": "VIT",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 4,
+    "name": "Split",
+    "pickBy": "TH",
+    "played": true,
+    "score": "13-15",
+    "nRounds": 28
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "660387",
+  "eventId": "2863",
+  "teams": [
+   "Team Heretics",
+   "BBL Esports"
+  ],
+  "vods": [
+   {
+    "id": "WfYNAsdm3xg",
+    "durationSec": 22485
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "BBL",
+    "played": true,
+    "score": "13-4",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "TH",
+    "played": true,
+    "score": "14-12",
+    "nRounds": 26
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "660388",
+  "eventId": "2863",
+  "teams": [
+   "Team Liquid",
+   "Gentle Mates"
+  ],
+  "vods": [
+   {
+    "id": "WfYNAsdm3xg",
+    "durationSec": 22485
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "M8",
+    "played": true,
+    "score": "13-4",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "TL",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "660389",
+  "eventId": "2863",
+  "teams": [
+   "FNATIC",
+   "Team Heretics"
+  ],
+  "vods": [
+   {
+    "id": "x8zPHSXmXyI",
+    "durationSec": 22085
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Fracture",
+    "pickBy": "TH",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "FNC",
+    "played": true,
+    "score": "2-13",
+    "nRounds": 15
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "660390",
+  "eventId": "2863",
+  "teams": [
+   "Eternal Fire",
+   "Gentle Mates"
+  ],
+  "vods": [
+   {
+    "id": "x8zPHSXmXyI",
+    "durationSec": 22085
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Ascent",
+    "pickBy": "M8",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "EF",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "660391",
+  "eventId": "2863",
+  "teams": [
+   "Team Heretics",
+   "Eternal Fire"
+  ],
+  "vods": [
+   {
+    "id": "nWM-3hZv0I0",
+    "durationSec": 27340
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "EF",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Fracture",
+    "pickBy": "TH",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "660392",
+  "eventId": "2863",
+  "teams": [
+   "FUT Esports",
+   "Team Heretics"
+  ],
+  "vods": [
+   {
+    "id": "bOCA0nIYY0Q",
+    "durationSec": 17320
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "FUT",
+    "played": true,
+    "score": "15-13",
+    "nRounds": 28
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "TH",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   },
+   {
+    "number": 3,
+    "name": "Ascent",
+    "pickBy": "FUT",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 4,
+    "name": "Breeze",
+    "pickBy": "TH",
+    "played": true,
+    "score": "1-13",
+    "nRounds": 14
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "642914",
+  "eventId": "2864",
+  "teams": [
+   "Titan Esports Club",
+   "All Gamers"
+  ],
+  "vods": [
+   {
+    "id": "hAU7mAAmz80",
+    "durationSec": 22746
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "TEC",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "AG",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "642916",
+  "eventId": "2864",
+  "teams": [
+   "Jdg Esports",
+   "Funplus Phoenix"
+  ],
+  "vods": [
+   {
+    "id": "wHPT8exHeSU",
+    "durationSec": 23570
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "JDG",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "FPX",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "642919",
+  "eventId": "2864",
+  "teams": [
+   "Bilibili Gaming",
+   "Tyloo"
+  ],
+  "vods": [
+   {
+    "id": "S6Rn9kwJPxw",
+    "durationSec": 23693
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Bind",
+    "pickBy": "TYL",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "BLG",
+    "played": true,
+    "score": "13-3",
+    "nRounds": 16
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "642921",
+  "eventId": "2864",
+  "teams": [
+   "Funplus Phoenix",
+   "All Gamers"
+  ],
+  "vods": [
+   {
+    "id": "B9ovjGyWyYo",
+    "durationSec": 19314
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "AG",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "FPX",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "642922",
+  "eventId": "2864",
+  "teams": [
+   "Tyloo",
+   "Titan Esports Club"
+  ],
+  "vods": [
+   {
+    "id": "Is7491aRuDw",
+    "durationSec": 20686
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "TYL",
+    "played": true,
+    "score": "15-13",
+    "nRounds": 28
+   },
+   {
+    "number": 2,
+    "name": "Fracture",
+    "pickBy": "TEC",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "642925",
+  "eventId": "2864",
+  "teams": [
+   "Bilibili Gaming",
+   "Jdg Esports"
+  ],
+  "vods": [
+   {
+    "id": "E-OlcQT-4WQ",
+    "durationSec": 7145
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "JDG",
+    "played": true,
+    "score": "13-4",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Fracture",
+    "pickBy": "BLG",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "642927",
+  "eventId": "2864",
+  "teams": [
+   "Funplus Phoenix",
+   "Tyloo"
+  ],
+  "vods": [
+   {
+    "id": "EgyXp0q8XIs",
+    "durationSec": 15896
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Bind",
+    "pickBy": "TYL",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "FPX",
+    "played": true,
+    "score": "14-12",
+    "nRounds": 26
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "642928",
+  "eventId": "2864",
+  "teams": [
+   "Titan Esports Club",
+   "Bilibili Gaming"
+  ],
+  "vods": [
+   {
+    "id": "W7v9WhMOAek",
+    "durationSec": 7367
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Fracture",
+    "pickBy": "BLG",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "TEC",
+    "played": true,
+    "score": "15-13",
+    "nRounds": 28
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "642931",
+  "eventId": "2864",
+  "teams": [
+   "Jdg Esports",
+   "All Gamers"
+  ],
+  "vods": [
+   {
+    "id": "2LpU_Wy3gyE",
+    "durationSec": 23315
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "JDG",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "AG",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "642934",
+  "eventId": "2864",
+  "teams": [
+   "Funplus Phoenix",
+   "Bilibili Gaming"
+  ],
+  "vods": [
+   {
+    "id": "rohS5moyP8k",
+    "durationSec": 23863
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "BLG",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Fracture",
+    "pickBy": "FPX",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "642935",
+  "eventId": "2864",
+  "teams": [
+   "All Gamers",
+   "Tyloo"
+  ],
+  "vods": [
+   {
+    "id": "gnorWtDGWmE",
+    "durationSec": 25114
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Bind",
+    "pickBy": "TYL",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "AG",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "642937",
+  "eventId": "2864",
+  "teams": [
+   "Jdg Esports",
+   "Titan Esports Club"
+  ],
+  "vods": [
+   {
+    "id": "npMlgZ1RvXU",
+    "durationSec": 24751
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Fracture",
+    "pickBy": "TEC",
+    "played": true,
+    "score": "14-12",
+    "nRounds": 26
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "JDG",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "642939",
+  "eventId": "2864",
+  "teams": [
+   "Tyloo",
+   "Jdg Esports"
+  ],
+  "vods": [
+   {
+    "id": "twcHMdFeaDc",
+    "durationSec": 25482
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Bind",
+    "pickBy": "TYL",
+    "played": true,
+    "score": "15-17",
+    "nRounds": 32
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "JDG",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "642941",
+  "eventId": "2864",
+  "teams": [
+   "Titan Esports Club",
+   "Funplus Phoenix"
+  ],
+  "vods": [
+   {
+    "id": "gXZa-wrVWB8",
+    "durationSec": 14892
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Fracture",
+    "pickBy": "FPX",
+    "played": true,
+    "score": "13-2",
+    "nRounds": 15
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "TEC",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "642942",
+  "eventId": "2864",
+  "teams": [
+   "All Gamers",
+   "Bilibili Gaming"
+  ],
+  "vods": [
+   {
+    "id": "gXZa-wrVWB8",
+    "durationSec": 14892
+   },
+   {
+    "id": "vnBXvbiZiJQ",
+    "durationSec": 5971
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "AG",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "BLG",
+    "played": true,
+    "score": "3-13",
+    "nRounds": 16
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "642915",
+  "eventId": "2864",
+  "teams": [
+   "Nova Esports",
+   "Edward Gaming"
+  ],
+  "vods": [
+   {
+    "id": "hAU7mAAmz80",
+    "durationSec": 22746
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Fracture",
+    "pickBy": "EDG",
+    "played": true,
+    "score": "2-13",
+    "nRounds": 15
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "NOVA",
+    "played": true,
+    "score": "3-13",
+    "nRounds": 16
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "642917",
+  "eventId": "2864",
+  "teams": [
+   "Dragon Ranger Gaming",
+   "Xi Lai Gaming"
+  ],
+  "vods": [
+   {
+    "id": "wHPT8exHeSU",
+    "durationSec": 23570
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "DRG",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "XLG",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "642918",
+  "eventId": "2864",
+  "teams": [
+   "Wolves Esports",
+   "Trace Esports"
+  ],
+  "vods": [
+   {
+    "id": "S6Rn9kwJPxw",
+    "durationSec": 23693
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "WOL",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "TE",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "642920",
+  "eventId": "2864",
+  "teams": [
+   "Dragon Ranger Gaming",
+   "Nova Esports"
+  ],
+  "vods": [
+   {
+    "id": "B9ovjGyWyYo",
+    "durationSec": 19314
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "DRG",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "NOVA",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "642923",
+  "eventId": "2864",
+  "teams": [
+   "Wolves Esports",
+   "Edward Gaming"
+  ],
+  "vods": [
+   {
+    "id": "Is7491aRuDw",
+    "durationSec": 20686
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Fracture",
+    "pickBy": "EDG",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "WOL",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "642924",
+  "eventId": "2864",
+  "teams": [
+   "Trace Esports",
+   "Xi Lai Gaming"
+  ],
+  "vods": [
+   {
+    "id": "Nm7CsZO9kws",
+    "durationSec": 11163
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "TE",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "XLG",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "642929",
+  "eventId": "2864",
+  "teams": [
+   "Xi Lai Gaming",
+   "Nova Esports"
+  ],
+  "vods": [
+   {
+    "id": "GCpaFmE3w9o",
+    "durationSec": 20269
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "NOVA",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "XLG",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "642930",
+  "eventId": "2864",
+  "teams": [
+   "Edward Gaming",
+   "Trace Esports"
+  ],
+  "vods": [
+   {
+    "id": "GCpaFmE3w9o",
+    "durationSec": 20269
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "TE",
+    "played": true,
+    "score": "13-4",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "EDG",
+    "played": true,
+    "score": "14-12",
+    "nRounds": 26
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "642932",
+  "eventId": "2864",
+  "teams": [
+   "Dragon Ranger Gaming",
+   "Wolves Esports"
+  ],
+  "vods": [
+   {
+    "id": "2LpU_Wy3gyE",
+    "durationSec": 23315
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "DRG",
+    "played": true,
+    "score": "13-1",
+    "nRounds": 14
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "WOL",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "642933",
+  "eventId": "2864",
+  "teams": [
+   "Nova Esports",
+   "Trace Esports"
+  ],
+  "vods": [
+   {
+    "id": "rohS5moyP8k",
+    "durationSec": 23863
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "NOVA",
+    "played": true,
+    "score": "12-14",
+    "nRounds": 26
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "TE",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "642936",
+  "eventId": "2864",
+  "teams": [
+   "Edward Gaming",
+   "Dragon Ranger Gaming"
+  ],
+  "vods": [
+   {
+    "id": "gnorWtDGWmE",
+    "durationSec": 25114
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "DRG",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "EDG",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "642938",
+  "eventId": "2864",
+  "teams": [
+   "Xi Lai Gaming",
+   "Wolves Esports"
+  ],
+  "vods": [
+   {
+    "id": "npMlgZ1RvXU",
+    "durationSec": 24751
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Fracture",
+    "pickBy": "WOL",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "XLG",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "642940",
+  "eventId": "2864",
+  "teams": [
+   "Trace Esports",
+   "Dragon Ranger Gaming"
+  ],
+  "vods": [
+   {
+    "id": "twcHMdFeaDc",
+    "durationSec": 25482
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "DRG",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "TE",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "642943",
+  "eventId": "2864",
+  "teams": [
+   "Nova Esports",
+   "Wolves Esports"
+  ],
+  "vods": [
+   {
+    "id": "NCmvTYoD8xk",
+    "durationSec": 22686
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "NOVA",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Fracture",
+    "pickBy": "WOL",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "642944",
+  "eventId": "2864",
+  "teams": [
+   "Edward Gaming",
+   "Xi Lai Gaming"
+  ],
+  "vods": [
+   {
+    "id": "NCmvTYoD8xk",
+    "durationSec": 22686
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "XLG",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "EDG",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "659474",
+  "eventId": "2864",
+  "teams": [
+   "Xi Lai Gaming",
+   "Titan Esports Club"
+  ],
+  "vods": [
+   {
+    "id": "UPDMu0ND-m8",
+    "durationSec": 23450
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "TEC",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "XLG",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "659475",
+  "eventId": "2864",
+  "teams": [
+   "JD Gaming",
+   "TYLOO"
+  ],
+  "vods": [
+   {
+    "id": "UPDMu0ND-m8",
+    "durationSec": 23450
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "JDG",
+    "played": true,
+    "score": "13-2",
+    "nRounds": 15
+   },
+   {
+    "number": 2,
+    "name": "Fracture",
+    "pickBy": "TYL",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "659476",
+  "eventId": "2864",
+  "teams": [
+   "All Gamers",
+   "Trace Esports"
+  ],
+  "vods": [
+   {
+    "id": "GRlBGIpNM98",
+    "durationSec": 22348
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "TE",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "AG",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "659477",
+  "eventId": "2864",
+  "teams": [
+   "EDward Gaming",
+   "Dragon Ranger Gaming"
+  ],
+  "vods": [
+   {
+    "id": "GRlBGIpNM98",
+    "durationSec": 22348
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "DRG",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "EDG",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "659478",
+  "eventId": "2864",
+  "teams": [
+   "Xi Lai Gaming",
+   "JD Gaming"
+  ],
+  "vods": [
+   {
+    "id": "-MpeAUHQTRc",
+    "durationSec": 18694
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "XLG",
+    "played": true,
+    "score": "13-0",
+    "nRounds": 13
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "JDG",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "659479",
+  "eventId": "2864",
+  "teams": [
+   "All Gamers",
+   "EDward Gaming"
+  ],
+  "vods": [
+   {
+    "id": "-MpeAUHQTRc",
+    "durationSec": 18694
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Fracture",
+    "pickBy": "EDG",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "AG",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "659480",
+  "eventId": "2864",
+  "teams": [
+   "Xi Lai Gaming",
+   "EDward Gaming"
+  ],
+  "vods": [
+   {
+    "id": "W8JO9TkwJCs",
+    "durationSec": 23504
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "XLG",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "EDG",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "659481",
+  "eventId": "2864",
+  "teams": [
+   "EDward Gaming",
+   "Xi Lai Gaming"
+  ],
+  "vods": [
+   {
+    "id": "qT4EigoZHY8",
+    "durationSec": 30291
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Fracture",
+    "pickBy": "EDG",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "XLG",
+    "played": true,
+    "score": "15-13",
+    "nRounds": 28
+   },
+   {
+    "number": 3,
+    "name": "Breeze",
+    "pickBy": "EDG",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   },
+   {
+    "number": 4,
+    "name": "Haven",
+    "pickBy": "XLG",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "659482",
+  "eventId": "2864",
+  "teams": [
+   "Titan Esports Club",
+   "TYLOO"
+  ],
+  "vods": [
+   {
+    "id": "d9N_ClORDDU",
+    "durationSec": 23376
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "TEC",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Fracture",
+    "pickBy": "TYL",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "659483",
+  "eventId": "2864",
+  "teams": [
+   "Trace Esports",
+   "Dragon Ranger Gaming"
+  ],
+  "vods": [
+   {
+    "id": "d9N_ClORDDU",
+    "durationSec": 23376
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Ascent",
+    "pickBy": "TE",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "DRG",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "659484",
+  "eventId": "2864",
+  "teams": [
+   "All Gamers",
+   "TYLOO"
+  ],
+  "vods": [
+   {
+    "id": "T4kz9TEaUI4",
+    "durationSec": 23629
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Fracture",
+    "pickBy": "TYL",
+    "played": true,
+    "score": "13-4",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "AG",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "659485",
+  "eventId": "2864",
+  "teams": [
+   "JD Gaming",
+   "Dragon Ranger Gaming"
+  ],
+  "vods": [
+   {
+    "id": "T4kz9TEaUI4",
+    "durationSec": 23629
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "JDG",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "DRG",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "659486",
+  "eventId": "2864",
+  "teams": [
+   "All Gamers",
+   "Dragon Ranger Gaming"
+  ],
+  "vods": [
+   {
+    "id": "W8JO9TkwJCs",
+    "durationSec": 23504
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "DRG",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "AG",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "659487",
+  "eventId": "2864",
+  "teams": [
+   "Xi Lai Gaming",
+   "Dragon Ranger Gaming"
+  ],
+  "vods": [
+   {
+    "id": "sTJtDuSMKv4",
+    "durationSec": 17866
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "DRG",
+    "played": true,
+    "score": "13-2",
+    "nRounds": 15
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "XLG",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   },
+   {
+    "number": 3,
+    "name": "Haven",
+    "pickBy": "DRG",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 4,
+    "name": "Split",
+    "pickBy": "XLG",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "698884",
+  "eventId": "2776",
+  "teams": [
+   "Gen G",
+   "Zeta Division"
+  ],
+  "vods": [
+   {
+    "id": "lD4j-0j2aRo",
+    "durationSec": 26870
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Ascent",
+    "pickBy": "ZETA",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "GEN",
+    "played": true,
+    "score": "16-14",
+    "nRounds": 30
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "698886",
+  "eventId": "2776",
+  "teams": [
+   "Full Sense",
+   "Nongshim Redforce"
+  ],
+  "vods": [
+   {
+    "id": "65ws4w7oWMA",
+    "durationSec": 25044
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "FS",
+    "played": true,
+    "score": "3-13",
+    "nRounds": 16
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "NS",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "698888",
+  "eventId": "2776",
+  "teams": [
+   "Rex Regum Qeon",
+   "Global Esports"
+  ],
+  "vods": [
+   {
+    "id": "G55rgXKLZeY",
+    "durationSec": 26914
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Sunset",
+    "pickBy": "RRQ",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Summit",
+    "pickBy": "GE",
+    "played": true,
+    "score": "14-16",
+    "nRounds": 30
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "698890",
+  "eventId": "2776",
+  "teams": [
+   "Nongshim Redforce",
+   "Gen G"
+  ],
+  "vods": [
+   {
+    "id": "nryFkAz-Qmc",
+    "durationSec": 21508
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "NS",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "GEN",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "698892",
+  "eventId": "2776",
+  "teams": [
+   "Global Esports",
+   "Full Sense"
+  ],
+  "vods": [
+   {
+    "id": "NTvT07LERYQ",
+    "durationSec": 19212
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Ascent",
+    "pickBy": "FS",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Summit",
+    "pickBy": "GE",
+    "played": true,
+    "score": "13-3",
+    "nRounds": 16
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "698894",
+  "eventId": "2776",
+  "teams": [
+   "Rex Regum Qeon",
+   "Zeta Division"
+  ],
+  "vods": [
+   {
+    "id": "dyvlNtPYTSA",
+    "durationSec": 21472
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "RRQ",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "ZETA",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "698897",
+  "eventId": "2776",
+  "teams": [
+   "Nongshim Redforce",
+   "Global Esports"
+  ],
+  "vods": [
+   {
+    "id": "5zyOrpxOaFs",
+    "durationSec": 20314
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Ascent",
+    "pickBy": "GE",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "NS",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "698901",
+  "eventId": "2776",
+  "teams": [
+   "Gen G",
+   "Rex Regum Qeon"
+  ],
+  "vods": [
+   {
+    "id": "mDYgcbedn7Q",
+    "durationSec": 21884
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "RRQ",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Summit",
+    "pickBy": "GEN",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "698903",
+  "eventId": "2776",
+  "teams": [
+   "Full Sense",
+   "Zeta Division"
+  ],
+  "vods": [
+   {
+    "id": "FUjzscGQfX4",
+    "durationSec": 28794
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "ZETA",
+    "played": true,
+    "score": "14-12",
+    "nRounds": 26
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "FS",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "698905",
+  "eventId": "2776",
+  "teams": [
+   "Global Esports",
+   "Gen G"
+  ],
+  "vods": [
+   {
+    "id": "TKi5srwaBwk",
+    "durationSec": 24216
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "GE",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "GEN",
+    "played": true,
+    "score": "12-14",
+    "nRounds": 26
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "698907",
+  "eventId": "2776",
+  "teams": [
+   "Full Sense",
+   "Rex Regum Qeon"
+  ],
+  "vods": [
+   {
+    "id": "beldPCfRSrA",
+    "durationSec": 26712
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Summit",
+    "pickBy": "FS",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "RRQ",
+    "played": true,
+    "score": "13-4",
+    "nRounds": 17
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "698909",
+  "eventId": "2776",
+  "teams": [
+   "Zeta Division",
+   "Nongshim Redforce"
+  ],
+  "vods": [
+   {
+    "id": "3vh8LvBpips",
+    "durationSec": 25976
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Sunset",
+    "pickBy": "ZETA",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "NS",
+    "played": true,
+    "score": "13-15",
+    "nRounds": 28
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "698911",
+  "eventId": "2776",
+  "teams": [
+   "Gen G",
+   "Full Sense"
+  ],
+  "vods": [
+   {
+    "id": "dsaXsVUVuvI",
+    "durationSec": 23268
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "GEN",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "FS",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "698913",
+  "eventId": "2776",
+  "teams": [
+   "Global Esports",
+   "Zeta Division"
+  ],
+  "vods": [
+   {
+    "id": "ufwgNrVyuIU",
+    "durationSec": 19186
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "GE",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "ZETA",
+    "played": true,
+    "score": "14-12",
+    "nRounds": 26
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "698915",
+  "eventId": "2776",
+  "teams": [
+   "Nongshim Redforce",
+   "Rex Regum Qeon"
+  ],
+  "vods": [
+   {
+    "id": "UFgbrg_pGas",
+    "durationSec": 23470
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "NS",
+    "played": true,
+    "score": "12-14",
+    "nRounds": 26
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "RRQ",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "698885",
+  "eventId": "2776",
+  "teams": [
+   "Team Secret",
+   "Varrel"
+  ],
+  "vods": [
+   {
+    "id": "lD4j-0j2aRo",
+    "durationSec": 26870
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "VL",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "TS",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "698887",
+  "eventId": "2776",
+  "teams": [
+   "Kiwoom Drx",
+   "Detonation Focusme"
+  ],
+  "vods": [
+   {
+    "id": "65ws4w7oWMA",
+    "durationSec": 25044
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "DFM",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "KRX",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "698889",
+  "eventId": "2776",
+  "teams": [
+   "Paper Rex",
+   "T1"
+  ],
+  "vods": [
+   {
+    "id": "G55rgXKLZeY",
+    "durationSec": 26914
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Sunset",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "12-14",
+    "nRounds": 26
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "T1",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "698891",
+  "eventId": "2776",
+  "teams": [
+   "Kiwoom Drx",
+   "Team Secret"
+  ],
+  "vods": [
+   {
+    "id": "nryFkAz-Qmc",
+    "durationSec": 21508
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Sunset",
+    "pickBy": "KRX",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "TS",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "698893",
+  "eventId": "2776",
+  "teams": [
+   "T1",
+   "Varrel"
+  ],
+  "vods": [
+   {
+    "id": "NTvT07LERYQ",
+    "durationSec": 19212
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "VL",
+    "played": true,
+    "score": "12-14",
+    "nRounds": 26
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "T1",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "698895",
+  "eventId": "2776",
+  "teams": [
+   "Detonation Focusme",
+   "Paper Rex"
+  ],
+  "vods": [
+   {
+    "id": "dyvlNtPYTSA",
+    "durationSec": 21472
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Summit",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "DFM",
+    "played": true,
+    "score": "15-17",
+    "nRounds": 32
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "698898",
+  "eventId": "2776",
+  "teams": [
+   "Team Secret",
+   "T1"
+  ],
+  "vods": [
+   {
+    "id": "5zyOrpxOaFs",
+    "durationSec": 20314
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Ascent",
+    "pickBy": "T1",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "TS",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "698899",
+  "eventId": "2776",
+  "teams": [
+   "Paper Rex",
+   "Kiwoom Drx"
+  ],
+  "vods": [
+   {
+    "id": "mDYgcbedn7Q",
+    "durationSec": 21884
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Summit",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "13-1",
+    "nRounds": 14
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "KRX",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "698902",
+  "eventId": "2776",
+  "teams": [
+   "Varrel",
+   "Detonation Focusme"
+  ],
+  "vods": [
+   {
+    "id": "FUjzscGQfX4",
+    "durationSec": 28794
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "VL",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "DFM",
+    "played": true,
+    "score": "13-15",
+    "nRounds": 28
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "698904",
+  "eventId": "2776",
+  "teams": [
+   "Team Secret",
+   "Paper Rex"
+  ],
+  "vods": [
+   {
+    "id": "TKi5srwaBwk",
+    "durationSec": 24216
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Summit",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "TS",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "698906",
+  "eventId": "2776",
+  "teams": [
+   "T1",
+   "Detonation Focusme"
+  ],
+  "vods": [
+   {
+    "id": "beldPCfRSrA",
+    "durationSec": 26712
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Sunset",
+    "pickBy": "T1",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "DFM",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "698908",
+  "eventId": "2776",
+  "teams": [
+   "Varrel",
+   "Kiwoom Drx"
+  ],
+  "vods": [
+   {
+    "id": "3vh8LvBpips",
+    "durationSec": 25976
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Summit",
+    "pickBy": "VL",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "KRX",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "698910",
+  "eventId": "2776",
+  "teams": [
+   "Team Secret",
+   "Detonation Focusme"
+  ],
+  "vods": [
+   {
+    "id": "dsaXsVUVuvI",
+    "durationSec": 23268
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "TS",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "DFM",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "698912",
+  "eventId": "2776",
+  "teams": [
+   "Kiwoom Drx",
+   "T1"
+  ],
+  "vods": [
+   {
+    "id": "ufwgNrVyuIU",
+    "durationSec": 19186
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "KRX",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "T1",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "698914",
+  "eventId": "2776",
+  "teams": [
+   "Varrel",
+   "Paper Rex"
+  ],
+  "vods": [
+   {
+    "id": "UFgbrg_pGas",
+    "durationSec": 23470
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "VL",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "742476",
+  "eventId": "2776",
+  "teams": [
+   "Paper Rex",
+   "Nongshim RedForce"
+  ],
+  "vods": [
+   {
+    "id": "xiGdE6rVkKE",
+    "durationSec": 23434
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "NS",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "742477",
+  "eventId": "2776",
+  "teams": [
+   "Global Esports",
+   "KIWOOM DRX"
+  ],
+  "vods": [
+   {
+    "id": "xiGdE6rVkKE",
+    "durationSec": 23434
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "KRX",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "GE",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "742478",
+  "eventId": "2776",
+  "teams": [
+   "Gen.G",
+   "Nongshim RedForce"
+  ],
+  "vods": [
+   {
+    "id": "zk7SEaTZw_Q",
+    "durationSec": 22836
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Ascent",
+    "pickBy": "NS",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Summit",
+    "pickBy": "GEN",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "742479",
+  "eventId": "2776",
+  "teams": [
+   "VARREL",
+   "Global Esports"
+  ],
+  "vods": [
+   {
+    "id": "zk7SEaTZw_Q",
+    "durationSec": 22836
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "VL",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Summit",
+    "pickBy": "GE",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "742480",
+  "eventId": "2776",
+  "teams": [
+   "Nongshim RedForce",
+   "Global Esports"
+  ],
+  "vods": [
+   {
+    "id": "BOW_qTF2yes",
+    "durationSec": 22418
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "NS",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "GE",
+    "played": true,
+    "score": "12-14",
+    "nRounds": 26
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "742481",
+  "eventId": "2776",
+  "teams": [
+   "Nongshim RedForce",
+   "Global Esports"
+  ],
+  "vods": [
+   {
+    "id": "pef7IBjqN1U",
+    "durationSec": 21974
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Sunset",
+    "pickBy": "NS",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "GE",
+    "played": true,
+    "score": "13-2",
+    "nRounds": 15
+   },
+   {
+    "number": 3,
+    "name": "Abyss",
+    "pickBy": "NS",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 4,
+    "name": "Lotus",
+    "pickBy": "GE",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "742482",
+  "eventId": "2776",
+  "teams": [
+   "Paper Rex",
+   "ONSIDE GAMING"
+  ],
+  "vods": [
+   {
+    "id": "zUb4epIvN9s",
+    "durationSec": 19410
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "ONG",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "742483",
+  "eventId": "2776",
+  "teams": [
+   "KIWOOM DRX",
+   "T1"
+  ],
+  "vods": [
+   {
+    "id": "zUb4epIvN9s",
+    "durationSec": 19410
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "T1",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Abyss",
+    "pickBy": "KRX",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "742484",
+  "eventId": "2776",
+  "teams": [
+   "VARREL",
+   "Paper Rex"
+  ],
+  "vods": [
+   {
+    "id": "5b5x2btGmQw",
+    "durationSec": 24870
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "VL",
+    "played": true,
+    "score": "13-15",
+    "nRounds": 28
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "742485",
+  "eventId": "2776",
+  "teams": [
+   "Gen.G",
+   "T1"
+  ],
+  "vods": [
+   {
+    "id": "5b5x2btGmQw",
+    "durationSec": 24870
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "T1",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "GEN",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "742486",
+  "eventId": "2776",
+  "teams": [
+   "VARREL",
+   "T1"
+  ],
+  "vods": [
+   {
+    "id": "BOW_qTF2yes",
+    "durationSec": 22418
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "VL",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "T1",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "742487",
+  "eventId": "2776",
+  "teams": [
+   "Global Esports",
+   "T1"
+  ],
+  "vods": [
+   {
+    "id": "0-rCgacITXA",
+    "durationSec": 17810
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "GE",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "T1",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 3,
+    "name": "Ascent",
+    "pickBy": "GE",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   },
+   {
+    "number": 4,
+    "name": "Haven",
+    "pickBy": "T1",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "712803",
+  "eventId": "2976",
+  "teams": [
+   "Fut Esports",
+   "Natus Vincere"
+  ],
+  "vods": [
+   {
+    "id": "XqJSe5GRpNY",
+    "durationSec": 15965
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "NAVI",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "FUT",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "712806",
+  "eventId": "2976",
+  "teams": [
+   "Pcific Esports",
+   "Gentle Mates"
+  ],
+  "vods": [
+   {
+    "id": "DGtFZHSCoSc",
+    "durationSec": 20275
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "PCF",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "M8",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "712808",
+  "eventId": "2976",
+  "teams": [
+   "Team Vitality",
+   "Natus Vincere"
+  ],
+  "vods": [
+   {
+    "id": "0su4MYVOBo8",
+    "durationSec": 21280
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Sunset",
+    "pickBy": "NAVI",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "VIT",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "712809",
+  "eventId": "2976",
+  "teams": [
+   "Gentle Mates",
+   "Fut Esports"
+  ],
+  "vods": [
+   {
+    "id": "Jf4I3Qu8CHM",
+    "durationSec": 18585
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Sunset",
+    "pickBy": "M8",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "FUT",
+    "played": true,
+    "score": "12-14",
+    "nRounds": 26
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "712812",
+  "eventId": "2976",
+  "teams": [
+   "Team Vitality",
+   "Bbl Esports"
+  ],
+  "vods": [
+   {
+    "id": "CUjDMA_CUEQ",
+    "durationSec": 17970
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "BBL",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "VIT",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "712814",
+  "eventId": "2976",
+  "teams": [
+   "Fut Esports",
+   "Pcific Esports"
+  ],
+  "vods": [
+   {
+    "id": "Kb6915YBlf0",
+    "durationSec": 26935
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "PCF",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "FUT",
+    "played": true,
+    "score": "12-14",
+    "nRounds": 26
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "712817",
+  "eventId": "2976",
+  "teams": [
+   "Gentle Mates",
+   "Natus Vincere"
+  ],
+  "vods": [
+   {
+    "id": "z6LHYb9eTUI",
+    "durationSec": 18165
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Sunset",
+    "pickBy": "NAVI",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "M8",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "712818",
+  "eventId": "2976",
+  "teams": [
+   "Fut Esports",
+   "Bbl Esports"
+  ],
+  "vods": [
+   {
+    "id": "05AL8b9bhP8",
+    "durationSec": 20330
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "BBL",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "FUT",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "712820",
+  "eventId": "2976",
+  "teams": [
+   "Pcific Esports",
+   "Team Vitality"
+  ],
+  "vods": [
+   {
+    "id": "6CRbjVAKqDU",
+    "durationSec": 16290
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "VIT",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "PCF",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "712822",
+  "eventId": "2976",
+  "teams": [
+   "Bbl Esports",
+   "Natus Vincere"
+  ],
+  "vods": [
+   {
+    "id": "jY0uDMKlBd0",
+    "durationSec": 19325
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "BBL",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "NAVI",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "712825",
+  "eventId": "2976",
+  "teams": [
+   "Gentle Mates",
+   "Team Vitality"
+  ],
+  "vods": [
+   {
+    "id": "Li13uvkpoLQ",
+    "durationSec": 22055
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "M8",
+    "played": true,
+    "score": "16-14",
+    "nRounds": 30
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "VIT",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "712826",
+  "eventId": "2976",
+  "teams": [
+   "Natus Vincere",
+   "Pcific Esports"
+  ],
+  "vods": [
+   {
+    "id": "fp_wl0rvjyQ",
+    "durationSec": 18450
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Ascent",
+    "pickBy": "NAVI",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Summit",
+    "pickBy": "PCF",
+    "played": true,
+    "score": "14-12",
+    "nRounds": 26
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "712828",
+  "eventId": "2976",
+  "teams": [
+   "Bbl Esports",
+   "Gentle Mates"
+  ],
+  "vods": [
+   {
+    "id": "nrQBo6E6RVU",
+    "durationSec": 24880
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "BBL",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "M8",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "712830",
+  "eventId": "2976",
+  "teams": [
+   "Fut Esports",
+   "Team Vitality"
+  ],
+  "vods": [
+   {
+    "id": "rUqBBfl8bkE",
+    "durationSec": 24285
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "VIT",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "FUT",
+    "played": true,
+    "score": "14-12",
+    "nRounds": 26
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "712832",
+  "eventId": "2976",
+  "teams": [
+   "Bbl Esports",
+   "Pcific Esports"
+  ],
+  "vods": [
+   {
+    "id": "FDTYBH3ECs0",
+    "durationSec": 21460
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Sunset",
+    "pickBy": "BBL",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "PCF",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "712804",
+  "eventId": "2976",
+  "teams": [
+   "Team Liquid",
+   "Eternal Fire"
+  ],
+  "vods": [
+   {
+    "id": "XqJSe5GRpNY",
+    "durationSec": 15965
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "TL",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "EF",
+    "played": true,
+    "score": "2-13",
+    "nRounds": 15
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "712805",
+  "eventId": "2976",
+  "teams": [
+   "Fnatic",
+   "Giantx"
+  ],
+  "vods": [
+   {
+    "id": "DGtFZHSCoSc",
+    "durationSec": 20275
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Ascent",
+    "pickBy": "GX",
+    "played": true,
+    "score": "15-13",
+    "nRounds": 28
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "FNC",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "712807",
+  "eventId": "2976",
+  "teams": [
+   "Karmine Corp",
+   "Eternal Fire"
+  ],
+  "vods": [
+   {
+    "id": "0su4MYVOBo8",
+    "durationSec": 21280
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Sunset",
+    "pickBy": "KC",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "EF",
+    "played": true,
+    "score": "15-13",
+    "nRounds": 28
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "712810",
+  "eventId": "2976",
+  "teams": [
+   "Team Heretics",
+   "Team Liquid"
+  ],
+  "vods": [
+   {
+    "id": "Jf4I3Qu8CHM",
+    "durationSec": 18585
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "TL",
+    "played": true,
+    "score": "12-14",
+    "nRounds": 26
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "TH",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "712811",
+  "eventId": "2976",
+  "teams": [
+   "Giantx",
+   "Karmine Corp"
+  ],
+  "vods": [
+   {
+    "id": "CUjDMA_CUEQ",
+    "durationSec": 17970
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "KC",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "GX",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "712815",
+  "eventId": "2976",
+  "teams": [
+   "Fnatic",
+   "Karmine Corp"
+  ],
+  "vods": [
+   {
+    "id": "Kb6915YBlf0",
+    "durationSec": 26935
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Summit",
+    "pickBy": "KC",
+    "played": true,
+    "score": "16-14",
+    "nRounds": 30
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "FNC",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "712816",
+  "eventId": "2976",
+  "teams": [
+   "Eternal Fire",
+   "Team Heretics"
+  ],
+  "vods": [
+   {
+    "id": "z6LHYb9eTUI",
+    "durationSec": 18165
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "EF",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "TH",
+    "played": true,
+    "score": "0-13",
+    "nRounds": 13
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "712819",
+  "eventId": "2976",
+  "teams": [
+   "Team Liquid",
+   "Fnatic"
+  ],
+  "vods": [
+   {
+    "id": "05AL8b9bhP8",
+    "durationSec": 20330
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Summit",
+    "pickBy": "TL",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "FNC",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "712821",
+  "eventId": "2976",
+  "teams": [
+   "Eternal Fire",
+   "Giantx"
+  ],
+  "vods": [
+   {
+    "id": "6CRbjVAKqDU",
+    "durationSec": 16290
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "GX",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "EF",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "712823",
+  "eventId": "2976",
+  "teams": [
+   "Team Heretics",
+   "Karmine Corp"
+  ],
+  "vods": [
+   {
+    "id": "jY0uDMKlBd0",
+    "durationSec": 19325
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Sunset",
+    "pickBy": "KC",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "TH",
+    "played": true,
+    "score": "2-13",
+    "nRounds": 15
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "712824",
+  "eventId": "2976",
+  "teams": [
+   "Giantx",
+   "Team Liquid"
+  ],
+  "vods": [
+   {
+    "id": "Li13uvkpoLQ",
+    "durationSec": 22055
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "TL",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "GX",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "712827",
+  "eventId": "2976",
+  "teams": [
+   "Eternal Fire",
+   "Fnatic"
+  ],
+  "vods": [
+   {
+    "id": "fp_wl0rvjyQ",
+    "durationSec": 18450
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Summit",
+    "pickBy": "EF",
+    "played": true,
+    "score": "16-14",
+    "nRounds": 30
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "FNC",
+    "played": true,
+    "score": "13-4",
+    "nRounds": 17
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "712829",
+  "eventId": "2976",
+  "teams": [
+   "Giantx",
+   "Team Heretics"
+  ],
+  "vods": [
+   {
+    "id": "nrQBo6E6RVU",
+    "durationSec": 24880
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "TH",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "GX",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "712831",
+  "eventId": "2976",
+  "teams": [
+   "Karmine Corp",
+   "Team Liquid"
+  ],
+  "vods": [
+   {
+    "id": "rUqBBfl8bkE",
+    "durationSec": 24285
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "KC",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Summit",
+    "pickBy": "TL",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "712833",
+  "eventId": "2976",
+  "teams": [
+   "Fnatic",
+   "Team Heretics"
+  ],
+  "vods": [
+   {
+    "id": "FDTYBH3ECs0",
+    "durationSec": 21460
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Summit",
+    "pickBy": "FNC",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "TH",
+    "played": true,
+    "score": "0-13",
+    "nRounds": 13
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "731396",
+  "eventId": "2976",
+  "teams": [
+   "Team Liquid",
+   "FUT Esports"
+  ],
+  "vods": [
+   {
+    "id": "2C7mKxPzWgY",
+    "durationSec": 20680
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "FUT",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Summit",
+    "pickBy": "TL",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "731397",
+  "eventId": "2976",
+  "teams": [
+   "Team Vitality",
+   "Enterprise Esports"
+  ],
+  "vods": [
+   {
+    "id": "2C7mKxPzWgY",
+    "durationSec": 20680
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Summit",
+    "pickBy": "EP",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Abyss",
+    "pickBy": "VIT",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "731398",
+  "eventId": "2976",
+  "teams": [
+   "BBL Esports",
+   "FUT Esports"
+  ],
+  "vods": [
+   {
+    "id": "Uhf7b4fmheE",
+    "durationSec": 23425
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Summit",
+    "pickBy": "BBL",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "FUT",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "731399",
+  "eventId": "2976",
+  "teams": [
+   "Karmine Corp",
+   "Enterprise Esports"
+  ],
+  "vods": [
+   {
+    "id": "Uhf7b4fmheE",
+    "durationSec": 23425
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "KC",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Abyss",
+    "pickBy": "EP",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "731400",
+  "eventId": "2976",
+  "teams": [
+   "FUT Esports",
+   "Karmine Corp"
+  ],
+  "vods": [
+   {
+    "id": "xz72AAu_Q5A",
+    "durationSec": 20190
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "KC",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "FUT",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "731401",
+  "eventId": "2976",
+  "teams": [
+   "Karmine Corp",
+   "Team Liquid"
+  ],
+  "vods": [
+   {
+    "id": "nGEeNT4zUeg",
+    "durationSec": 20500
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Sunset",
+    "pickBy": "KC",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "TL",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   },
+   {
+    "number": 3,
+    "name": "Lotus",
+    "pickBy": "KC",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 4,
+    "name": "Summit",
+    "pickBy": "TL",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "731402",
+  "eventId": "2976",
+  "teams": [
+   "Team Liquid",
+   "Eintracht Frankfurt"
+  ],
+  "vods": [
+   {
+    "id": "GX2k1UPcyQo",
+    "durationSec": 22410
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "SGE",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "TL",
+    "played": true,
+    "score": "13-1",
+    "nRounds": 14
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "731403",
+  "eventId": "2976",
+  "teams": [
+   "Team Vitality",
+   "Fire Flux Esports"
+  ],
+  "vods": [
+   {
+    "id": "GX2k1UPcyQo",
+    "durationSec": 22410
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "FF",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "VIT",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "731404",
+  "eventId": "2976",
+  "teams": [
+   "Enterprise Esports",
+   "Team Liquid"
+  ],
+  "vods": [
+   {
+    "id": "XcxrGXFLiZw",
+    "durationSec": 18380
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "EP",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Abyss",
+    "pickBy": "TL",
+    "played": true,
+    "score": "12-14",
+    "nRounds": 26
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "731406",
+  "eventId": "2976",
+  "teams": [
+   "BBL Esports",
+   "Fire Flux Esports"
+  ],
+  "vods": [
+   {
+    "id": "XcxrGXFLiZw",
+    "durationSec": 18380
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "FF",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Summit",
+    "pickBy": "BBL",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "731407",
+  "eventId": "2976",
+  "teams": [
+   "Team Liquid",
+   "Fire Flux Esports"
+  ],
+  "vods": [
+   {
+    "id": "xz72AAu_Q5A",
+    "durationSec": 20190
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "FF",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "TL",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "731408",
+  "eventId": "2976",
+  "teams": [
+   "FUT Esports",
+   "Team Liquid"
+  ],
+  "vods": [
+   {
+    "id": "qWuLVxGLFoo",
+    "durationSec": 17620
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "TL",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "FUT",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   },
+   {
+    "number": 3,
+    "name": "Lotus",
+    "pickBy": "TL",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 4,
+    "name": "Sunset",
+    "pickBy": "FUT",
+    "played": false
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "706349",
+  "eventId": "2977",
+  "teams": [
+   "LEVIATÁN",
+   "FURIA"
+  ],
+  "vods": [
+   {
+    "id": "TxcxAoH4tPA",
+    "durationSec": 9012
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "FUR",
+    "played": true,
+    "score": "1-13",
+    "nRounds": 14
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "706351",
+  "eventId": "2977",
+  "teams": [
+   "Envy",
+   "Evil Geniuses"
+  ],
+  "vods": [
+   {
+    "id": "YysBiH4bddU",
+    "durationSec": 5801
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Ascent",
+    "pickBy": "ENVY",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "EG",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "706354",
+  "eventId": "2977",
+  "teams": [
+   "NRG",
+   "MIBR"
+  ],
+  "vods": [
+   {
+    "id": "jYRLSnJKKUo",
+    "durationSec": 8502
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Sunset",
+    "pickBy": "MIBR",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "706355",
+  "eventId": "2977",
+  "teams": [
+   "Evil Geniuses",
+   "LEVIATÁN"
+  ],
+  "vods": [
+   {
+    "id": "MjdwDrIDKcI",
+    "durationSec": 14620
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "EG",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "706356",
+  "eventId": "2977",
+  "teams": [
+   "Envy",
+   "MIBR"
+  ],
+  "vods": [
+   {
+    "id": "MjdwDrIDKcI",
+    "durationSec": 14620
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "ENVY",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "MIBR",
+    "played": true,
+    "score": "3-13",
+    "nRounds": 16
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "706357",
+  "eventId": "2977",
+  "teams": [
+   "FURIA",
+   "NRG"
+  ],
+  "vods": [
+   {
+    "id": "grqFAnvh_vU",
+    "durationSec": 6837
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "12-14",
+    "nRounds": 26
+   },
+   {
+    "number": 2,
+    "name": "Summit",
+    "pickBy": "FUR",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "706361",
+  "eventId": "2977",
+  "teams": [
+   "Envy",
+   "LEVIATÁN"
+  ],
+  "vods": [
+   {
+    "id": "BAFRt5EfZ6E",
+    "durationSec": 4631
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Summit",
+    "pickBy": "ENVY",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "706362",
+  "eventId": "2977",
+  "teams": [
+   "FURIA",
+   "MIBR"
+  ],
+  "vods": [
+   {
+    "id": "YX2rYuQxvJQ",
+    "durationSec": 6249
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "MIBR",
+    "played": true,
+    "score": "12-14",
+    "nRounds": 26
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "FUR",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "706367",
+  "eventId": "2977",
+  "teams": [
+   "Evil Geniuses",
+   "MIBR"
+  ],
+  "vods": [
+   {
+    "id": "fR7yhg3Sy14",
+    "durationSec": 5351
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "MIBR",
+    "played": true,
+    "score": "12-14",
+    "nRounds": 26
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "EG",
+    "played": true,
+    "score": "2-13",
+    "nRounds": 15
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "706368",
+  "eventId": "2977",
+  "teams": [
+   "Envy",
+   "FURIA"
+  ],
+  "vods": [
+   {
+    "id": "urWZukn4YI4",
+    "durationSec": 27980
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "ENVY",
+    "played": true,
+    "score": "15-17",
+    "nRounds": 32
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "FUR",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "706369",
+  "eventId": "2977",
+  "teams": [
+   "LEVIATÁN",
+   "NRG"
+  ],
+  "vods": [
+   {
+    "id": "urWZukn4YI4",
+    "durationSec": 27980
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Summit",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "706372",
+  "eventId": "2977",
+  "teams": [
+   "Evil Geniuses",
+   "FURIA"
+  ],
+  "vods": [
+   {
+    "id": "eX-Sqx8cCrM",
+    "durationSec": 5944
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Summit",
+    "pickBy": "FUR",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "EG",
+    "played": true,
+    "score": "13-3",
+    "nRounds": 16
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "706373",
+  "eventId": "2977",
+  "teams": [
+   "Envy",
+   "NRG"
+  ],
+  "vods": [
+   {
+    "id": "FMHRBi_s93Y",
+    "durationSec": 5913
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "ENVY",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "706377",
+  "eventId": "2977",
+  "teams": [
+   "LEVIATÁN",
+   "MIBR"
+  ],
+  "vods": [
+   {
+    "id": "7ltvZPp7hg8",
+    "durationSec": 5748
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "MIBR",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "706378",
+  "eventId": "2977",
+  "teams": [
+   "Evil Geniuses",
+   "NRG"
+  ],
+  "vods": [
+   {
+    "id": "sy_RPXg50x8",
+    "durationSec": 4679
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "1-13",
+    "nRounds": 14
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "EG",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "706350",
+  "eventId": "2977",
+  "teams": [
+   "Sentinels",
+   "Cloud9"
+  ],
+  "vods": [
+   {
+    "id": "Jzj8AzjTxMM",
+    "durationSec": 10296
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Summit",
+    "pickBy": "C9",
+    "played": true,
+    "score": "13-4",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "SEN",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "706352",
+  "eventId": "2977",
+  "teams": [
+   "KR Esports",
+   "LOUD"
+  ],
+  "vods": [
+   {
+    "id": "0TmQWgpu5NQ",
+    "durationSec": 9686
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "KRÜ",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "LOUD",
+    "played": true,
+    "score": "15-17",
+    "nRounds": 32
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "706353",
+  "eventId": "2977",
+  "teams": [
+   "G2 Esports",
+   "100 Thieves"
+  ],
+  "vods": [
+   {
+    "id": "f31Pk-lxbMU",
+    "durationSec": 9700
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "100T",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "G2",
+    "played": true,
+    "score": "16-14",
+    "nRounds": 30
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "706358",
+  "eventId": "2977",
+  "teams": [
+   "100 Thieves",
+   "KR Esports"
+  ],
+  "vods": [
+   {
+    "id": "yu1i4iLr6pQ",
+    "durationSec": 5063
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "KRÜ",
+    "played": true,
+    "score": "13-0",
+    "nRounds": 13
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "100T",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "706359",
+  "eventId": "2977",
+  "teams": [
+   "G2 Esports",
+   "Cloud9"
+  ],
+  "vods": [
+   {
+    "id": "-j0VhZ00HSI",
+    "durationSec": 4669
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "C9",
+    "played": true,
+    "score": "13-1",
+    "nRounds": 14
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "G2",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "706360",
+  "eventId": "2977",
+  "teams": [
+   "Sentinels",
+   "LOUD"
+  ],
+  "vods": [
+   {
+    "id": "q7CRrLbmskc",
+    "durationSec": 5998
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "LOUD",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "SEN",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "706364",
+  "eventId": "2977",
+  "teams": [
+   "KR Esports",
+   "G2 Esports"
+  ],
+  "vods": [
+   {
+    "id": "Bk49IAud6pg",
+    "durationSec": 6645
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "KRÜ",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "G2",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "706365",
+  "eventId": "2977",
+  "teams": [
+   "100 Thieves",
+   "Sentinels"
+  ],
+  "vods": [
+   {
+    "id": "yr6oyvQLKgE",
+    "durationSec": 9120
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Sunset",
+    "pickBy": "100T",
+    "played": true,
+    "score": "13-15",
+    "nRounds": 28
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "SEN",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "706366",
+  "eventId": "2977",
+  "teams": [
+   "Cloud9",
+   "LOUD"
+  ],
+  "vods": [
+   {
+    "id": "iVx9-xbibto",
+    "durationSec": 8762
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "C9",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "LOUD",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "706370",
+  "eventId": "2977",
+  "teams": [
+   "Cloud9",
+   "KR Esports"
+  ],
+  "vods": [
+   {
+    "id": "rLQ1SxDNh8w",
+    "durationSec": 5241
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "KRÜ",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "C9",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "706371",
+  "eventId": "2977",
+  "teams": [
+   "G2 Esports",
+   "Sentinels"
+  ],
+  "vods": [
+   {
+    "id": "zzu0L05r_Hg",
+    "durationSec": 9969
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "SEN",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "G2",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "706374",
+  "eventId": "2977",
+  "teams": [
+   "100 Thieves",
+   "Cloud9"
+  ],
+  "vods": [
+   {
+    "id": "lp-IlWP2raQ",
+    "durationSec": 7250
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "C9",
+    "played": true,
+    "score": "13-15",
+    "nRounds": 28
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "100T",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "706375",
+  "eventId": "2977",
+  "teams": [
+   "G2 Esports",
+   "LOUD"
+  ],
+  "vods": [
+   {
+    "id": "d1JL8lgodl0",
+    "durationSec": 5599
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Sunset",
+    "pickBy": "LOUD",
+    "played": true,
+    "score": "13-15",
+    "nRounds": 28
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "G2",
+    "played": true,
+    "score": "1-13",
+    "nRounds": 14
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "706376",
+  "eventId": "2977",
+  "teams": [
+   "KR Esports",
+   "Sentinels"
+  ],
+  "vods": [
+   {
+    "id": "G41UmgkCBJM",
+    "durationSec": 8225
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Summit",
+    "pickBy": "KRÜ",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "SEN",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "706379",
+  "eventId": "2977",
+  "teams": [
+   "LOUD",
+   "100 Thieves"
+  ],
+  "vods": [
+   {
+    "id": "wxLBIUFxLTg",
+    "durationSec": 5111
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Summit",
+    "pickBy": "LOUD",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "100T",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "734302",
+  "eventId": "2977",
+  "teams": [
+   "LOUD",
+   "FURIA"
+  ],
+  "vods": [
+   {
+    "id": "DKES_1v3uxY",
+    "durationSec": 16120
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "FUR",
+    "played": true,
+    "score": "13-4",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Summit",
+    "pickBy": "LOUD",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "734303",
+  "eventId": "2977",
+  "teams": [
+   "LEVIATÁN",
+   "MIBR"
+  ],
+  "vods": [
+   {
+    "id": "DKES_1v3uxY",
+    "durationSec": 16120
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "MIBR",
+    "played": true,
+    "score": "13-3",
+    "nRounds": 16
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "734304",
+  "eventId": "2977",
+  "teams": [
+   "NRG",
+   "LOUD"
+  ],
+  "vods": [
+   {
+    "id": "-LinWApTGXA",
+    "durationSec": 8965
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Ascent",
+    "pickBy": "LOUD",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Abyss",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "734305",
+  "eventId": "2977",
+  "teams": [
+   "100 Thieves",
+   "LEVIATÁN"
+  ],
+  "vods": [
+   {
+    "id": "C6ZrKm5wiHU",
+    "durationSec": 4759
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "13-2",
+    "nRounds": 15
+   },
+   {
+    "number": 2,
+    "name": "Summit",
+    "pickBy": "100T",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "734307",
+  "eventId": "2977",
+  "teams": [
+   "NRG",
+   "100 Thieves"
+  ],
+  "vods": [
+   {
+    "id": "TntlDvMFTX0",
+    "durationSec": 4835
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "3-13",
+    "nRounds": 16
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "100T",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "734308",
+  "eventId": "2977",
+  "teams": [
+   "100 Thieves",
+   "LOUD"
+  ],
+  "vods": [
+   {
+    "id": "6fNuxyJtfq0",
+    "durationSec": 15573
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "100T",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "LOUD",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   },
+   {
+    "number": 3,
+    "name": "Ascent",
+    "pickBy": "100T",
+    "played": true,
+    "score": "14-12",
+    "nRounds": 26
+   },
+   {
+    "number": 4,
+    "name": "Summit",
+    "pickBy": "LOUD",
+    "played": true,
+    "score": "1-13",
+    "nRounds": 14
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "734309",
+  "eventId": "2977",
+  "teams": [
+   "FURIA",
+   "G2 Esports"
+  ],
+  "vods": [
+   {
+    "id": "f4DX65zN2IU",
+    "durationSec": 8188
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "FUR",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "G2",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "734310",
+  "eventId": "2977",
+  "teams": [
+   "MIBR",
+   "Evil Geniuses"
+  ],
+  "vods": [
+   {
+    "id": "ug4i0ltrXuA",
+    "durationSec": 10527
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "MIBR",
+    "played": true,
+    "score": "16-18",
+    "nRounds": 34
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "EG",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "734311",
+  "eventId": "2977",
+  "teams": [
+   "LEVIATÁN",
+   "G2 Esports"
+  ],
+  "vods": [
+   {
+    "id": "ibXBRAHP4Dw",
+    "durationSec": 8762
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Abyss",
+    "pickBy": "G2",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "734312",
+  "eventId": "2977",
+  "teams": [
+   "LOUD",
+   "MIBR"
+  ],
+  "vods": [
+   {
+    "id": "kstncYQf1dw",
+    "durationSec": 6190
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "MIBR",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "LOUD",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "734313",
+  "eventId": "2977",
+  "teams": [
+   "G2 Esports",
+   "LOUD"
+  ],
+  "vods": [
+   {
+    "id": "kpOe4HSX-aQ",
+    "durationSec": 6229
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "G2",
+    "played": true,
+    "score": "3-13",
+    "nRounds": 16
+   },
+   {
+    "number": 2,
+    "name": "Summit",
+    "pickBy": "LOUD",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "734314",
+  "eventId": "2977",
+  "teams": [
+   "NRG",
+   "LOUD"
+  ],
+  "vods": [
+   {
+    "id": "wKj6GWnzxbo",
+    "durationSec": 12991
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "LOUD",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 3,
+    "name": "Summit",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   },
+   {
+    "number": 4,
+    "name": "Haven",
+    "pickBy": "LOUD",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "701027",
+  "eventId": "2978",
+  "teams": [
+   "Funplus Phoenix",
+   "Trace Esports"
+  ],
+  "vods": [
+   {
+    "id": "5M3N_7ETRtA",
+    "durationSec": 19968
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Sunset",
+    "pickBy": "TE",
+    "played": true,
+    "score": "13-3",
+    "nRounds": 16
+   },
+   {
+    "number": 2,
+    "name": "Summit",
+    "pickBy": "FPX",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "701028",
+  "eventId": "2978",
+  "teams": [
+   "Jdg Esports",
+   "Tyloo"
+  ],
+  "vods": [
+   {
+    "id": "5M3N_7ETRtA",
+    "durationSec": 19968
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "TYL",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "JDG",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "701031",
+  "eventId": "2978",
+  "teams": [
+   "Nova Esports",
+   "Funplus Phoenix"
+  ],
+  "vods": [
+   {
+    "id": "XaJYJmGKbTc",
+    "durationSec": 18550
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "NOVA",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "FPX",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "701032",
+  "eventId": "2978",
+  "teams": [
+   "Tyloo",
+   "Trace Esports"
+  ],
+  "vods": [
+   {
+    "id": "XaJYJmGKbTc",
+    "durationSec": 18550
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "TE",
+    "played": true,
+    "score": "13-3",
+    "nRounds": 16
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "TYL",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "701038",
+  "eventId": "2978",
+  "teams": [
+   "Jdg Esports",
+   "Funplus Phoenix"
+  ],
+  "vods": [
+   {
+    "id": "vhH5u4c450c",
+    "durationSec": 22678
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "JDG",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "FPX",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "701039",
+  "eventId": "2978",
+  "teams": [
+   "Edward Gaming",
+   "Tyloo"
+  ],
+  "vods": [
+   {
+    "id": "vhH5u4c450c",
+    "durationSec": 22678
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Sunset",
+    "pickBy": "EDG",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "TYL",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "701042",
+  "eventId": "2978",
+  "teams": [
+   "Nova Esports",
+   "Jdg Esports"
+  ],
+  "vods": [
+   {
+    "id": "ZIWyItG65JY",
+    "durationSec": 34664
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "JDG",
+    "played": true,
+    "score": "13-4",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "NOVA",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "701043",
+  "eventId": "2978",
+  "teams": [
+   "Tyloo",
+   "Funplus Phoenix"
+  ],
+  "vods": [
+   {
+    "id": "ZIWyItG65JY",
+    "durationSec": 34664
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Ascent",
+    "pickBy": "FPX",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "TYL",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "701044",
+  "eventId": "2978",
+  "teams": [
+   "Trace Esports",
+   "Edward Gaming"
+  ],
+  "vods": [
+   {
+    "id": "ZIWyItG65JY",
+    "durationSec": 34664
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "EDG",
+    "played": true,
+    "score": "3-13",
+    "nRounds": 16
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "TE",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "701047",
+  "eventId": "2978",
+  "teams": [
+   "Trace Esports",
+   "Nova Esports"
+  ],
+  "vods": [
+   {
+    "id": "4_-gD4SVu68",
+    "durationSec": 35406
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Ascent",
+    "pickBy": "TE",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "NOVA",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "701049",
+  "eventId": "2978",
+  "teams": [
+   "Edward Gaming",
+   "Jdg Esports"
+  ],
+  "vods": [
+   {
+    "id": "4_-gD4SVu68",
+    "durationSec": 35406
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "EDG",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "JDG",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "701052",
+  "eventId": "2978",
+  "teams": [
+   "Jdg Esports",
+   "Trace Esports"
+  ],
+  "vods": [
+   {
+    "id": "9gWW2MAC1og",
+    "durationSec": 19791
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "JDG",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "TE",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "701053",
+  "eventId": "2978",
+  "teams": [
+   "Edward Gaming",
+   "Nova Esports"
+  ],
+  "vods": [
+   {
+    "id": "9gWW2MAC1og",
+    "durationSec": 19791
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Sunset",
+    "pickBy": "EDG",
+    "played": true,
+    "score": "13-15",
+    "nRounds": 28
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "NOVA",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "701056",
+  "eventId": "2978",
+  "teams": [
+   "Tyloo",
+   "Nova Esports"
+  ],
+  "vods": [
+   {
+    "id": "53fWZWJ2r94",
+    "durationSec": 23579
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "TYL",
+    "played": true,
+    "score": "12-14",
+    "nRounds": 26
+   },
+   {
+    "number": 2,
+    "name": "Summit",
+    "pickBy": "NOVA",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "701057",
+  "eventId": "2978",
+  "teams": [
+   "Funplus Phoenix",
+   "Edward Gaming"
+  ],
+  "vods": [
+   {
+    "id": "53fWZWJ2r94",
+    "durationSec": 23579
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "EDG",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "FPX",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "701025",
+  "eventId": "2978",
+  "teams": [
+   "Wolves Esports",
+   "Titan Esports Club"
+  ],
+  "vods": [
+   {
+    "id": "_m70tneb5_k",
+    "durationSec": 21179
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Sunset",
+    "pickBy": "TEC",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "WOL",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "701026",
+  "eventId": "2978",
+  "teams": [
+   "Dragon Ranger Gaming",
+   "Bilibili Gaming"
+  ],
+  "vods": [
+   {
+    "id": "_m70tneb5_k",
+    "durationSec": 21179
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "DRG",
+    "played": true,
+    "score": "15-13",
+    "nRounds": 28
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "BLG",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "701029",
+  "eventId": "2978",
+  "teams": [
+   "Dragon Ranger Gaming",
+   "Titan Esports Club"
+  ],
+  "vods": [
+   {
+    "id": "ySsjhhIbe4A",
+    "durationSec": 27157
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "TEC",
+    "played": true,
+    "score": "16-14",
+    "nRounds": 30
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "DRG",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "701030",
+  "eventId": "2978",
+  "teams": [
+   "Bilibili Gaming",
+   "Wolves Esports"
+  ],
+  "vods": [
+   {
+    "id": "ySsjhhIbe4A",
+    "durationSec": 27157
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Summit",
+    "pickBy": "WOL",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "BLG",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "701036",
+  "eventId": "2978",
+  "teams": [
+   "Wolves Esports",
+   "All Gamers"
+  ],
+  "vods": [
+   {
+    "id": "P2GVYVewZqE",
+    "durationSec": 24210
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "AG",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "WOL",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "701037",
+  "eventId": "2978",
+  "teams": [
+   "Xi Lai Gaming",
+   "Titan Esports Club"
+  ],
+  "vods": [
+   {
+    "id": "P2GVYVewZqE",
+    "durationSec": 24210
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Summit",
+    "pickBy": "XLG",
+    "played": true,
+    "score": "12-14",
+    "nRounds": 26
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "TEC",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "701040",
+  "eventId": "2978",
+  "teams": [
+   "All Gamers",
+   "Bilibili Gaming"
+  ],
+  "vods": [
+   {
+    "id": "xMvAZOktu2g",
+    "durationSec": 24370
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Summit",
+    "pickBy": "BLG",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "AG",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "701041",
+  "eventId": "2978",
+  "teams": [
+   "Xi Lai Gaming",
+   "Dragon Ranger Gaming"
+  ],
+  "vods": [
+   {
+    "id": "xMvAZOktu2g",
+    "durationSec": 24370
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "XLG",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "DRG",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "701045",
+  "eventId": "2978",
+  "teams": [
+   "Titan Esports Club",
+   "Bilibili Gaming"
+  ],
+  "vods": [
+   {
+    "id": "gZO0O4UUSJk",
+    "durationSec": 33791
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Summit",
+    "pickBy": "BLG",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "TEC",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "701046",
+  "eventId": "2978",
+  "teams": [
+   "All Gamers",
+   "Xi Lai Gaming"
+  ],
+  "vods": [
+   {
+    "id": "gZO0O4UUSJk",
+    "durationSec": 33791
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Summit",
+    "pickBy": "XLG",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "AG",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "701048",
+  "eventId": "2978",
+  "teams": [
+   "Dragon Ranger Gaming",
+   "Wolves Esports"
+  ],
+  "vods": [
+   {
+    "id": "4_-gD4SVu68",
+    "durationSec": 35406
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Sunset",
+    "pickBy": "DRG",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "WOL",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "701050",
+  "eventId": "2978",
+  "teams": [
+   "Titan Esports Club",
+   "All Gamers"
+  ],
+  "vods": [
+   {
+    "id": "lpKKgMo-JVI",
+    "durationSec": 23283
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "AG",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Summit",
+    "pickBy": "TEC",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "701051",
+  "eventId": "2978",
+  "teams": [
+   "Bilibili Gaming",
+   "Xi Lai Gaming"
+  ],
+  "vods": [
+   {
+    "id": "lpKKgMo-JVI",
+    "durationSec": 23283
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "XLG",
+    "played": true,
+    "score": "13-2",
+    "nRounds": 15
+   },
+   {
+    "number": 2,
+    "name": "Summit",
+    "pickBy": "BLG",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "701054",
+  "eventId": "2978",
+  "teams": [
+   "Xi Lai Gaming",
+   "Wolves Esports"
+  ],
+  "vods": [
+   {
+    "id": "6oxjS58o3AA",
+    "durationSec": 27321
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Summit",
+    "pickBy": "XLG",
+    "played": true,
+    "score": "15-13",
+    "nRounds": 28
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "WOL",
+    "played": true,
+    "score": "3-13",
+    "nRounds": 16
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "701055",
+  "eventId": "2978",
+  "teams": [
+   "All Gamers",
+   "Dragon Ranger Gaming"
+  ],
+  "vods": [
+   {
+    "id": "6oxjS58o3AA",
+    "durationSec": 27321
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "AG",
+    "played": true,
+    "score": "2-13",
+    "nRounds": 15
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "DRG",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "724638",
+  "eventId": "2978",
+  "teams": [
+   "TYLOO",
+   "Titan Esports Club"
+  ],
+  "vods": [
+   {
+    "id": "Q0-PewKbauU",
+    "durationSec": 19677
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Sunset",
+    "pickBy": "TYL",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "TEC",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "724639",
+  "eventId": "2978",
+  "teams": [
+   "Nova Esports",
+   "JD Gaming"
+  ],
+  "vods": [
+   {
+    "id": "Q0-PewKbauU",
+    "durationSec": 19677
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Summit",
+    "pickBy": "JDG",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "NOVA",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "724640",
+  "eventId": "2978",
+  "teams": [
+   "Xi Lai Gaming",
+   "All Gamers"
+  ],
+  "vods": [
+   {
+    "id": "_dGO1M166Nw",
+    "durationSec": 26736
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "AG",
+    "played": true,
+    "score": "3-13",
+    "nRounds": 16
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "XLG",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "724641",
+  "eventId": "2978",
+  "teams": [
+   "Bilibili Gaming",
+   "Trace Esports"
+  ],
+  "vods": [
+   {
+    "id": "_dGO1M166Nw",
+    "durationSec": 26736
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "BLG",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "TE",
+    "played": true,
+    "score": "16-14",
+    "nRounds": 30
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "724642",
+  "eventId": "2978",
+  "teams": [
+   "TYLOO",
+   "JD Gaming"
+  ],
+  "vods": [
+   {
+    "id": "58nfTGxmzek",
+    "durationSec": 35563
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "TYL",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Summit",
+    "pickBy": "JDG",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "724643",
+  "eventId": "2978",
+  "teams": [
+   "Xi Lai Gaming",
+   "Bilibili Gaming"
+  ],
+  "vods": [
+   {
+    "id": "58nfTGxmzek",
+    "durationSec": 35563
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "XLG",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "BLG",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "724644",
+  "eventId": "2978",
+  "teams": [
+   "JD Gaming",
+   "Bilibili Gaming"
+  ],
+  "vods": [
+   {
+    "id": "vN4iOApetlE",
+    "durationSec": 20628
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "BLG",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "JDG",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "724645",
+  "eventId": "2978",
+  "teams": [
+   "JD Gaming",
+   "TYLOO"
+  ],
+  "vods": [
+   {
+    "id": "WavNz2ct_SQ",
+    "durationSec": 20823
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "JDG",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "TYL",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 3,
+    "name": "Breeze",
+    "pickBy": "JDG",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 4,
+    "name": "Summit",
+    "pickBy": "TYL",
+    "played": true,
+    "score": "2-13",
+    "nRounds": 15
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "724646",
+  "eventId": "2978",
+  "teams": [
+   "Titan Esports Club",
+   "Nova Esports"
+  ],
+  "vods": [
+   {
+    "id": "SvNW8DnuPYQ",
+    "durationSec": 26452
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Summit",
+    "pickBy": "TEC",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "NOVA",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "724647",
+  "eventId": "2978",
+  "teams": [
+   "All Gamers",
+   "Trace Esports"
+  ],
+  "vods": [
+   {
+    "id": "SvNW8DnuPYQ",
+    "durationSec": 26452
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "AG",
+    "played": true,
+    "score": "13-15",
+    "nRounds": 28
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "TE",
+    "played": true,
+    "score": "15-13",
+    "nRounds": 28
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "724648",
+  "eventId": "2978",
+  "teams": [
+   "Xi Lai Gaming",
+   "Nova Esports"
+  ],
+  "vods": [
+   {
+    "id": "eT8ILJ3npJU",
+    "durationSec": 23508
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "NOVA",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "XLG",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "724649",
+  "eventId": "2978",
+  "teams": [
+   "TYLOO",
+   "All Gamers"
+  ],
+  "vods": [
+   {
+    "id": "eT8ILJ3npJU",
+    "durationSec": 23508
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "AG",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Sunset",
+    "pickBy": "TYL",
+    "played": true,
+    "score": "14-12",
+    "nRounds": 26
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "724650",
+  "eventId": "2978",
+  "teams": [
+   "Nova Esports",
+   "TYLOO"
+  ],
+  "vods": [
+   {
+    "id": "vN4iOApetlE",
+    "durationSec": 20628
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Ascent",
+    "pickBy": "NOVA",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Summit",
+    "pickBy": "TYL",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "724651",
+  "eventId": "2978",
+  "teams": [
+   "Bilibili Gaming",
+   "TYLOO"
+  ],
+  "vods": [
+   {
+    "id": "l5vfspd_7DQ",
+    "durationSec": 25157
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Sunset",
+    "pickBy": "TYL",
+    "played": true,
+    "score": "12-14",
+    "nRounds": 26
+   },
+   {
+    "number": 2,
+    "name": "Summit",
+    "pickBy": "BLG",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 3,
+    "name": "Split",
+    "pickBy": "TYL",
+    "played": true,
+    "score": "15-17",
+    "nRounds": 32
+   },
+   {
+    "number": 4,
+    "name": "Lotus",
+    "pickBy": "BLG",
+    "played": false
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
  }
 ]
