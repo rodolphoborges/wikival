@@ -1,0 +1,8505 @@
+[
+ {
+  "matchId": "596398",
+  "eventId": "2682",
+  "teams": [
+   "LOUD",
+   "Cloud9"
+  ],
+  "vods": [
+   {
+    "id": "TzKxKi_QQOs",
+    "durationSec": 3080
+   },
+   {
+    "id": "VY1eH2ErSTQ",
+    "durationSec": 3061
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "C9",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Abyss",
+    "pickBy": "LOUD",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "596399",
+  "eventId": "2682",
+  "teams": [
+   "ENVY",
+   "Evil Geniuses"
+  ],
+  "vods": [
+   {
+    "id": "7msTjdeeoD0",
+    "durationSec": 2874
+   },
+   {
+    "id": "8sLKWHsQ8bU",
+    "durationSec": 2864
+   },
+   {
+    "id": "ONgyTSfVooE",
+    "durationSec": 2997
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "ENVY",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Corrode",
+    "pickBy": "EG",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "596400",
+  "eventId": "2682",
+  "teams": [
+   "KRÜ Esports",
+   "FURIA"
+  ],
+  "vods": [
+   {
+    "id": "Kxfnb_54w7I",
+    "durationSec": 3253
+   },
+   {
+    "id": "iidWdnMcUeY",
+    "durationSec": 2105
+   },
+   {
+    "id": "yv7cirDdgk4",
+    "durationSec": 2743
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "KRÜ",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "FUR",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "596401",
+  "eventId": "2682",
+  "teams": [
+   "100 Thieves",
+   "LEVIATÁN"
+  ],
+  "vods": [
+   {
+    "id": "2gjqiSMAUiQ",
+    "durationSec": 3554
+   },
+   {
+    "id": "AEZDZthRKzU",
+    "durationSec": 3132
+   },
+   {
+    "id": "up9SKplFQ9I",
+    "durationSec": 3547
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Bind",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "100T",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "596402",
+  "eventId": "2682",
+  "teams": [
+   "NRG",
+   "Cloud9"
+  ],
+  "vods": [
+   {
+    "id": "380yaVNaKlY",
+    "durationSec": 2735
+   },
+   {
+    "id": "kiYcTvxJuKk",
+    "durationSec": 2281
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "C9",
+    "played": true,
+    "score": "13-2",
+    "nRounds": 15
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "596403",
+  "eventId": "2682",
+  "teams": [
+   "MIBR",
+   "ENVY"
+  ],
+  "vods": [
+   {
+    "id": "DMRZoHHRK1A",
+    "durationSec": 2746
+   },
+   {
+    "id": "L_28lKGSJlE",
+    "durationSec": 3169
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "ENVY",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Corrode",
+    "pickBy": "MIBR",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "596404",
+  "eventId": "2682",
+  "teams": [
+   "Sentinels",
+   "FURIA"
+  ],
+  "vods": [
+   {
+    "id": "XLajkPN6QpU",
+    "durationSec": 3611
+   },
+   {
+    "id": "emCBQFzKC0I",
+    "durationSec": 2558
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "SEN",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "FUR",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "596405",
+  "eventId": "2682",
+  "teams": [
+   "G2 Esports",
+   "100 Thieves"
+  ],
+  "vods": [
+   {
+    "id": "FjamU2_ccqA",
+    "durationSec": 2067
+   },
+   {
+    "id": "te42xAzwqjg",
+    "durationSec": 3809
+   },
+   {
+    "id": "wx6KecG3N50",
+    "durationSec": 2954
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Bind",
+    "pickBy": "100T",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Corrode",
+    "pickBy": "G2",
+    "played": true,
+    "score": "3-13",
+    "nRounds": 16
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "596406",
+  "eventId": "2682",
+  "teams": [
+   "NRG",
+   "MIBR"
+  ],
+  "vods": [
+   {
+    "id": "E3l4wP_4hQ0",
+    "durationSec": 4288
+   },
+   {
+    "id": "LhGGpo3ciW8",
+    "durationSec": 3050
+   },
+   {
+    "id": "rWXVqX1cJPQ",
+    "durationSec": 4013
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "MIBR",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "596407",
+  "eventId": "2682",
+  "teams": [
+   "FURIA",
+   "G2 Esports"
+  ],
+  "vods": [
+   {
+    "id": "JL_ia_YJ6Rs",
+    "durationSec": 2216
+   },
+   {
+    "id": "q-j45Uq05pc",
+    "durationSec": 2858
+   },
+   {
+    "id": "q5QYzSoyOJk",
+    "durationSec": 2717
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "FUR",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "G2",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "596408",
+  "eventId": "2682",
+  "teams": [
+   "MIBR",
+   "FURIA"
+  ],
+  "vods": [
+   {
+    "id": "2nuQ5fkLFGk",
+    "durationSec": 3397
+   },
+   {
+    "id": "OiATmI_Fcd0",
+    "durationSec": 3867
+   },
+   {
+    "id": "WqxEOwpzVi8",
+    "durationSec": 2014
+   },
+   {
+    "id": "c1BJGHUIIdA",
+    "durationSec": 3072
+   },
+   {
+    "id": "roP3l_di0go",
+    "durationSec": 3804
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Bind",
+    "pickBy": "MIBR",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Abyss",
+    "pickBy": "FUR",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   },
+   {
+    "number": 3,
+    "name": "Haven",
+    "pickBy": "MIBR",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 4,
+    "name": "Breeze",
+    "pickBy": "FUR",
+    "played": true,
+    "score": "13-2",
+    "nRounds": 15
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "596409",
+  "eventId": "2682",
+  "teams": [
+   "LOUD",
+   "100 Thieves"
+  ],
+  "vods": [
+   {
+    "id": "D603rD725pQ",
+    "durationSec": 2176
+   },
+   {
+    "id": "qOncnFefzQM",
+    "durationSec": 3148
+   },
+   {
+    "id": "xhHUzaxVOPM",
+    "durationSec": 2670
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "LOUD",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "100T",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "596410",
+  "eventId": "2682",
+  "teams": [
+   "Evil Geniuses",
+   "Sentinels"
+  ],
+  "vods": [],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "EG",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "SEN",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": false,
+  "reason": "no-vod"
+ },
+ {
+  "matchId": "596411",
+  "eventId": "2682",
+  "teams": [
+   "KRÜ Esports",
+   "ENVY"
+  ],
+  "vods": [
+   {
+    "id": "a4PMYtY2YUE",
+    "durationSec": 2817
+   },
+   {
+    "id": "sOXJiB0JirE",
+    "durationSec": 2263
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "ENVY",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "KRÜ",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "596412",
+  "eventId": "2682",
+  "teams": [
+   "LEVIATÁN",
+   "Cloud9"
+  ],
+  "vods": [
+   {
+    "id": "ETqZ_YTVlOQ",
+    "durationSec": 3017
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "3-13",
+    "nRounds": 16
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "C9",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "596413",
+  "eventId": "2682",
+  "teams": [
+   "100 Thieves",
+   "Sentinels"
+  ],
+  "vods": [
+   {
+    "id": "AmvrcShytZk",
+    "durationSec": 3389
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Corrode",
+    "pickBy": "100T",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "SEN",
+    "played": true,
+    "score": "16-14",
+    "nRounds": 30
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "596414",
+  "eventId": "2682",
+  "teams": [
+   "ENVY",
+   "Cloud9"
+  ],
+  "vods": [],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "C9",
+    "played": true,
+    "score": "18-20",
+    "nRounds": 38
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "ENVY",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": false,
+  "reason": "no-vod"
+ },
+ {
+  "matchId": "596415",
+  "eventId": "2682",
+  "teams": [
+   "NRG",
+   "100 Thieves"
+  ],
+  "vods": [
+   {
+    "id": "kr3KkXnXVuc",
+    "durationSec": 3509
+   },
+   {
+    "id": "nzI7Qb3cAoQ",
+    "durationSec": 3281
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "100T",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Corrode",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "596416",
+  "eventId": "2682",
+  "teams": [
+   "G2 Esports",
+   "Cloud9"
+  ],
+  "vods": [
+   {
+    "id": "K_SWch_HQzs",
+    "durationSec": 2810
+   },
+   {
+    "id": "sZlOcPCHNxY",
+    "durationSec": 3013
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Corrode",
+    "pickBy": "C9",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "G2",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "596417",
+  "eventId": "2682",
+  "teams": [
+   "NRG",
+   "G2 Esports"
+  ],
+  "vods": [
+   {
+    "id": "GoLVlVZAk6E",
+    "durationSec": 1992
+   },
+   {
+    "id": "x-dYvGfZUsI",
+    "durationSec": 2479
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "3-13",
+    "nRounds": 16
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "G2",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "596418",
+  "eventId": "2682",
+  "teams": [
+   "MIBR",
+   "G2 Esports"
+  ],
+  "vods": [
+   {
+    "id": "M4HMHKkw5dg",
+    "durationSec": 2518
+   },
+   {
+    "id": "jF9FlaAKPyk",
+    "durationSec": 2746
+   },
+   {
+    "id": "yl1XJI5Xz3w",
+    "durationSec": 2920
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "MIBR",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "G2",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   },
+   {
+    "number": 3,
+    "name": "Corrode",
+    "pickBy": "MIBR",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 4,
+    "name": "Split",
+    "pickBy": "G2",
+    "played": false
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "596419",
+  "eventId": "2682",
+  "teams": [
+   "LOUD",
+   "Evil Geniuses"
+  ],
+  "vods": [
+   {
+    "id": "XUztw0huqes",
+    "durationSec": 2685
+   },
+   {
+    "id": "sbfXHwdIelA",
+    "durationSec": 4944
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "EG",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Abyss",
+    "pickBy": "LOUD",
+    "played": true,
+    "score": "12-14",
+    "nRounds": 26
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "596420",
+  "eventId": "2682",
+  "teams": [
+   "KRÜ Esports",
+   "LEVIATÁN"
+  ],
+  "vods": [
+   {
+    "id": "8ofWXovoRpk",
+    "durationSec": 3533
+   },
+   {
+    "id": "hVTLcvflKQ8",
+    "durationSec": 2630
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Bind",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "KRÜ",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "596421",
+  "eventId": "2682",
+  "teams": [
+   "ENVY",
+   "Evil Geniuses"
+  ],
+  "vods": [
+   {
+    "id": "_VQ0oqsW8Hw",
+    "durationSec": 2316
+   },
+   {
+    "id": "ptpSJ6A3xAs",
+    "durationSec": 3932
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "EG",
+    "played": true,
+    "score": "14-16",
+    "nRounds": 30
+   },
+   {
+    "number": 2,
+    "name": "Corrode",
+    "pickBy": "ENVY",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "596422",
+  "eventId": "2682",
+  "teams": [
+   "Sentinels",
+   "LEVIATÁN"
+  ],
+  "vods": [
+   {
+    "id": "Q4tnXfb5HLA",
+    "durationSec": 3410
+   },
+   {
+    "id": "cz_WtqP2Rtc",
+    "durationSec": 3466
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Corrode",
+    "pickBy": "SEN",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "12-14",
+    "nRounds": 26
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "596423",
+  "eventId": "2682",
+  "teams": [
+   "100 Thieves",
+   "Evil Geniuses"
+  ],
+  "vods": [
+   {
+    "id": "INfYhfn_JyA",
+    "durationSec": 4062
+   },
+   {
+    "id": "PllWL0bUhRI",
+    "durationSec": 3388
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "EG",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "100T",
+    "played": true,
+    "score": "15-13",
+    "nRounds": 28
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "596424",
+  "eventId": "2682",
+  "teams": [
+   "Cloud9",
+   "LEVIATÁN"
+  ],
+  "vods": [
+   {
+    "id": "2jfOt2WnDFY",
+    "durationSec": 2499
+   },
+   {
+    "id": "aKh2aGQ2lpY",
+    "durationSec": 2648
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Bind",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "C9",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "596425",
+  "eventId": "2682",
+  "teams": [
+   "100 Thieves",
+   "Cloud9"
+  ],
+  "vods": [
+   {
+    "id": "RvpGZattJ14",
+    "durationSec": 2078
+   },
+   {
+    "id": "hXFJT5SShI0",
+    "durationSec": 3823
+   },
+   {
+    "id": "uGbdhQ-HC6A",
+    "durationSec": 3419
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "C9",
+    "played": true,
+    "score": "14-12",
+    "nRounds": 26
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "100T",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "596426",
+  "eventId": "2682",
+  "teams": [
+   "NRG",
+   "100 Thieves"
+  ],
+  "vods": [
+   {
+    "id": "RnH3HOFi2tY",
+    "durationSec": 2675
+   },
+   {
+    "id": "ahpu3vA9V-c",
+    "durationSec": 3039
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "100T",
+    "played": true,
+    "score": "13-3",
+    "nRounds": 16
+   },
+   {
+    "number": 2,
+    "name": "Abyss",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "596427",
+  "eventId": "2682",
+  "teams": [
+   "MIBR",
+   "NRG"
+  ],
+  "vods": [
+   {
+    "id": "Hf2z6kOPeG4",
+    "durationSec": 3209
+   },
+   {
+    "id": "JGIKT80QhRA",
+    "durationSec": 2052
+   },
+   {
+    "id": "RkU5U6JXjLQ",
+    "durationSec": 2491
+   },
+   {
+    "id": "_WhJdllxDQs",
+    "durationSec": 2820
+   },
+   {
+    "id": "iUQ9tchWkuw",
+    "durationSec": 3369
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Bind",
+    "pickBy": "MIBR",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Corrode",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   },
+   {
+    "number": 3,
+    "name": "Split",
+    "pickBy": "MIBR",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 4,
+    "name": "Abyss",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "595630",
+  "eventId": "2683",
+  "teams": [
+   "Nongshim RedForce",
+   "Team Secret"
+  ],
+  "vods": [
+   {
+    "id": "NxlC6Eyn-_I",
+    "durationSec": 17697
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "TS",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "NS",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "595631",
+  "eventId": "2683",
+  "teams": [
+   "ZETA DIVISION",
+   "FULL SENSE"
+  ],
+  "vods": [
+   {
+    "id": "NxlC6Eyn-_I",
+    "durationSec": 17697
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Corrode",
+    "pickBy": "FS",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "ZETA",
+    "played": true,
+    "score": "2-13",
+    "nRounds": 15
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "595632",
+  "eventId": "2683",
+  "teams": [
+   "VARREL",
+   "Global Esports"
+  ],
+  "vods": [
+   {
+    "id": "1j3R1AEInRo",
+    "durationSec": 19699
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "VL",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Abyss",
+    "pickBy": "GE",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "595633",
+  "eventId": "2683",
+  "teams": [
+   "DetonatioN FocusMe",
+   "Gen.G"
+  ],
+  "vods": [
+   {
+    "id": "1j3R1AEInRo",
+    "durationSec": 19699
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "GEN",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "DFM",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "595634",
+  "eventId": "2683",
+  "teams": [
+   "T1",
+   "Nongshim RedForce"
+  ],
+  "vods": [
+   {
+    "id": "pv9tIyoT_5U",
+    "durationSec": 24898
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "NS",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "T1",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "595635",
+  "eventId": "2683",
+  "teams": [
+   "KIWOOM DRX",
+   "FULL SENSE"
+  ],
+  "vods": [
+   {
+    "id": "pv9tIyoT_5U",
+    "durationSec": 24898
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "FS",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "KRX",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "595636",
+  "eventId": "2683",
+  "teams": [
+   "Paper Rex",
+   "Global Esports"
+  ],
+  "vods": [
+   {
+    "id": "VbTsSQi9zH4",
+    "durationSec": 22406
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "GE",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "595637",
+  "eventId": "2683",
+  "teams": [
+   "Rex Regum Qeon",
+   "DetonatioN FocusMe"
+  ],
+  "vods": [
+   {
+    "id": "VbTsSQi9zH4",
+    "durationSec": 22406
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "DFM",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Corrode",
+    "pickBy": "RRQ",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "595638",
+  "eventId": "2683",
+  "teams": [
+   "Nongshim RedForce",
+   "FULL SENSE"
+  ],
+  "vods": [
+   {
+    "id": "Gz04yKNrfo0",
+    "durationSec": 18348
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "FS",
+    "played": true,
+    "score": "14-12",
+    "nRounds": 26
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "NS",
+    "played": true,
+    "score": "13-2",
+    "nRounds": 15
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "595639",
+  "eventId": "2683",
+  "teams": [
+   "Paper Rex",
+   "Rex Regum Qeon"
+  ],
+  "vods": [
+   {
+    "id": "Gz04yKNrfo0",
+    "durationSec": 18348
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Bind",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "RRQ",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "595640",
+  "eventId": "2683",
+  "teams": [
+   "Nongshim RedForce",
+   "Rex Regum Qeon"
+  ],
+  "vods": [
+   {
+    "id": "at6F-BMetIg",
+    "durationSec": 30840
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Corrode",
+    "pickBy": "RRQ",
+    "played": true,
+    "score": "12-14",
+    "nRounds": 26
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "NS",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   },
+   {
+    "number": 3,
+    "name": "Haven",
+    "pickBy": "RRQ",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   },
+   {
+    "number": 4,
+    "name": "Abyss",
+    "pickBy": "NS",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "595641",
+  "eventId": "2683",
+  "teams": [
+   "Team Secret",
+   "DetonatioN FocusMe"
+  ],
+  "vods": [
+   {
+    "id": "UVGchRknZ_8",
+    "durationSec": 18384
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "TS",
+    "played": true,
+    "score": "2-13",
+    "nRounds": 15
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "DFM",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "595642",
+  "eventId": "2683",
+  "teams": [
+   "ZETA DIVISION",
+   "Global Esports"
+  ],
+  "vods": [
+   {
+    "id": "UVGchRknZ_8",
+    "durationSec": 18384
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "ZETA",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Abyss",
+    "pickBy": "GE",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "595643",
+  "eventId": "2683",
+  "teams": [
+   "VARREL",
+   "KIWOOM DRX"
+  ],
+  "vods": [
+   {
+    "id": "0aEuBzE9bhY",
+    "durationSec": 26636
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Corrode",
+    "pickBy": "VL",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "KRX",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "595644",
+  "eventId": "2683",
+  "teams": [
+   "Gen.G",
+   "T1"
+  ],
+  "vods": [
+   {
+    "id": "0aEuBzE9bhY",
+    "durationSec": 26636
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "GEN",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "T1",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "595645",
+  "eventId": "2683",
+  "teams": [
+   "DetonatioN FocusMe",
+   "Global Esports"
+  ],
+  "vods": [
+   {
+    "id": "Eu_u_6p4fiQ",
+    "durationSec": 22770
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "GE",
+    "played": true,
+    "score": "3-13",
+    "nRounds": 16
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "DFM",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "595646",
+  "eventId": "2683",
+  "teams": [
+   "KIWOOM DRX",
+   "T1"
+  ],
+  "vods": [
+   {
+    "id": "Eu_u_6p4fiQ",
+    "durationSec": 22770
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "KRX",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "T1",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "595647",
+  "eventId": "2683",
+  "teams": [
+   "FULL SENSE",
+   "DetonatioN FocusMe"
+  ],
+  "vods": [
+   {
+    "id": "VxNoZdqHRck",
+    "durationSec": 25514
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "DFM",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "FS",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "595648",
+  "eventId": "2683",
+  "teams": [
+   "Paper Rex",
+   "T1"
+  ],
+  "vods": [
+   {
+    "id": "VxNoZdqHRck",
+    "durationSec": 25514
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "T1",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "595649",
+  "eventId": "2683",
+  "teams": [
+   "DetonatioN FocusMe",
+   "T1"
+  ],
+  "vods": [
+   {
+    "id": "at6F-BMetIg",
+    "durationSec": 30840
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "DFM",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "T1",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "595650",
+  "eventId": "2683",
+  "teams": [
+   "Rex Regum Qeon",
+   "T1"
+  ],
+  "vods": [
+   {
+    "id": "IS4uH25W91U",
+    "durationSec": 22554
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "RRQ",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "T1",
+    "played": true,
+    "score": "2-13",
+    "nRounds": 15
+   },
+   {
+    "number": 3,
+    "name": "Abyss",
+    "pickBy": "RRQ",
+    "played": true,
+    "score": "17-19",
+    "nRounds": 36
+   },
+   {
+    "number": 4,
+    "name": "Haven",
+    "pickBy": "T1",
+    "played": false
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "595651",
+  "eventId": "2683",
+  "teams": [
+   "Team Secret",
+   "ZETA DIVISION"
+  ],
+  "vods": [
+   {
+    "id": "2uNqtqHUtc8",
+    "durationSec": 27888
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Bind",
+    "pickBy": "ZETA",
+    "played": true,
+    "score": "13-4",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "TS",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "595652",
+  "eventId": "2683",
+  "teams": [
+   "VARREL",
+   "Gen.G"
+  ],
+  "vods": [
+   {
+    "id": "2uNqtqHUtc8",
+    "durationSec": 27888
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "GEN",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "VL",
+    "played": true,
+    "score": "20-18",
+    "nRounds": 38
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "595653",
+  "eventId": "2683",
+  "teams": [
+   "KIWOOM DRX",
+   "ZETA DIVISION"
+  ],
+  "vods": [
+   {
+    "id": "jzTa8xNF72Q",
+    "durationSec": 27298
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "ZETA",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "KRX",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "595654",
+  "eventId": "2683",
+  "teams": [
+   "Global Esports",
+   "Gen.G"
+  ],
+  "vods": [
+   {
+    "id": "jzTa8xNF72Q",
+    "durationSec": 27298
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "GEN",
+    "played": true,
+    "score": "13-15",
+    "nRounds": 28
+   },
+   {
+    "number": 2,
+    "name": "Abyss",
+    "pickBy": "GE",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "595655",
+  "eventId": "2683",
+  "teams": [
+   "FULL SENSE",
+   "KIWOOM DRX"
+  ],
+  "vods": [
+   {
+    "id": "MK5zLFgN3zY",
+    "durationSec": 22878
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Corrode",
+    "pickBy": "FS",
+    "played": true,
+    "score": "3-13",
+    "nRounds": 16
+   },
+   {
+    "number": 2,
+    "name": "Abyss",
+    "pickBy": "KRX",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "595656",
+  "eventId": "2683",
+  "teams": [
+   "Paper Rex",
+   "Global Esports"
+  ],
+  "vods": [
+   {
+    "id": "MK5zLFgN3zY",
+    "durationSec": 22878
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Corrode",
+    "pickBy": "GE",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "595657",
+  "eventId": "2683",
+  "teams": [
+   "KIWOOM DRX",
+   "Paper Rex"
+  ],
+  "vods": [
+   {
+    "id": "sYMCzR_zzO0",
+    "durationSec": 14984
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Corrode",
+    "pickBy": "KRX",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "595658",
+  "eventId": "2683",
+  "teams": [
+   "DetonatioN FocusMe",
+   "Paper Rex"
+  ],
+  "vods": [
+   {
+    "id": "IS4uH25W91U",
+    "durationSec": 22554
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "DFM",
+    "played": true,
+    "score": "2-13",
+    "nRounds": 15
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "595659",
+  "eventId": "2683",
+  "teams": [
+   "Rex Regum Qeon",
+   "Paper Rex"
+  ],
+  "vods": [
+   {
+    "id": "BphA_KZGX1s",
+    "durationSec": 20046
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Corrode",
+    "pickBy": "RRQ",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   },
+   {
+    "number": 3,
+    "name": "Breeze",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 4,
+    "name": "Pearl",
+    "pickBy": "RRQ",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "594740",
+  "eventId": "2684",
+  "teams": [
+   "Natus Vincere",
+   "Karmine Corp"
+  ],
+  "vods": [
+   {
+    "id": "9p1mWmgKxzw",
+    "durationSec": 3703
+   },
+   {
+    "id": "vmHDaEidRwY",
+    "durationSec": 2679
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "NAVI",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "KC",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "594741",
+  "eventId": "2684",
+  "teams": [
+   "FUT Esports",
+   "Gentle Mates"
+  ],
+  "vods": [
+   {
+    "id": "_wEODEhcuZM",
+    "durationSec": 2480
+   },
+   {
+    "id": "yP1vqD_y_cM",
+    "durationSec": 2829
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "FUT",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "M8",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "594742",
+  "eventId": "2684",
+  "teams": [
+   "PCIFIC Esports",
+   "BBL Esports"
+  ],
+  "vods": [
+   {
+    "id": "JMdZEiRsOPE",
+    "durationSec": 3421
+   },
+   {
+    "id": "s0d8HJgIrBo",
+    "durationSec": 2899
+   },
+   {
+    "id": "z2kIRd_O420",
+    "durationSec": 2579
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "BBL",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Abyss",
+    "pickBy": "PCF",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "594743",
+  "eventId": "2684",
+  "teams": [
+   "ULF Esports",
+   "Team Vitality"
+  ],
+  "vods": [
+   {
+    "id": "DBr-UhiJ2Hg",
+    "durationSec": 2061
+   },
+   {
+    "id": "dVXji4MoJac",
+    "durationSec": 1812
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "VIT",
+    "played": true,
+    "score": "3-13",
+    "nRounds": 16
+   },
+   {
+    "number": 2,
+    "name": "Corrode",
+    "pickBy": "ULF",
+    "played": true,
+    "score": "1-13",
+    "nRounds": 14
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "594744",
+  "eventId": "2684",
+  "teams": [
+   "Team Heretics",
+   "Natus Vincere"
+  ],
+  "vods": [
+   {
+    "id": "MoGdub-zo30",
+    "durationSec": 2791
+   },
+   {
+    "id": "gbfDK3-aGP4",
+    "durationSec": 3449
+   },
+   {
+    "id": "ovd1z9S1fKU",
+    "durationSec": 3504
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Bind",
+    "pickBy": "NAVI",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "TH",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "594745",
+  "eventId": "2684",
+  "teams": [
+   "GIANTX",
+   "Gentle Mates"
+  ],
+  "vods": [
+   {
+    "id": "ER4d2ZfqE60",
+    "durationSec": 3289
+   },
+   {
+    "id": "vYlHJuvQ6DM",
+    "durationSec": 3192
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "M8",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "GX",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "594746",
+  "eventId": "2684",
+  "teams": [
+   "FNATIC",
+   "BBL Esports"
+  ],
+  "vods": [
+   {
+    "id": "N85feoUIfFw",
+    "durationSec": 3025
+   },
+   {
+    "id": "y0iLzSFmBCA",
+    "durationSec": 3332
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "BBL",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "FNC",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "594747",
+  "eventId": "2684",
+  "teams": [
+   "Team Liquid",
+   "Team Vitality"
+  ],
+  "vods": [
+   {
+    "id": "DX9YeWktzEA",
+    "durationSec": 3354
+   },
+   {
+    "id": "IDmqAHWSuJU",
+    "durationSec": 3430
+   },
+   {
+    "id": "KQEdjZEUCUo",
+    "durationSec": 3751
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "VIT",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "TL",
+    "played": true,
+    "score": "14-12",
+    "nRounds": 26
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "594748",
+  "eventId": "2684",
+  "teams": [
+   "Natus Vincere",
+   "Gentle Mates"
+  ],
+  "vods": [
+   {
+    "id": "Qqwp7YVkvOY",
+    "durationSec": 3121
+   },
+   {
+    "id": "oQXgYysIuVA",
+    "durationSec": 2511
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "M8",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "NAVI",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "594749",
+  "eventId": "2684",
+  "teams": [
+   "BBL Esports",
+   "Team Vitality"
+  ],
+  "vods": [
+   {
+    "id": "Smn5_qYH-iQ",
+    "durationSec": 3228
+   },
+   {
+    "id": "gM3Qn-nGADQ",
+    "durationSec": 3233
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "BBL",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Abyss",
+    "pickBy": "VIT",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "594750",
+  "eventId": "2684",
+  "teams": [
+   "Gentle Mates",
+   "BBL Esports"
+  ],
+  "vods": [
+   {
+    "id": "0beu_DeYMP0",
+    "durationSec": 4411
+   },
+   {
+    "id": "1167a-PtWmA",
+    "durationSec": 4172
+   },
+   {
+    "id": "JwYUd4g6CXc",
+    "durationSec": 2607
+   },
+   {
+    "id": "OboSxolC-o0",
+    "durationSec": 3304
+   },
+   {
+    "id": "o9vPUeqxUOA",
+    "durationSec": 2349
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "BBL",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Abyss",
+    "pickBy": "M8",
+    "played": true,
+    "score": "13-15",
+    "nRounds": 28
+   },
+   {
+    "number": 3,
+    "name": "Pearl",
+    "pickBy": "BBL",
+    "played": true,
+    "score": "14-16",
+    "nRounds": 30
+   },
+   {
+    "number": 4,
+    "name": "Split",
+    "pickBy": "M8",
+    "played": true,
+    "score": "13-4",
+    "nRounds": 17
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "594751",
+  "eventId": "2684",
+  "teams": [
+   "Karmine Corp",
+   "Team Liquid"
+  ],
+  "vods": [
+   {
+    "id": "SBpFNohnYN0",
+    "durationSec": 2235
+   },
+   {
+    "id": "TaCWRYu9d5U",
+    "durationSec": 3695
+   },
+   {
+    "id": "nIMUeONb748",
+    "durationSec": 2974
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "KC",
+    "played": true,
+    "score": "13-2",
+    "nRounds": 15
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "TL",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "594752",
+  "eventId": "2684",
+  "teams": [
+   "FUT Esports",
+   "FNATIC"
+  ],
+  "vods": [
+   {
+    "id": "3v-p4e204_I",
+    "durationSec": 4513
+   },
+   {
+    "id": "PObA6A7lFbU",
+    "durationSec": 4360
+   },
+   {
+    "id": "vu0ejM1FWMo",
+    "durationSec": 2435
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "FUT",
+    "played": true,
+    "score": "3-13",
+    "nRounds": 16
+   },
+   {
+    "number": 2,
+    "name": "Corrode",
+    "pickBy": "FNC",
+    "played": true,
+    "score": "18-16",
+    "nRounds": 34
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "594753",
+  "eventId": "2684",
+  "teams": [
+   "PCIFIC Esports",
+   "GIANTX"
+  ],
+  "vods": [
+   {
+    "id": "9VeR1CxZdes",
+    "durationSec": 3358
+   },
+   {
+    "id": "jJ5mR5gxHFo",
+    "durationSec": 3569
+   },
+   {
+    "id": "qRUHXb6rBCw",
+    "durationSec": 2907
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "PCF",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "GX",
+    "played": true,
+    "score": "14-12",
+    "nRounds": 26
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "594754",
+  "eventId": "2684",
+  "teams": [
+   "ULF Esports",
+   "Team Heretics"
+  ],
+  "vods": [
+   {
+    "id": "MBTZ6oE_Xfs",
+    "durationSec": 2890
+   },
+   {
+    "id": "_0Hdke8TIUA",
+    "durationSec": 2707
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "ULF",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "TH",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "594755",
+  "eventId": "2684",
+  "teams": [
+   "Team Liquid",
+   "FNATIC"
+  ],
+  "vods": [
+   {
+    "id": "VFncdvI1Cts",
+    "durationSec": 2416
+   },
+   {
+    "id": "tjtE0yigAC8",
+    "durationSec": 3329
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Corrode",
+    "pickBy": "FNC",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "TL",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "594756",
+  "eventId": "2684",
+  "teams": [
+   "GIANTX",
+   "Team Heretics"
+  ],
+  "vods": [
+   {
+    "id": "WKm8eAtbsf0",
+    "durationSec": 3149
+   },
+   {
+    "id": "r5w1Y6XjuOY",
+    "durationSec": 2776
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "GX",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "TH",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "594757",
+  "eventId": "2684",
+  "teams": [
+   "Natus Vincere",
+   "FNATIC"
+  ],
+  "vods": [
+   {
+    "id": "wUy_yavxO7E",
+    "durationSec": 3537
+   },
+   {
+    "id": "wztG1VPxZCs",
+    "durationSec": 4717
+   },
+   {
+    "id": "yyO8JIE7ryU",
+    "durationSec": 2697
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "NAVI",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "FNC",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "594758",
+  "eventId": "2684",
+  "teams": [
+   "Team Vitality",
+   "GIANTX"
+  ],
+  "vods": [
+   {
+    "id": "PAe4-YFRXdo",
+    "durationSec": 3186
+   },
+   {
+    "id": "h5XcW_4DP9U",
+    "durationSec": 2020
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "GX",
+    "played": true,
+    "score": "13-0",
+    "nRounds": 13
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "VIT",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "594759",
+  "eventId": "2684",
+  "teams": [
+   "FNATIC",
+   "Team Vitality"
+  ],
+  "vods": [
+   {
+    "id": "WHxbH44UOtg",
+    "durationSec": 2557
+   },
+   {
+    "id": "oWpN_BVCeqM",
+    "durationSec": 2894
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "VIT",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "FNC",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "594760",
+  "eventId": "2684",
+  "teams": [
+   "Gentle Mates",
+   "FNATIC"
+  ],
+  "vods": [
+   {
+    "id": "CgiG8TiOt10",
+    "durationSec": 3890
+   },
+   {
+    "id": "HHImOL4wqQQ",
+    "durationSec": 3242
+   },
+   {
+    "id": "RnTwz7vV5fs",
+    "durationSec": 2754
+   },
+   {
+    "id": "Ta6gx4OJkAQ",
+    "durationSec": 4379
+   },
+   {
+    "id": "aSNdGl_1MO8",
+    "durationSec": 3651
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "M8",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Corrode",
+    "pickBy": "FNC",
+    "played": true,
+    "score": "14-16",
+    "nRounds": 30
+   },
+   {
+    "number": 3,
+    "name": "Split",
+    "pickBy": "M8",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   },
+   {
+    "number": 4,
+    "name": "Bind",
+    "pickBy": "FNC",
+    "played": true,
+    "score": "14-12",
+    "nRounds": 26
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "594761",
+  "eventId": "2684",
+  "teams": [
+   "Karmine Corp",
+   "FUT Esports"
+  ],
+  "vods": [
+   {
+    "id": "7mYAUwYT4sA",
+    "durationSec": 3310
+   },
+   {
+    "id": "IKBQux2gtog",
+    "durationSec": 2705
+   },
+   {
+    "id": "d1xmKRLCVxk",
+    "durationSec": 3600
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "KC",
+    "played": true,
+    "score": "14-12",
+    "nRounds": 26
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "FUT",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "594762",
+  "eventId": "2684",
+  "teams": [
+   "PCIFIC Esports",
+   "ULF Esports"
+  ],
+  "vods": [
+   {
+    "id": "74O3qZKhqYI",
+    "durationSec": 2502
+   },
+   {
+    "id": "lHX3vPDHWJI",
+    "durationSec": 2494
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "ULF",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Abyss",
+    "pickBy": "PCF",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "594763",
+  "eventId": "2684",
+  "teams": [
+   "Team Heretics",
+   "Karmine Corp"
+  ],
+  "vods": [
+   {
+    "id": "g3TwPy-6vFg",
+    "durationSec": 1990
+   },
+   {
+    "id": "mxj9M_u24w8",
+    "durationSec": 2862
+   },
+   {
+    "id": "wxe0na8_9xc",
+    "durationSec": 3399
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "KC",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "TH",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "594764",
+  "eventId": "2684",
+  "teams": [
+   "Team Liquid",
+   "ULF Esports"
+  ],
+  "vods": [
+   {
+    "id": "AQ3-CA27UQ4",
+    "durationSec": 3691
+   },
+   {
+    "id": "AnT9PHThSiY",
+    "durationSec": 3038
+   },
+   {
+    "id": "lQBtDQzrF-I",
+    "durationSec": 2241
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "ULF",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "TL",
+    "played": true,
+    "score": "14-12",
+    "nRounds": 26
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "594765",
+  "eventId": "2684",
+  "teams": [
+   "Natus Vincere",
+   "Team Heretics"
+  ],
+  "vods": [
+   {
+    "id": "lKdQ4Nui5dI",
+    "durationSec": 2583
+   },
+   {
+    "id": "rXzh4GDPVn0",
+    "durationSec": 2403
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "TH",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "NAVI",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "594766",
+  "eventId": "2684",
+  "teams": [
+   "GIANTX",
+   "Team Liquid"
+  ],
+  "vods": [
+   {
+    "id": "CoDqrmxPlhE",
+    "durationSec": 2532
+   },
+   {
+    "id": "X28xgGbXLqA",
+    "durationSec": 4148
+   },
+   {
+    "id": "eCsbBamtz_c",
+    "durationSec": 2130
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "TL",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "GX",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "594767",
+  "eventId": "2684",
+  "teams": [
+   "Team Heretics",
+   "Team Liquid"
+  ],
+  "vods": [
+   {
+    "id": "o8TEmrIIlmQ",
+    "durationSec": 2055
+   },
+   {
+    "id": "qNb47HQc9yQ",
+    "durationSec": 3393
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "TL",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "TH",
+    "played": true,
+    "score": "3-13",
+    "nRounds": 16
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "594768",
+  "eventId": "2684",
+  "teams": [
+   "Team Vitality",
+   "Team Liquid"
+  ],
+  "vods": [
+   {
+    "id": "BdGhy578yRg",
+    "durationSec": 2176
+   },
+   {
+    "id": "L5GTmVn22nY",
+    "durationSec": 3100
+   },
+   {
+    "id": "eN9kCiX4-Wc",
+    "durationSec": 2939
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Corrode",
+    "pickBy": "VIT",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "TL",
+    "played": true,
+    "score": "3-13",
+    "nRounds": 16
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "594769",
+  "eventId": "2684",
+  "teams": [
+   "FNATIC",
+   "Team Liquid"
+  ],
+  "vods": [
+   {
+    "id": "aNYpWFwNcHo",
+    "durationSec": 4403
+   },
+   {
+    "id": "rI-KtoFS_lY",
+    "durationSec": 2436
+   },
+   {
+    "id": "sPiizhRzNQI",
+    "durationSec": 2878
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Corrode",
+    "pickBy": "FNC",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "TL",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 3,
+    "name": "Abyss",
+    "pickBy": "FNC",
+    "played": true,
+    "score": "16-18",
+    "nRounds": 34
+   },
+   {
+    "number": 4,
+    "name": "Breeze",
+    "pickBy": "TL",
+    "played": false
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "598921",
+  "eventId": "2685",
+  "teams": [
+   "All Gamers",
+   "Nova Esports"
+  ],
+  "vods": [
+   {
+    "id": "ol0k3j1KwwA",
+    "durationSec": 25485
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "AG",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "NOVA",
+    "played": true,
+    "score": "16-14",
+    "nRounds": 30
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "598922",
+  "eventId": "2685",
+  "teams": [
+   "JD Gaming",
+   "Titan Esports Club"
+  ],
+  "vods": [
+   {
+    "id": "ol0k3j1KwwA",
+    "durationSec": 25485
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Corrode",
+    "pickBy": "TEC",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "JDG",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "598923",
+  "eventId": "2685",
+  "teams": [
+   "Trace Esports",
+   "Wolves Esports"
+  ],
+  "vods": [
+   {
+    "id": "5Rkiwl1nAQw",
+    "durationSec": 22701
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "TE",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "WOL",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "598924",
+  "eventId": "2685",
+  "teams": [
+   "FunPlus Phoenix",
+   "TYLOO"
+  ],
+  "vods": [
+   {
+    "id": "5Rkiwl1nAQw",
+    "durationSec": 22701
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "TYL",
+    "played": true,
+    "score": "3-13",
+    "nRounds": 16
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "FPX",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "598925",
+  "eventId": "2685",
+  "teams": [
+   "Bilibili Gaming",
+   "All Gamers"
+  ],
+  "vods": [
+   {
+    "id": "gxmSibPwVa0",
+    "durationSec": 24881
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "AG",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Abyss",
+    "pickBy": "BLG",
+    "played": true,
+    "score": "3-13",
+    "nRounds": 16
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "598926",
+  "eventId": "2685",
+  "teams": [
+   "Dragon Ranger Gaming",
+   "JD Gaming"
+  ],
+  "vods": [
+   {
+    "id": "gxmSibPwVa0",
+    "durationSec": 24881
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "DRG",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "JDG",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "598927",
+  "eventId": "2685",
+  "teams": [
+   "Xi Lai Gaming",
+   "Wolves Esports"
+  ],
+  "vods": [
+   {
+    "id": "KJakzKO9ZNc",
+    "durationSec": 20976
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "WOL",
+    "played": true,
+    "score": "13-4",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Abyss",
+    "pickBy": "XLG",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "598928",
+  "eventId": "2685",
+  "teams": [
+   "EDward Gaming",
+   "TYLOO"
+  ],
+  "vods": [
+   {
+    "id": "KJakzKO9ZNc",
+    "durationSec": 20976
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "TYL",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "EDG",
+    "played": true,
+    "score": "14-12",
+    "nRounds": 26
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "598929",
+  "eventId": "2685",
+  "teams": [
+   "All Gamers",
+   "Dragon Ranger Gaming"
+  ],
+  "vods": [
+   {
+    "id": "HnbqptWth3c",
+    "durationSec": 35296
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Corrode",
+    "pickBy": "DRG",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "AG",
+    "played": true,
+    "score": "15-13",
+    "nRounds": 28
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "598930",
+  "eventId": "2685",
+  "teams": [
+   "Xi Lai Gaming",
+   "EDward Gaming"
+  ],
+  "vods": [
+   {
+    "id": "YMeVs8FovWs",
+    "durationSec": 21901
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "EDG",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "XLG",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "598931",
+  "eventId": "2685",
+  "teams": [
+   "All Gamers",
+   "Xi Lai Gaming"
+  ],
+  "vods": [
+   {
+    "id": "BPBpSlcjJkQ",
+    "durationSec": 35968
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "XLG",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "AG",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   },
+   {
+    "number": 3,
+    "name": "Bind",
+    "pickBy": "XLG",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 4,
+    "name": "Abyss",
+    "pickBy": "AG",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "598932",
+  "eventId": "2685",
+  "teams": [
+   "Nova Esports",
+   "TYLOO"
+  ],
+  "vods": [
+   {
+    "id": "h2nIgi0Zxck",
+    "durationSec": 22922
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "TYL",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Corrode",
+    "pickBy": "NOVA",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "598933",
+  "eventId": "2685",
+  "teams": [
+   "Titan Esports Club",
+   "Wolves Esports"
+  ],
+  "vods": [
+   {
+    "id": "h2nIgi0Zxck",
+    "durationSec": 22922
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "TEC",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "WOL",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "598934",
+  "eventId": "2685",
+  "teams": [
+   "Trace Esports",
+   "JD Gaming"
+  ],
+  "vods": [
+   {
+    "id": "S_10Zxu6P1Y",
+    "durationSec": 24111
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "TE",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "JDG",
+    "played": true,
+    "score": "3-13",
+    "nRounds": 16
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "598935",
+  "eventId": "2685",
+  "teams": [
+   "FunPlus Phoenix",
+   "Bilibili Gaming"
+  ],
+  "vods": [
+   {
+    "id": "S_10Zxu6P1Y",
+    "durationSec": 24111
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "BLG",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "FPX",
+    "played": true,
+    "score": "15-17",
+    "nRounds": 32
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "598936",
+  "eventId": "2685",
+  "teams": [
+   "TYLOO",
+   "Titan Esports Club"
+  ],
+  "vods": [
+   {
+    "id": "hmat3Zf61Dg",
+    "durationSec": 32002
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Corrode",
+    "pickBy": "TYL",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "TEC",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "598937",
+  "eventId": "2685",
+  "teams": [
+   "Trace Esports",
+   "Bilibili Gaming"
+  ],
+  "vods": [
+   {
+    "id": "hmat3Zf61Dg",
+    "durationSec": 32002
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "TE",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "BLG",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "598938",
+  "eventId": "2685",
+  "teams": [
+   "Dragon Ranger Gaming",
+   "TYLOO"
+  ],
+  "vods": [
+   {
+    "id": "LBY_hD9216c",
+    "durationSec": 27255
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Corrode",
+    "pickBy": "DRG",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "TYL",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "598939",
+  "eventId": "2685",
+  "teams": [
+   "EDward Gaming",
+   "Bilibili Gaming"
+  ],
+  "vods": [
+   {
+    "id": "SMQAfOk2I4Q",
+    "durationSec": 26968
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "BLG",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "EDG",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "598940",
+  "eventId": "2685",
+  "teams": [
+   "Dragon Ranger Gaming",
+   "Bilibili Gaming"
+  ],
+  "vods": [
+   {
+    "id": "LCK_c_jvQAI",
+    "durationSec": 22286
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "DRG",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Abyss",
+    "pickBy": "BLG",
+    "played": true,
+    "score": "2-13",
+    "nRounds": 15
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "598941",
+  "eventId": "2685",
+  "teams": [
+   "Xi Lai Gaming",
+   "Bilibili Gaming"
+  ],
+  "vods": [
+   {
+    "id": "XH9kJ6LHF8w",
+    "durationSec": 32121
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "BLG",
+    "played": true,
+    "score": "14-16",
+    "nRounds": 30
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "XLG",
+    "played": true,
+    "score": "13-4",
+    "nRounds": 17
+   },
+   {
+    "number": 3,
+    "name": "Breeze",
+    "pickBy": "BLG",
+    "played": true,
+    "score": "12-14",
+    "nRounds": 26
+   },
+   {
+    "number": 4,
+    "name": "Pearl",
+    "pickBy": "XLG",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "598942",
+  "eventId": "2685",
+  "teams": [
+   "Nova Esports",
+   "Wolves Esports"
+  ],
+  "vods": [
+   {
+    "id": "HnbqptWth3c",
+    "durationSec": 35296
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "NOVA",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "WOL",
+    "played": true,
+    "score": "3-13",
+    "nRounds": 16
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "598943",
+  "eventId": "2685",
+  "teams": [
+   "JD Gaming",
+   "FunPlus Phoenix"
+  ],
+  "vods": [
+   {
+    "id": "YMeVs8FovWs",
+    "durationSec": 21901
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "JDG",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "FPX",
+    "played": true,
+    "score": "13-3",
+    "nRounds": 16
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "598944",
+  "eventId": "2685",
+  "teams": [
+   "Trace Esports",
+   "Wolves Esports"
+  ],
+  "vods": [
+   {
+    "id": "LBY_hD9216c",
+    "durationSec": 27255
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "TE",
+    "played": true,
+    "score": "12-14",
+    "nRounds": 26
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "WOL",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "598945",
+  "eventId": "2685",
+  "teams": [
+   "Titan Esports Club",
+   "JD Gaming"
+  ],
+  "vods": [
+   {
+    "id": "SMQAfOk2I4Q",
+    "durationSec": 26968
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Bind",
+    "pickBy": "JDG",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "TEC",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "598946",
+  "eventId": "2685",
+  "teams": [
+   "TYLOO",
+   "Trace Esports"
+  ],
+  "vods": [
+   {
+    "id": "IvBEi6Wy8no",
+    "durationSec": 22657
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "TYL",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Abyss",
+    "pickBy": "TE",
+    "played": true,
+    "score": "14-12",
+    "nRounds": 26
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "598947",
+  "eventId": "2685",
+  "teams": [
+   "EDward Gaming",
+   "JD Gaming"
+  ],
+  "vods": [
+   {
+    "id": "IvBEi6Wy8no",
+    "durationSec": 22657
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "JDG",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "EDG",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "598948",
+  "eventId": "2685",
+  "teams": [
+   "TYLOO",
+   "EDward Gaming"
+  ],
+  "vods": [
+   {
+    "id": "LCK_c_jvQAI",
+    "durationSec": 22286
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Bind",
+    "pickBy": "EDG",
+    "played": true,
+    "score": "13-3",
+    "nRounds": 16
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "TYL",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "598949",
+  "eventId": "2685",
+  "teams": [
+   "Dragon Ranger Gaming",
+   "EDward Gaming"
+  ],
+  "vods": [
+   {
+    "id": "BPBpSlcjJkQ",
+    "durationSec": 35968
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "EDG",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "DRG",
+    "played": true,
+    "score": "2-13",
+    "nRounds": 15
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "598950",
+  "eventId": "2685",
+  "teams": [
+   "Bilibili Gaming",
+   "EDward Gaming"
+  ],
+  "vods": [
+   {
+    "id": "bJy2X-c2iB0",
+    "durationSec": 20143
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "BLG",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "EDG",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 3,
+    "name": "Abyss",
+    "pickBy": "BLG",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 4,
+    "name": "Split",
+    "pickBy": "EDG",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "626537",
+  "eventId": "2760",
+  "teams": [
+   "Nongshim RedForce",
+   "Gentle Mates"
+  ],
+  "vods": [
+   {
+    "id": "-wX7dk_wdRU",
+    "durationSec": 5061
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "M8",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Corrode",
+    "pickBy": "NS",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "626538",
+  "eventId": "2760",
+  "teams": [
+   "All Gamers",
+   "G2 Esports"
+  ],
+  "vods": [
+   {
+    "id": "Hl65QMr-f8w",
+    "durationSec": 4948
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "AG",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Abyss",
+    "pickBy": "G2",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "626539",
+  "eventId": "2760",
+  "teams": [
+   "FURIA",
+   "Paper Rex"
+  ],
+  "vods": [
+   {
+    "id": "CSk1dca-rss",
+    "durationSec": 7670
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "FUR",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "626540",
+  "eventId": "2760",
+  "teams": [
+   "BBL Esports",
+   "NRG"
+  ],
+  "vods": [
+   {
+    "id": "ufgHES26TeE",
+    "durationSec": 9196
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "BBL",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Abyss",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "626541",
+  "eventId": "2760",
+  "teams": [
+   "Nongshim RedForce",
+   "G2 Esports"
+  ],
+  "vods": [
+   {
+    "id": "EpC_Wn5viOQ",
+    "durationSec": 8474
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Abyss",
+    "pickBy": "G2",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Corrode",
+    "pickBy": "NS",
+    "played": true,
+    "score": "14-12",
+    "nRounds": 26
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "626542",
+  "eventId": "2760",
+  "teams": [
+   "Paper Rex",
+   "NRG"
+  ],
+  "vods": [
+   {
+    "id": "lbH8PxtdlHs",
+    "durationSec": 7002
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "12-14",
+    "nRounds": 26
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "626543",
+  "eventId": "2760",
+  "teams": [
+   "Nongshim RedForce",
+   "NRG"
+  ],
+  "vods": [
+   {
+    "id": "zSks_VrlpCE",
+    "durationSec": 6033
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Bind",
+    "pickBy": "NS",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Abyss",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "626544",
+  "eventId": "2760",
+  "teams": [
+   "Nongshim RedForce",
+   "Paper Rex"
+  ],
+  "vods": [
+   {
+    "id": "NR1AEXusjac",
+    "durationSec": 7076
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Corrode",
+    "pickBy": "NS",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "13-4",
+    "nRounds": 17
+   },
+   {
+    "number": 3,
+    "name": "Abyss",
+    "pickBy": "NS",
+    "played": true,
+    "score": "13-3",
+    "nRounds": 16
+   },
+   {
+    "number": 4,
+    "name": "Haven",
+    "pickBy": "PRX",
+    "played": false
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "626545",
+  "eventId": "2760",
+  "teams": [
+   "Gentle Mates",
+   "All Gamers"
+  ],
+  "vods": [
+   {
+    "id": "3cyBswcpKBg",
+    "durationSec": 7604
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "M8",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "AG",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "626546",
+  "eventId": "2760",
+  "teams": [
+   "FURIA",
+   "BBL Esports"
+  ],
+  "vods": [
+   {
+    "id": "timJ-FSwaAM",
+    "durationSec": 8937
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "FUR",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "BBL",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "626547",
+  "eventId": "2760",
+  "teams": [
+   "Paper Rex",
+   "All Gamers"
+  ],
+  "vods": [
+   {
+    "id": "6OBZIQwBmM8",
+    "durationSec": 8445
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Corrode",
+    "pickBy": "AG",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "626548",
+  "eventId": "2760",
+  "teams": [
+   "G2 Esports",
+   "BBL Esports"
+  ],
+  "vods": [
+   {
+    "id": "nFCE8az8CTw",
+    "durationSec": 5616
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "BBL",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "G2",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "626549",
+  "eventId": "2760",
+  "teams": [
+   "Paper Rex",
+   "G2 Esports"
+  ],
+  "vods": [
+   {
+    "id": "Q5-jDQhlYTE",
+    "durationSec": 7969
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "G2",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "626550",
+  "eventId": "2760",
+  "teams": [
+   "NRG",
+   "Paper Rex"
+  ],
+  "vods": [
+   {
+    "id": "khErde2Dhbg",
+    "durationSec": 11008
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 3,
+    "name": "Corrode",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 4,
+    "name": "Breeze",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "670464",
+  "eventId": "2765",
+  "teams": [
+   "G2 Esports",
+   "Xi Lai Gaming"
+  ],
+  "vods": [
+   {
+    "id": "z2p_eCxcIAI",
+    "durationSec": 8748
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "XLG",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "G2",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "670465",
+  "eventId": "2765",
+  "teams": [
+   "EDward Gaming",
+   "FUT Esports"
+  ],
+  "vods": [
+   {
+    "id": "vFmM51y2IEk",
+    "durationSec": 7628
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "FUT",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "EDG",
+    "played": true,
+    "score": "14-12",
+    "nRounds": 26
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "670466",
+  "eventId": "2765",
+  "teams": [
+   "Paper Rex",
+   "LEVIATÁN"
+  ],
+  "vods": [
+   {
+    "id": "BAH3zpoOYXQ",
+    "durationSec": 4789
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Ascent",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "13-1",
+    "nRounds": 14
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "670467",
+  "eventId": "2765",
+  "teams": [
+   "Team Heretics",
+   "Team Vitality"
+  ],
+  "vods": [
+   {
+    "id": "pMYvVg8VjWE",
+    "durationSec": 5413
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "VIT",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "TH",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "670468",
+  "eventId": "2765",
+  "teams": [
+   "Xi Lai Gaming",
+   "EDward Gaming"
+  ],
+  "vods": [
+   {
+    "id": "9PwEfkFweiE",
+    "durationSec": 8583
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "XLG",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "EDG",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "670469",
+  "eventId": "2765",
+  "teams": [
+   "Paper Rex",
+   "Team Vitality"
+  ],
+  "vods": [
+   {
+    "id": "1VqGWzbVVL8",
+    "durationSec": 7048
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "VIT",
+    "played": true,
+    "score": "13-3",
+    "nRounds": 16
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "670470",
+  "eventId": "2765",
+  "teams": [
+   "EDward Gaming",
+   "Paper Rex"
+  ],
+  "vods": [
+   {
+    "id": "-nfe8xeT-ao",
+    "durationSec": 9499
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "15-13",
+    "nRounds": 28
+   },
+   {
+    "number": 2,
+    "name": "Fracture",
+    "pickBy": "EDG",
+    "played": true,
+    "score": "12-14",
+    "nRounds": 26
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "670471",
+  "eventId": "2765",
+  "teams": [
+   "Paper Rex",
+   "LEVIATÁN"
+  ],
+  "vods": [
+   {
+    "id": "yWqPVOvSJPg",
+    "durationSec": 13027
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Fracture",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "13-2",
+    "nRounds": 15
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 3,
+    "name": "Breeze",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   },
+   {
+    "number": 4,
+    "name": "Ascent",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "670472",
+  "eventId": "2765",
+  "teams": [
+   "G2 Esports",
+   "FUT Esports"
+  ],
+  "vods": [
+   {
+    "id": "QCianVVO54A",
+    "durationSec": 6745
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Ascent",
+    "pickBy": "FUT",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "G2",
+    "played": true,
+    "score": "13-15",
+    "nRounds": 28
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "670473",
+  "eventId": "2765",
+  "teams": [
+   "LEVIATÁN",
+   "Team Heretics"
+  ],
+  "vods": [
+   {
+    "id": "vaEwNmGq364",
+    "durationSec": 7755
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "13-3",
+    "nRounds": 16
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "TH",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "670474",
+  "eventId": "2765",
+  "teams": [
+   "Team Vitality",
+   "FUT Esports"
+  ],
+  "vods": [
+   {
+    "id": "FpGHDFsnKJM",
+    "durationSec": 4858
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "VIT",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "FUT",
+    "played": true,
+    "score": "13-2",
+    "nRounds": 15
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "670475",
+  "eventId": "2765",
+  "teams": [
+   "Xi Lai Gaming",
+   "LEVIATÁN"
+  ],
+  "vods": [
+   {
+    "id": "yuN_-2pPxAQ",
+    "durationSec": 4712
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "XLG",
+    "played": true,
+    "score": "3-13",
+    "nRounds": 16
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "670476",
+  "eventId": "2765",
+  "teams": [
+   "Team Vitality",
+   "LEVIATÁN"
+  ],
+  "vods": [
+   {
+    "id": "Zxy9lFlO8Jc",
+    "durationSec": 4915
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "VIT",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "670477",
+  "eventId": "2765",
+  "teams": [
+   "EDward Gaming",
+   "LEVIATÁN"
+  ],
+  "vods": [
+   {
+    "id": "n4jX567C_hw",
+    "durationSec": 8196
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "EDG",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 3,
+    "name": "Split",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 4,
+    "name": "Fracture",
+    "pickBy": "EDG",
+    "played": false
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644652",
+  "eventId": "2775",
+  "teams": [
+   "Gen G",
+   "Global Esports"
+  ],
+  "vods": [
+   {
+    "id": "m9Ievrepbww",
+    "durationSec": 19648
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Bind",
+    "pickBy": "GE",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "GEN",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644654",
+  "eventId": "2775",
+  "teams": [
+   "Nongshim Redforce",
+   "Paper Rex"
+  ],
+  "vods": [
+   {
+    "id": "9YY2O5Tx0Pw",
+    "durationSec": 22296
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Fracture",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "15-13",
+    "nRounds": 28
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "NS",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644656",
+  "eventId": "2775",
+  "teams": [
+   "Team Secret",
+   "Drx"
+  ],
+  "vods": [
+   {
+    "id": "_oZviE6kAas",
+    "durationSec": 22814
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "TS",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Fracture",
+    "pickBy": "KRX",
+    "played": true,
+    "score": "13-15",
+    "nRounds": 28
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644659",
+  "eventId": "2775",
+  "teams": [
+   "Nongshim Redforce",
+   "Drx"
+  ],
+  "vods": [
+   {
+    "id": "44oMtwXAYf8",
+    "durationSec": 24540
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "NS",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Fracture",
+    "pickBy": "KRX",
+    "played": true,
+    "score": "15-13",
+    "nRounds": 28
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644660",
+  "eventId": "2775",
+  "teams": [
+   "Team Secret",
+   "Global Esports"
+  ],
+  "vods": [
+   {
+    "id": "Qp4zxBw1u4c",
+    "durationSec": 21284
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "GE",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "TS",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644663",
+  "eventId": "2775",
+  "teams": [
+   "Gen G",
+   "Paper Rex"
+  ],
+  "vods": [
+   {
+    "id": "Tea_WwGFJc8",
+    "durationSec": 21743
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "GEN",
+    "played": true,
+    "score": "17-15",
+    "nRounds": 32
+   },
+   {
+    "number": 2,
+    "name": "Fracture",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "3-13",
+    "nRounds": 16
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644666",
+  "eventId": "2775",
+  "teams": [
+   "Team Secret",
+   "Paper Rex"
+  ],
+  "vods": [
+   {
+    "id": "2IwKw_LG64U",
+    "durationSec": 19582
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "TS",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "16-18",
+    "nRounds": 34
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644667",
+  "eventId": "2775",
+  "teams": [
+   "Kiwoom Drx",
+   "Global Esports"
+  ],
+  "vods": [
+   {
+    "id": "QLsCFQ9yzpE",
+    "durationSec": 22420
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Fracture",
+    "pickBy": "KRX",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "GE",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644670",
+  "eventId": "2775",
+  "teams": [
+   "Nongshim Redforce",
+   "Gen G"
+  ],
+  "vods": [
+   {
+    "id": "JiyDFdTz11c",
+    "durationSec": 19772
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "NS",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "GEN",
+    "played": true,
+    "score": "13-3",
+    "nRounds": 16
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644672",
+  "eventId": "2775",
+  "teams": [
+   "Paper Rex",
+   "Global Esports"
+  ],
+  "vods": [
+   {
+    "id": "xC4V8x91ALQ",
+    "durationSec": 21636
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "GE",
+    "played": true,
+    "score": "13-3",
+    "nRounds": 16
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644673",
+  "eventId": "2775",
+  "teams": [
+   "Gen G",
+   "Kiwoom Drx"
+  ],
+  "vods": [
+   {
+    "id": "4Ll6PfUa3_I",
+    "durationSec": 28972
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "GEN",
+    "played": true,
+    "score": "13-3",
+    "nRounds": 16
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "KRX",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644676",
+  "eventId": "2775",
+  "teams": [
+   "Nongshim Redforce",
+   "Team Secret"
+  ],
+  "vods": [
+   {
+    "id": "znMI4eE9_3Y",
+    "durationSec": 21316
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "NS",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Fracture",
+    "pickBy": "TS",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644677",
+  "eventId": "2775",
+  "teams": [
+   "Gen G",
+   "Team Secret"
+  ],
+  "vods": [
+   {
+    "id": "Czkh8wierro",
+    "durationSec": 26334
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "TS",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "GEN",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644680",
+  "eventId": "2775",
+  "teams": [
+   "Nongshim Redforce",
+   "Global Esports"
+  ],
+  "vods": [
+   {
+    "id": "9cRHCZoUBwI",
+    "durationSec": 26902
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "NS",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "GE",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644681",
+  "eventId": "2775",
+  "teams": [
+   "Paper Rex",
+   "Kiwoom Drx"
+  ],
+  "vods": [
+   {
+    "id": "f6VXtU2i110",
+    "durationSec": 22244
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "KRX",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644653",
+  "eventId": "2775",
+  "teams": [
+   "T1",
+   "Varrel"
+  ],
+  "vods": [
+   {
+    "id": "m9Ievrepbww",
+    "durationSec": 19648
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "T1",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "VL",
+    "played": true,
+    "score": "13-4",
+    "nRounds": 17
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644655",
+  "eventId": "2775",
+  "teams": [
+   "Full Sense",
+   "Detonation Focusme"
+  ],
+  "vods": [
+   {
+    "id": "9YY2O5Tx0Pw",
+    "durationSec": 22296
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "DFM",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "FS",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644657",
+  "eventId": "2775",
+  "teams": [
+   "Rex Regum Qeon",
+   "Zeta Division"
+  ],
+  "vods": [
+   {
+    "id": "_oZviE6kAas",
+    "durationSec": 22814
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "ZETA",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Fracture",
+    "pickBy": "RRQ",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644658",
+  "eventId": "2775",
+  "teams": [
+   "Detonation Focusme",
+   "T1"
+  ],
+  "vods": [
+   {
+    "id": "44oMtwXAYf8",
+    "durationSec": 24540
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "DFM",
+    "played": true,
+    "score": "13-15",
+    "nRounds": 28
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "T1",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644661",
+  "eventId": "2775",
+  "teams": [
+   "Rex Regum Qeon",
+   "Varrel"
+  ],
+  "vods": [
+   {
+    "id": "Qp4zxBw1u4c",
+    "durationSec": 21284
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Bind",
+    "pickBy": "VL",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "RRQ",
+    "played": true,
+    "score": "16-14",
+    "nRounds": 30
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644662",
+  "eventId": "2775",
+  "teams": [
+   "Full Sense",
+   "Zeta Division"
+  ],
+  "vods": [
+   {
+    "id": "Tea_WwGFJc8",
+    "durationSec": 21743
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Fracture",
+    "pickBy": "FS",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "ZETA",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644665",
+  "eventId": "2775",
+  "teams": [
+   "Full Sense",
+   "Varrel"
+  ],
+  "vods": [
+   {
+    "id": "4WeL6e1g3Gk",
+    "durationSec": 286
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "FS",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "VL",
+    "played": true,
+    "score": "14-12",
+    "nRounds": 26
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644668",
+  "eventId": "2775",
+  "teams": [
+   "Zeta Division",
+   "Detonation Focusme"
+  ],
+  "vods": [
+   {
+    "id": "QLsCFQ9yzpE",
+    "durationSec": 22420
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Bind",
+    "pickBy": "ZETA",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "DFM",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644669",
+  "eventId": "2775",
+  "teams": [
+   "Rex Regum Qeon",
+   "T1"
+  ],
+  "vods": [
+   {
+    "id": "JiyDFdTz11c",
+    "durationSec": 19772
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "RRQ",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "T1",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644671",
+  "eventId": "2775",
+  "teams": [
+   "Rex Regum Qeon",
+   "Full Sense"
+  ],
+  "vods": [
+   {
+    "id": "xC4V8x91ALQ",
+    "durationSec": 21636
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "RRQ",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "FS",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644674",
+  "eventId": "2775",
+  "teams": [
+   "Detonation Focusme",
+   "Varrel"
+  ],
+  "vods": [
+   {
+    "id": "4Ll6PfUa3_I",
+    "durationSec": 28972
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "DFM",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "VL",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644675",
+  "eventId": "2775",
+  "teams": [
+   "T1",
+   "Zeta Division"
+  ],
+  "vods": [
+   {
+    "id": "znMI4eE9_3Y",
+    "durationSec": 21316
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "ZETA",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "T1",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644678",
+  "eventId": "2775",
+  "teams": [
+   "Varrel",
+   "Zeta Division"
+  ],
+  "vods": [
+   {
+    "id": "Czkh8wierro",
+    "durationSec": 26334
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Bind",
+    "pickBy": "VL",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "ZETA",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644679",
+  "eventId": "2775",
+  "teams": [
+   "T1",
+   "Full Sense"
+  ],
+  "vods": [
+   {
+    "id": "9cRHCZoUBwI",
+    "durationSec": 26902
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "FS",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "T1",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "644682",
+  "eventId": "2775",
+  "teams": [
+   "Rex Regum Qeon",
+   "Detonation Focusme"
+  ],
+  "vods": [
+   {
+    "id": "f6VXtU2i110",
+    "durationSec": 22244
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "DFM",
+    "played": true,
+    "score": "12-14",
+    "nRounds": 26
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "RRQ",
+    "played": true,
+    "score": "14-12",
+    "nRounds": 26
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "666488",
+  "eventId": "2775",
+  "teams": [
+   "Rex Regum Qeon",
+   "Global Esports"
+  ],
+  "vods": [
+   {
+    "id": "hurmbylV3os",
+    "durationSec": 20500
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "GE",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "RRQ",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "666489",
+  "eventId": "2775",
+  "teams": [
+   "KIWOOM DRX",
+   "FULL SENSE"
+  ],
+  "vods": [
+   {
+    "id": "hurmbylV3os",
+    "durationSec": 20500
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "FS",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Fracture",
+    "pickBy": "KRX",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "666490",
+  "eventId": "2775",
+  "teams": [
+   "Paper Rex",
+   "Global Esports"
+  ],
+  "vods": [
+   {
+    "id": "hdotlYcOOIs",
+    "durationSec": 23162
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "GE",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "666491",
+  "eventId": "2775",
+  "teams": [
+   "T1",
+   "FULL SENSE"
+  ],
+  "vods": [
+   {
+    "id": "hdotlYcOOIs",
+    "durationSec": 23162
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "FS",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "T1",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "666492",
+  "eventId": "2775",
+  "teams": [
+   "Global Esports",
+   "FULL SENSE"
+  ],
+  "vods": [
+   {
+    "id": "QgtNfkdSgvA",
+    "durationSec": 24884
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "FS",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "GE",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "666493",
+  "eventId": "2775",
+  "teams": [
+   "FULL SENSE",
+   "Paper Rex"
+  ],
+  "vods": [
+   {
+    "id": "oRPT3H09ZB0",
+    "durationSec": 20231
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "FS",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 3,
+    "name": "Fracture",
+    "pickBy": "FS",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 4,
+    "name": "Haven",
+    "pickBy": "PRX",
+    "played": false
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "666494",
+  "eventId": "2775",
+  "teams": [
+   "Rex Regum Qeon",
+   "DetonatioN FocusMe"
+  ],
+  "vods": [
+   {
+    "id": "iBwAs5NCvac",
+    "durationSec": 27142
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Ascent",
+    "pickBy": "DFM",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "RRQ",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "666495",
+  "eventId": "2775",
+  "teams": [
+   "KIWOOM DRX",
+   "Nongshim RedForce"
+  ],
+  "vods": [
+   {
+    "id": "iBwAs5NCvac",
+    "durationSec": 27142
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "NS",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "KRX",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "666496",
+  "eventId": "2775",
+  "teams": [
+   "T1",
+   "Rex Regum Qeon"
+  ],
+  "vods": [
+   {
+    "id": "dDovFH9LH00",
+    "durationSec": 25608
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "RRQ",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "T1",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "666497",
+  "eventId": "2775",
+  "teams": [
+   "Paper Rex",
+   "KIWOOM DRX"
+  ],
+  "vods": [
+   {
+    "id": "dDovFH9LH00",
+    "durationSec": 25608
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Ascent",
+    "pickBy": "KRX",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "666498",
+  "eventId": "2775",
+  "teams": [
+   "T1",
+   "Paper Rex"
+  ],
+  "vods": [
+   {
+    "id": "QgtNfkdSgvA",
+    "durationSec": 24884
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Ascent",
+    "pickBy": "T1",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "666499",
+  "eventId": "2775",
+  "teams": [
+   "Global Esports",
+   "Paper Rex"
+  ],
+  "vods": [
+   {
+    "id": "kDs1EZW3k44",
+    "durationSec": 15062
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "GE",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "PRX",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   },
+   {
+    "number": 3,
+    "name": "Ascent",
+    "pickBy": "GE",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 4,
+    "name": "Split",
+    "pickBy": "PRX",
+    "played": false
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "645475",
+  "eventId": "2860",
+  "teams": [
+   "G2 Esports",
+   "MIBR"
+  ],
+  "vods": [
+   {
+    "id": "DTydETzMCng",
+    "durationSec": 7476
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "G2",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "MIBR",
+    "played": true,
+    "score": "14-16",
+    "nRounds": 30
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "645477",
+  "eventId": "2860",
+  "teams": [
+   "Envy",
+   "LOUD"
+  ],
+  "vods": [
+   {
+    "id": "ZXTW6zboQiw",
+    "durationSec": 7930
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "ENVY",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "LOUD",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "645478",
+  "eventId": "2860",
+  "teams": [
+   "Cloud9",
+   "LEVIATÁN"
+  ],
+  "vods": [
+   {
+    "id": "B6dG1DMwgsM",
+    "durationSec": 4295
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "C9",
+    "played": true,
+    "score": "6-13",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "645480",
+  "eventId": "2860",
+  "teams": [
+   "Cloud9",
+   "Envy"
+  ],
+  "vods": [
+   {
+    "id": "_pt_MSdXVEk",
+    "durationSec": 8088
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "C9",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "ENVY",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "645482",
+  "eventId": "2860",
+  "teams": [
+   "G2 Esports",
+   "LEVIATÁN"
+  ],
+  "vods": [
+   {
+    "id": "jv7LJzwuokY",
+    "durationSec": 9454
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "G2",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "645483",
+  "eventId": "2860",
+  "teams": [
+   "MIBR",
+   "LOUD"
+  ],
+  "vods": [
+   {
+    "id": "ZI2jSqfHdm8",
+    "durationSec": 4723
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "LOUD",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "MIBR",
+    "played": true,
+    "score": "13-4",
+    "nRounds": 17
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "645486",
+  "eventId": "2860",
+  "teams": [
+   "LEVIATÁN",
+   "Envy"
+  ],
+  "vods": [
+   {
+    "id": "VnytL8XDSmg",
+    "durationSec": 3215
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Bind",
+    "pickBy": "ENVY",
+    "played": true,
+    "score": "13-4",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Fracture",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "13-4",
+    "nRounds": 17
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "645487",
+  "eventId": "2860",
+  "teams": [
+   "G2 Esports",
+   "LOUD"
+  ],
+  "vods": [
+   {
+    "id": "IhVSNUbjXR0",
+    "durationSec": 7299
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "G2",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "LOUD",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "645491",
+  "eventId": "2860",
+  "teams": [
+   "MIBR",
+   "Cloud9"
+  ],
+  "vods": [
+   {
+    "id": "hCvq8dVe5lI",
+    "durationSec": 1130
+   },
+   {
+    "id": "iSP0jG38ph4",
+    "durationSec": 6820
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "C9",
+    "played": true,
+    "score": "12-14",
+    "nRounds": 26
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "MIBR",
+    "played": true,
+    "score": "12-14",
+    "nRounds": 26
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "645493",
+  "eventId": "2860",
+  "teams": [
+   "LEVIATÁN",
+   "MIBR"
+  ],
+  "vods": [
+   {
+    "id": "GSaXyaOnXRM",
+    "durationSec": 17650
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "MIBR",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "645496",
+  "eventId": "2860",
+  "teams": [
+   "LOUD",
+   "Cloud9"
+  ],
+  "vods": [
+   {
+    "id": "dsgMtXS74go",
+    "durationSec": 7579
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "LOUD",
+    "played": true,
+    "score": "13-1",
+    "nRounds": 14
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "C9",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "645497",
+  "eventId": "2860",
+  "teams": [
+   "G2 Esports",
+   "Envy"
+  ],
+  "vods": [
+   {
+    "id": "fz0q7FiVySA",
+    "durationSec": 4051
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "G2",
+    "played": true,
+    "score": "13-4",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "ENVY",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "645500",
+  "eventId": "2860",
+  "teams": [
+   "G2 Esports",
+   "Cloud9"
+  ],
+  "vods": [
+   {
+    "id": "YlXGMj_h6k8",
+    "durationSec": 6130
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "G2",
+    "played": true,
+    "score": "13-6",
+    "nRounds": 19
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "C9",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "645501",
+  "eventId": "2860",
+  "teams": [
+   "Envy",
+   "MIBR"
+  ],
+  "vods": [
+   {
+    "id": "tDwXiL5DgJc",
+    "durationSec": 3697
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "ENVY",
+    "played": true,
+    "score": "13-1",
+    "nRounds": 14
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "MIBR",
+    "played": true,
+    "score": "13-3",
+    "nRounds": 16
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "645502",
+  "eventId": "2860",
+  "teams": [
+   "LOUD",
+   "LEVIATÁN"
+  ],
+  "vods": [
+   {
+    "id": "HL6dGXZ9-tc",
+    "durationSec": 8838
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Bind",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "3-13",
+    "nRounds": 16
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "LOUD",
+    "played": true,
+    "score": "14-12",
+    "nRounds": 26
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "645474",
+  "eventId": "2860",
+  "teams": [
+   "Sentinels",
+   "KR Esports"
+  ],
+  "vods": [
+   {
+    "id": "ct0Joh3wM4A",
+    "durationSec": 6760
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "KRÜ",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "SEN",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "645476",
+  "eventId": "2860",
+  "teams": [
+   "100 Thieves",
+   "Evil Geniuses"
+  ],
+  "vods": [
+   {
+    "id": "L8XWhie7-xU",
+    "durationSec": 4957
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "EG",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "100T",
+    "played": true,
+    "score": "13-4",
+    "nRounds": 17
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "645479",
+  "eventId": "2860",
+  "teams": [
+   "FURIA",
+   "NRG"
+  ],
+  "vods": [
+   {
+    "id": "qpOdR-5BwcQ",
+    "durationSec": 5717
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "FUR",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "645481",
+  "eventId": "2860",
+  "teams": [
+   "FURIA",
+   "Evil Geniuses"
+  ],
+  "vods": [
+   {
+    "id": "GzuTUW1tP68",
+    "durationSec": 9155
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "FUR",
+    "played": true,
+    "score": "12-14",
+    "nRounds": 26
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "EG",
+    "played": true,
+    "score": "13-5",
+    "nRounds": 18
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "645484",
+  "eventId": "2860",
+  "teams": [
+   "NRG",
+   "KR Esports"
+  ],
+  "vods": [
+   {
+    "id": "x6LFJnpvMRE",
+    "durationSec": 5924
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "KRÜ",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "645485",
+  "eventId": "2860",
+  "teams": [
+   "100 Thieves",
+   "Sentinels"
+  ],
+  "vods": [
+   {
+    "id": "_IrPrWDAB1s",
+    "durationSec": 8177
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "100T",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "SEN",
+    "played": true,
+    "score": "17-19",
+    "nRounds": 36
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "645488",
+  "eventId": "2860",
+  "teams": [
+   "FURIA",
+   "KR Esports"
+  ],
+  "vods": [
+   {
+    "id": "uYZsaHU7gW4",
+    "durationSec": 5083
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "KRÜ",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "FUR",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "645489",
+  "eventId": "2860",
+  "teams": [
+   "NRG",
+   "100 Thieves"
+  ],
+  "vods": [
+   {
+    "id": "QMxxfPzit4g",
+    "durationSec": 8404
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "100T",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "645490",
+  "eventId": "2860",
+  "teams": [
+   "Evil Geniuses",
+   "Sentinels"
+  ],
+  "vods": [
+   {
+    "id": "03yockOAQzU",
+    "durationSec": 6295
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "EG",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Bind",
+    "pickBy": "SEN",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "645492",
+  "eventId": "2860",
+  "teams": [
+   "Evil Geniuses",
+   "NRG"
+  ],
+  "vods": [
+   {
+    "id": "GSaXyaOnXRM",
+    "durationSec": 17650
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Fracture",
+    "pickBy": "EG",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "645494",
+  "eventId": "2860",
+  "teams": [
+   "KR Esports",
+   "100 Thieves"
+  ],
+  "vods": [
+   {
+    "id": "-IrSl9jG9EM",
+    "durationSec": 7387
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Bind",
+    "pickBy": "100T",
+    "played": true,
+    "score": "4-13",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "KRÜ",
+    "played": true,
+    "score": "13-10",
+    "nRounds": 23
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "645495",
+  "eventId": "2860",
+  "teams": [
+   "FURIA",
+   "Sentinels"
+  ],
+  "vods": [
+   {
+    "id": "Acj6ehFzTQA",
+    "durationSec": 7189
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "FUR",
+    "played": true,
+    "score": "13-4",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "SEN",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "645498",
+  "eventId": "2860",
+  "teams": [
+   "KR Esports",
+   "Evil Geniuses"
+  ],
+  "vods": [
+   {
+    "id": "4xnKkjoO1T0",
+    "durationSec": 9429
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Haven",
+    "pickBy": "EG",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "KRÜ",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "645499",
+  "eventId": "2860",
+  "teams": [
+   "FURIA",
+   "100 Thieves"
+  ],
+  "vods": [
+   {
+    "id": "H6WqH91EsNI",
+    "durationSec": 8548
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "100T",
+    "played": true,
+    "score": "13-9",
+    "nRounds": 22
+   },
+   {
+    "number": 2,
+    "name": "Haven",
+    "pickBy": "FUR",
+    "played": true,
+    "score": "8-13",
+    "nRounds": 21
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "645503",
+  "eventId": "2860",
+  "teams": [
+   "Sentinels",
+   "NRG"
+  ],
+  "vods": [
+   {
+    "id": "1ojedIDPBYY",
+    "durationSec": 10858
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Fracture",
+    "pickBy": "NRG",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "SEN",
+    "played": true,
+    "score": "13-11",
+    "nRounds": 24
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "660369",
+  "eventId": "2860",
+  "teams": [
+   "FURIA",
+   "LEVIATÁN"
+  ],
+  "vods": [
+   {
+    "id": "81FqgWS0xRU",
+    "durationSec": 7342
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Breeze",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "13-8",
+    "nRounds": 21
+   },
+   {
+    "number": 2,
+    "name": "Split",
+    "pickBy": "FUR",
+    "played": true,
+    "score": "5-13",
+    "nRounds": 18
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "660370",
+  "eventId": "2860",
+  "teams": [
+   "G2 Esports",
+   "100 Thieves"
+  ],
+  "vods": [
+   {
+    "id": "_AIjF0XshF0",
+    "durationSec": 5091
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Pearl",
+    "pickBy": "100T",
+    "played": true,
+    "score": "13-4",
+    "nRounds": 17
+   },
+   {
+    "number": 2,
+    "name": "Lotus",
+    "pickBy": "G2",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "660371",
+  "eventId": "2860",
+  "teams": [
+   "MIBR",
+   "LEVIATÁN"
+  ],
+  "vods": [
+   {
+    "id": "62rQ6rGBSBc",
+    "durationSec": 8268
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Split",
+    "pickBy": "MIBR",
+    "played": true,
+    "score": "10-13",
+    "nRounds": 23
+   },
+   {
+    "number": 2,
+    "name": "Fracture",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "13-4",
+    "nRounds": 17
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "660372",
+  "eventId": "2860",
+  "teams": [
+   "KRÜ Esports",
+   "G2 Esports"
+  ],
+  "vods": [
+   {
+    "id": "54eg6P-o6Gc",
+    "durationSec": 6401
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Lotus",
+    "pickBy": "KRÜ",
+    "played": true,
+    "score": "11-13",
+    "nRounds": 24
+   },
+   {
+    "number": 2,
+    "name": "Breeze",
+    "pickBy": "G2",
+    "played": true,
+    "score": "7-13",
+    "nRounds": 20
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ },
+ {
+  "matchId": "660373",
+  "eventId": "2860",
+  "teams": [
+   "LEVIATÁN",
+   "G2 Esports"
+  ],
+  "vods": [
+   {
+    "id": "h8Bf3y9FcNw",
+    "durationSec": 8126
+   }
+  ],
+  "maps": [
+   {
+    "number": 1,
+    "name": "Ascent",
+    "pickBy": "LEV",
+    "played": true,
+    "score": "13-7",
+    "nRounds": 20
+   },
+   {
+    "number": 2,
+    "name": "Pearl",
+    "pickBy": "G2",
+    "played": true,
+    "score": "9-13",
+    "nRounds": 22
+   }
+  ],
+  "done": true,
+  "schedulable": true,
+  "reason": null
+ }
+]

@@ -14,6 +14,8 @@ function route(): void {
   if (m) { void loadRegion(m[1]).catch(routeError); return; }
   m = h.match(/^#\/e\/([\w-]+)/);
   if (m) { void loadEvent(m[1]).catch(routeError); return; }
+  m = h.match(/^#\/q\/?$/);
+  if (m) { void loadQueue().catch(routeError); return; }
   m = h.match(/^#\/m\/([\w-]+)/);
   if (m) void loadDetail(m[1]).catch(routeError);
   else void loadCatalog().catch(routeError);
@@ -56,6 +58,7 @@ function renderCatalog(cat: Catalog): void {
   document.getElementById("match-sub")!.innerHTML =
     `<strong>VCT 2026 · worldmap</strong> · processadas ` +
     `<span class="ok">[${done}/${total}]</span> · ` +
+    `<a href="#/q">$ queue</a> · ` +
     `<a href="https://www.vlr.gg/vct/?region=all&stage=all" target="_blank" rel="noreferrer">fonte: vlr.gg</a>`;
   const box = document.getElementById("round-list")!;
   box.innerHTML = "";
@@ -109,6 +112,67 @@ function renderCatalog(cat: Catalog): void {
   mkRow("region/intl (LANs)", `${intl.reduce((n, e) => n + e.matches.length, 0)} partidas · masters + champions`,
     () => { location.hash = `#/r/intl`; }, `<span class="dim">[--]</span>`);
   box.appendChild(ul);
+}
+
+async function loadQueue(): Promise<void> {
+  if (ticker != null) { clearInterval(ticker); ticker = null; }
+  document.querySelector<HTMLElement>(".player-col")!.style.display = "none";
+  document.getElementById("map-tabs")!.innerHTML = "";
+  document.querySelector("header h1")!.innerHTML =
+    `wikival --queue <span class="tag">agenda</span>`;
+  const box = document.getElementById("round-list")!;
+  const sub = document.getElementById("match-sub")!;
+  let sched: {
+    generated_at?: string; funnel?: { schedulable?: number; unschedulable?: number; totalEtaMin?: number; totalEtaDays?: number };
+    slots?: { date: string; matchId: string; teams: string[]; etaMin: number; etaEstimated?: boolean; status: string }[];
+    unschedulable?: { matchId: string; reason: string; teams: string[] }[];
+  };
+  try {
+    const res = await fetch("./data/schedule.json", { cache: "no-store" });
+    if (!res.ok) throw new Error(`sem agenda ainda (${res.status})`);
+    sched = (await res.json()) as typeof sched;
+  } catch (e) {
+    sub.innerHTML = `<a href="#/">$ cd ..</a> · ${(e as Error).message}`;
+    box.innerHTML = `<p class="empty">rode <code>python worker/plan_queue.py --replan</code> para gerar a agenda.</p>`;
+    return;
+  }
+  const f = sched.funnel ?? {};
+  sub.innerHTML =
+    `<a href="#/">$ cd ..</a> · <strong>agenda</strong> · ` +
+    `${f.schedulable ?? "?"} na fila · ETA total ${f.totalEtaMin ?? "?"}min (~${f.totalEtaDays ?? "?"} dias) · gerada ${sched.generated_at ?? "?"}`;
+  box.innerHTML = "";
+  const h = document.createElement("h2");
+  h.textContent = "$ queue --next 7";
+  box.appendChild(h);
+  const ul = document.createElement("ol");
+  ul.className = "rounds";
+  for (const s of (sched.slots ?? []).slice(0, 7)) {
+    const li = document.createElement("li");
+    li.innerHTML =
+      `<span class="rn">${s.date.slice(5)}</span> ` +
+      `<span class="res">${(s.teams ?? []).join(" x ")}</span> ` +
+      `<span class="ts">~${s.etaMin}min${s.etaEstimated ? "*" : ""} [${s.status}]</span>`;
+    const b = document.createElement("button");
+    b.textContent = "[open]";
+    b.onclick = () => { location.hash = `#/m/${s.matchId}`; };
+    li.appendChild(b);
+    ul.appendChild(li);
+  }
+  box.appendChild(ul);
+  const un = sched.unschedulable ?? [];
+  if (un.length > 0) {
+    const h2 = document.createElement("h2");
+    h2.textContent = `$ needs-review [${un.length}]`;
+    box.appendChild(h2);
+    const ul2 = document.createElement("ol");
+    ul2.className = "rounds";
+    for (const u of un.slice(0, 10)) {
+      const li = document.createElement("li");
+      li.innerHTML = `<span class="dim">[--]</span> <span class="res">${(u.teams ?? []).join(" x ")}</span> <span class="ts">${u.matchId} · ${u.reason}</span>`;
+      ul2.appendChild(li);
+    }
+    box.appendChild(ul2);
+  }
 }
 
 async function loadRegion(region: string): Promise<void> {

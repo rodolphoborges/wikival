@@ -326,7 +326,12 @@ def main() -> int:
     ap.add_argument("--max-maps", type=int, default=3)
     ap.add_argument("--expect", type=str, default="",
                     help="Placar final esperado vlr.gg (ex: 13-4): aceita com 1 voto a menos")
+    ap.add_argument("--video", type=str, default="",
+                    help="Arquivo de video (padrao D:/wikival-work/vod_1080p.mp4)")
     a = ap.parse_args()
+    global VIDEO
+    if a.video:
+        VIDEO = Path(a.video)
     if a.calibrate:
         return calibrate()
     if a.run:

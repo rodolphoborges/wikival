@@ -1,0 +1,2917 @@
+{
+ "generated_at": "2026-09-08T00:52:56",
+ "slot_hour_utc": 3,
+ "perNight": 1,
+ "funnel": {
+  "schedulable": 222,
+  "unschedulable": 2,
+  "totalEtaMin": 17744.4,
+  "totalEtaDays": 234.3
+ },
+ "slots": [
+  {
+   "date": "2026-09-09",
+   "matchId": "594740",
+   "eventId": "2684",
+   "teams": [
+    "Natus Vincere",
+    "Karmine Corp"
+   ],
+   "etaMin": 27.0,
+   "etaEstimated": false,
+   "vodId": "9p1mWmgKxzw",
+   "status": "planned"
+  },
+  {
+   "date": "2026-09-10",
+   "matchId": "594741",
+   "eventId": "2684",
+   "teams": [
+    "FUT Esports",
+    "Gentle Mates"
+   ],
+   "etaMin": 20.6,
+   "etaEstimated": false,
+   "vodId": "_wEODEhcuZM",
+   "status": "planned"
+  },
+  {
+   "date": "2026-09-11",
+   "matchId": "594742",
+   "eventId": "2684",
+   "teams": [
+    "PCIFIC Esports",
+    "BBL Esports"
+   ],
+   "etaMin": 25.5,
+   "etaEstimated": false,
+   "vodId": "JMdZEiRsOPE",
+   "status": "planned"
+  },
+  {
+   "date": "2026-09-12",
+   "matchId": "594743",
+   "eventId": "2684",
+   "teams": [
+    "ULF Esports",
+    "Team Vitality"
+   ],
+   "etaMin": 18.4,
+   "etaEstimated": false,
+   "vodId": "DBr-UhiJ2Hg",
+   "status": "planned"
+  },
+  {
+   "date": "2026-09-13",
+   "matchId": "594744",
+   "eventId": "2684",
+   "teams": [
+    "Team Heretics",
+    "Natus Vincere"
+   ],
+   "etaMin": 22.2,
+   "etaEstimated": false,
+   "vodId": "MoGdub-zo30",
+   "status": "planned"
+  },
+  {
+   "date": "2026-09-14",
+   "matchId": "594745",
+   "eventId": "2684",
+   "teams": [
+    "GIANTX",
+    "Gentle Mates"
+   ],
+   "etaMin": 24.8,
+   "etaEstimated": false,
+   "vodId": "ER4d2ZfqE60",
+   "status": "planned"
+  },
+  {
+   "date": "2026-09-15",
+   "matchId": "594746",
+   "eventId": "2684",
+   "teams": [
+    "FNATIC",
+    "BBL Esports"
+   ],
+   "etaMin": 23.4,
+   "etaEstimated": false,
+   "vodId": "N85feoUIfFw",
+   "status": "planned"
+  },
+  {
+   "date": "2026-09-16",
+   "matchId": "594747",
+   "eventId": "2684",
+   "teams": [
+    "Team Liquid",
+    "Team Vitality"
+   ],
+   "etaMin": 25.2,
+   "etaEstimated": false,
+   "vodId": "DX9YeWktzEA",
+   "status": "planned"
+  },
+  {
+   "date": "2026-09-17",
+   "matchId": "594748",
+   "eventId": "2684",
+   "teams": [
+    "Natus Vincere",
+    "Gentle Mates"
+   ],
+   "etaMin": 24.0,
+   "etaEstimated": false,
+   "vodId": "Qqwp7YVkvOY",
+   "status": "planned"
+  },
+  {
+   "date": "2026-09-18",
+   "matchId": "594749",
+   "eventId": "2684",
+   "teams": [
+    "BBL Esports",
+    "Team Vitality"
+   ],
+   "etaMin": 24.5,
+   "etaEstimated": false,
+   "vodId": "Smn5_qYH-iQ",
+   "status": "planned"
+  },
+  {
+   "date": "2026-09-19",
+   "matchId": "594750",
+   "eventId": "2684",
+   "teams": [
+    "Gentle Mates",
+    "BBL Esports"
+   ],
+   "etaMin": 30.8,
+   "etaEstimated": false,
+   "vodId": "0beu_DeYMP0",
+   "status": "planned"
+  },
+  {
+   "date": "2026-09-20",
+   "matchId": "594751",
+   "eventId": "2684",
+   "teams": [
+    "Karmine Corp",
+    "Team Liquid"
+   ],
+   "etaMin": 19.3,
+   "etaEstimated": false,
+   "vodId": "SBpFNohnYN0",
+   "status": "planned"
+  },
+  {
+   "date": "2026-09-21",
+   "matchId": "594752",
+   "eventId": "2684",
+   "teams": [
+    "FUT Esports",
+    "FNATIC"
+   ],
+   "etaMin": 31.3,
+   "etaEstimated": false,
+   "vodId": "3v-p4e204_I",
+   "status": "planned"
+  },
+  {
+   "date": "2026-09-22",
+   "matchId": "594753",
+   "eventId": "2684",
+   "teams": [
+    "PCIFIC Esports",
+    "GIANTX"
+   ],
+   "etaMin": 25.2,
+   "etaEstimated": false,
+   "vodId": "9VeR1CxZdes",
+   "status": "planned"
+  },
+  {
+   "date": "2026-09-23",
+   "matchId": "594754",
+   "eventId": "2684",
+   "teams": [
+    "ULF Esports",
+    "Team Heretics"
+   ],
+   "etaMin": 22.7,
+   "etaEstimated": false,
+   "vodId": "MBTZ6oE_Xfs",
+   "status": "planned"
+  },
+  {
+   "date": "2026-09-24",
+   "matchId": "594755",
+   "eventId": "2684",
+   "teams": [
+    "Team Liquid",
+    "FNATIC"
+   ],
+   "etaMin": 20.2,
+   "etaEstimated": false,
+   "vodId": "VFncdvI1Cts",
+   "status": "planned"
+  },
+  {
+   "date": "2026-09-25",
+   "matchId": "594756",
+   "eventId": "2684",
+   "teams": [
+    "GIANTX",
+    "Team Heretics"
+   ],
+   "etaMin": 24.1,
+   "etaEstimated": false,
+   "vodId": "WKm8eAtbsf0",
+   "status": "planned"
+  },
+  {
+   "date": "2026-09-26",
+   "matchId": "594757",
+   "eventId": "2684",
+   "teams": [
+    "Natus Vincere",
+    "FNATIC"
+   ],
+   "etaMin": 26.1,
+   "etaEstimated": false,
+   "vodId": "wUy_yavxO7E",
+   "status": "planned"
+  },
+  {
+   "date": "2026-09-27",
+   "matchId": "594758",
+   "eventId": "2684",
+   "teams": [
+    "Team Vitality",
+    "GIANTX"
+   ],
+   "etaMin": 24.3,
+   "etaEstimated": false,
+   "vodId": "PAe4-YFRXdo",
+   "status": "planned"
+  },
+  {
+   "date": "2026-09-28",
+   "matchId": "594759",
+   "eventId": "2684",
+   "teams": [
+    "FNATIC",
+    "Team Vitality"
+   ],
+   "etaMin": 21.0,
+   "etaEstimated": false,
+   "vodId": "WHxbH44UOtg",
+   "status": "planned"
+  },
+  {
+   "date": "2026-09-29",
+   "matchId": "594760",
+   "eventId": "2684",
+   "teams": [
+    "Gentle Mates",
+    "FNATIC"
+   ],
+   "etaMin": 28.0,
+   "etaEstimated": false,
+   "vodId": "CgiG8TiOt10",
+   "status": "planned"
+  },
+  {
+   "date": "2026-09-30",
+   "matchId": "594761",
+   "eventId": "2684",
+   "teams": [
+    "Karmine Corp",
+    "FUT Esports"
+   ],
+   "etaMin": 25.0,
+   "etaEstimated": false,
+   "vodId": "7mYAUwYT4sA",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-01",
+   "matchId": "594762",
+   "eventId": "2684",
+   "teams": [
+    "PCIFIC Esports",
+    "ULF Esports"
+   ],
+   "etaMin": 20.7,
+   "etaEstimated": false,
+   "vodId": "74O3qZKhqYI",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-02",
+   "matchId": "594763",
+   "eventId": "2684",
+   "teams": [
+    "Team Heretics",
+    "Karmine Corp"
+   ],
+   "etaMin": 18.0,
+   "etaEstimated": false,
+   "vodId": "g3TwPy-6vFg",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-03",
+   "matchId": "594764",
+   "eventId": "2684",
+   "teams": [
+    "Team Liquid",
+    "ULF Esports"
+   ],
+   "etaMin": 27.0,
+   "etaEstimated": false,
+   "vodId": "AQ3-CA27UQ4",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-04",
+   "matchId": "594765",
+   "eventId": "2684",
+   "teams": [
+    "Natus Vincere",
+    "Team Heretics"
+   ],
+   "etaMin": 21.1,
+   "etaEstimated": false,
+   "vodId": "lKdQ4Nui5dI",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-05",
+   "matchId": "594766",
+   "eventId": "2684",
+   "teams": [
+    "GIANTX",
+    "Team Liquid"
+   ],
+   "etaMin": 20.8,
+   "etaEstimated": false,
+   "vodId": "CoDqrmxPlhE",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-06",
+   "matchId": "594767",
+   "eventId": "2684",
+   "teams": [
+    "Team Heretics",
+    "Team Liquid"
+   ],
+   "etaMin": 18.3,
+   "etaEstimated": false,
+   "vodId": "o8TEmrIIlmQ",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-07",
+   "matchId": "594768",
+   "eventId": "2684",
+   "teams": [
+    "Team Vitality",
+    "Team Liquid"
+   ],
+   "etaMin": 19.0,
+   "etaEstimated": false,
+   "vodId": "BdGhy578yRg",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-08",
+   "matchId": "594769",
+   "eventId": "2684",
+   "teams": [
+    "FNATIC",
+    "Team Liquid"
+   ],
+   "etaMin": 30.7,
+   "etaEstimated": false,
+   "vodId": "aNYpWFwNcHo",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-09",
+   "matchId": "595630",
+   "eventId": "2683",
+   "teams": [
+    "Nongshim RedForce",
+    "Team Secret"
+   ],
+   "etaMin": 100.8,
+   "etaEstimated": false,
+   "vodId": "NxlC6Eyn-_I",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-10",
+   "matchId": "595631",
+   "eventId": "2683",
+   "teams": [
+    "ZETA DIVISION",
+    "FULL SENSE"
+   ],
+   "etaMin": 100.8,
+   "etaEstimated": false,
+   "vodId": "NxlC6Eyn-_I",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-11",
+   "matchId": "595632",
+   "eventId": "2683",
+   "teams": [
+    "VARREL",
+    "Global Esports"
+   ],
+   "etaMin": 111.4,
+   "etaEstimated": false,
+   "vodId": "1j3R1AEInRo",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-12",
+   "matchId": "595633",
+   "eventId": "2683",
+   "teams": [
+    "DetonatioN FocusMe",
+    "Gen.G"
+   ],
+   "etaMin": 111.4,
+   "etaEstimated": false,
+   "vodId": "1j3R1AEInRo",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-13",
+   "matchId": "595634",
+   "eventId": "2683",
+   "teams": [
+    "T1",
+    "Nongshim RedForce"
+   ],
+   "etaMin": 138.8,
+   "etaEstimated": false,
+   "vodId": "pv9tIyoT_5U",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-14",
+   "matchId": "595635",
+   "eventId": "2683",
+   "teams": [
+    "KIWOOM DRX",
+    "FULL SENSE"
+   ],
+   "etaMin": 138.8,
+   "etaEstimated": false,
+   "vodId": "pv9tIyoT_5U",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-15",
+   "matchId": "595636",
+   "eventId": "2683",
+   "teams": [
+    "Paper Rex",
+    "Global Esports"
+   ],
+   "etaMin": 125.6,
+   "etaEstimated": false,
+   "vodId": "VbTsSQi9zH4",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-16",
+   "matchId": "595637",
+   "eventId": "2683",
+   "teams": [
+    "Rex Regum Qeon",
+    "DetonatioN FocusMe"
+   ],
+   "etaMin": 125.6,
+   "etaEstimated": false,
+   "vodId": "VbTsSQi9zH4",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-17",
+   "matchId": "595638",
+   "eventId": "2683",
+   "teams": [
+    "Nongshim RedForce",
+    "FULL SENSE"
+   ],
+   "etaMin": 104.2,
+   "etaEstimated": false,
+   "vodId": "Gz04yKNrfo0",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-18",
+   "matchId": "595639",
+   "eventId": "2683",
+   "teams": [
+    "Paper Rex",
+    "Rex Regum Qeon"
+   ],
+   "etaMin": 104.2,
+   "etaEstimated": false,
+   "vodId": "Gz04yKNrfo0",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-19",
+   "matchId": "595640",
+   "eventId": "2683",
+   "teams": [
+    "Nongshim RedForce",
+    "Rex Regum Qeon"
+   ],
+   "etaMin": 170.1,
+   "etaEstimated": false,
+   "vodId": "at6F-BMetIg",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-20",
+   "matchId": "595641",
+   "eventId": "2683",
+   "teams": [
+    "Team Secret",
+    "DetonatioN FocusMe"
+   ],
+   "etaMin": 104.4,
+   "etaEstimated": false,
+   "vodId": "UVGchRknZ_8",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-21",
+   "matchId": "595642",
+   "eventId": "2683",
+   "teams": [
+    "ZETA DIVISION",
+    "Global Esports"
+   ],
+   "etaMin": 104.4,
+   "etaEstimated": false,
+   "vodId": "UVGchRknZ_8",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-22",
+   "matchId": "595643",
+   "eventId": "2683",
+   "teams": [
+    "VARREL",
+    "KIWOOM DRX"
+   ],
+   "etaMin": 147.9,
+   "etaEstimated": false,
+   "vodId": "0aEuBzE9bhY",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-23",
+   "matchId": "595644",
+   "eventId": "2683",
+   "teams": [
+    "Gen.G",
+    "T1"
+   ],
+   "etaMin": 147.9,
+   "etaEstimated": false,
+   "vodId": "0aEuBzE9bhY",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-24",
+   "matchId": "595645",
+   "eventId": "2683",
+   "teams": [
+    "DetonatioN FocusMe",
+    "Global Esports"
+   ],
+   "etaMin": 127.5,
+   "etaEstimated": false,
+   "vodId": "Eu_u_6p4fiQ",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-25",
+   "matchId": "595646",
+   "eventId": "2683",
+   "teams": [
+    "KIWOOM DRX",
+    "T1"
+   ],
+   "etaMin": 127.5,
+   "etaEstimated": false,
+   "vodId": "Eu_u_6p4fiQ",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-26",
+   "matchId": "595647",
+   "eventId": "2683",
+   "teams": [
+    "FULL SENSE",
+    "DetonatioN FocusMe"
+   ],
+   "etaMin": 142.0,
+   "etaEstimated": false,
+   "vodId": "VxNoZdqHRck",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-27",
+   "matchId": "595648",
+   "eventId": "2683",
+   "teams": [
+    "Paper Rex",
+    "T1"
+   ],
+   "etaMin": 142.0,
+   "etaEstimated": false,
+   "vodId": "VxNoZdqHRck",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-28",
+   "matchId": "595649",
+   "eventId": "2683",
+   "teams": [
+    "DetonatioN FocusMe",
+    "T1"
+   ],
+   "etaMin": 170.1,
+   "etaEstimated": false,
+   "vodId": "at6F-BMetIg",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-29",
+   "matchId": "595650",
+   "eventId": "2683",
+   "teams": [
+    "Rex Regum Qeon",
+    "T1"
+   ],
+   "etaMin": 126.4,
+   "etaEstimated": false,
+   "vodId": "IS4uH25W91U",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-30",
+   "matchId": "595651",
+   "eventId": "2683",
+   "teams": [
+    "Team Secret",
+    "ZETA DIVISION"
+   ],
+   "etaMin": 154.5,
+   "etaEstimated": false,
+   "vodId": "2uNqtqHUtc8",
+   "status": "planned"
+  },
+  {
+   "date": "2026-10-31",
+   "matchId": "595652",
+   "eventId": "2683",
+   "teams": [
+    "VARREL",
+    "Gen.G"
+   ],
+   "etaMin": 154.5,
+   "etaEstimated": false,
+   "vodId": "2uNqtqHUtc8",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-01",
+   "matchId": "595653",
+   "eventId": "2683",
+   "teams": [
+    "KIWOOM DRX",
+    "ZETA DIVISION"
+   ],
+   "etaMin": 151.4,
+   "etaEstimated": false,
+   "vodId": "jzTa8xNF72Q",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-02",
+   "matchId": "595654",
+   "eventId": "2683",
+   "teams": [
+    "Global Esports",
+    "Gen.G"
+   ],
+   "etaMin": 151.4,
+   "etaEstimated": false,
+   "vodId": "jzTa8xNF72Q",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-03",
+   "matchId": "595655",
+   "eventId": "2683",
+   "teams": [
+    "FULL SENSE",
+    "KIWOOM DRX"
+   ],
+   "etaMin": 128.1,
+   "etaEstimated": false,
+   "vodId": "MK5zLFgN3zY",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-04",
+   "matchId": "595656",
+   "eventId": "2683",
+   "teams": [
+    "Paper Rex",
+    "Global Esports"
+   ],
+   "etaMin": 128.1,
+   "etaEstimated": false,
+   "vodId": "MK5zLFgN3zY",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-05",
+   "matchId": "595657",
+   "eventId": "2683",
+   "teams": [
+    "KIWOOM DRX",
+    "Paper Rex"
+   ],
+   "etaMin": 86.5,
+   "etaEstimated": false,
+   "vodId": "sYMCzR_zzO0",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-06",
+   "matchId": "595658",
+   "eventId": "2683",
+   "teams": [
+    "DetonatioN FocusMe",
+    "Paper Rex"
+   ],
+   "etaMin": 126.4,
+   "etaEstimated": false,
+   "vodId": "IS4uH25W91U",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-07",
+   "matchId": "595659",
+   "eventId": "2683",
+   "teams": [
+    "Rex Regum Qeon",
+    "Paper Rex"
+   ],
+   "etaMin": 113.2,
+   "etaEstimated": false,
+   "vodId": "BphA_KZGX1s",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-08",
+   "matchId": "596398",
+   "eventId": "2682",
+   "teams": [
+    "LOUD",
+    "Cloud9"
+   ],
+   "etaMin": 23.7,
+   "etaEstimated": false,
+   "vodId": "TzKxKi_QQOs",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-09",
+   "matchId": "596399",
+   "eventId": "2682",
+   "teams": [
+    "ENVY",
+    "Evil Geniuses"
+   ],
+   "etaMin": 22.7,
+   "etaEstimated": false,
+   "vodId": "7msTjdeeoD0",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-10",
+   "matchId": "596400",
+   "eventId": "2682",
+   "teams": [
+    "KRÜ Esports",
+    "FURIA"
+   ],
+   "etaMin": 24.7,
+   "etaEstimated": false,
+   "vodId": "Kxfnb_54w7I",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-11",
+   "matchId": "596401",
+   "eventId": "2682",
+   "teams": [
+    "100 Thieves",
+    "LEVIATÁN"
+   ],
+   "etaMin": 26.2,
+   "etaEstimated": false,
+   "vodId": "2gjqiSMAUiQ",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-12",
+   "matchId": "596402",
+   "eventId": "2682",
+   "teams": [
+    "NRG",
+    "Cloud9"
+   ],
+   "etaMin": 21.9,
+   "etaEstimated": false,
+   "vodId": "380yaVNaKlY",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-13",
+   "matchId": "596403",
+   "eventId": "2682",
+   "teams": [
+    "MIBR",
+    "ENVY"
+   ],
+   "etaMin": 22.0,
+   "etaEstimated": false,
+   "vodId": "DMRZoHHRK1A",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-14",
+   "matchId": "596404",
+   "eventId": "2682",
+   "teams": [
+    "Sentinels",
+    "FURIA"
+   ],
+   "etaMin": 26.5,
+   "etaEstimated": false,
+   "vodId": "XLajkPN6QpU",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-15",
+   "matchId": "596405",
+   "eventId": "2682",
+   "teams": [
+    "G2 Esports",
+    "100 Thieves"
+   ],
+   "etaMin": 18.4,
+   "etaEstimated": false,
+   "vodId": "FjamU2_ccqA",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-16",
+   "matchId": "596406",
+   "eventId": "2682",
+   "teams": [
+    "NRG",
+    "MIBR"
+   ],
+   "etaMin": 30.1,
+   "etaEstimated": false,
+   "vodId": "E3l4wP_4hQ0",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-17",
+   "matchId": "596407",
+   "eventId": "2682",
+   "teams": [
+    "FURIA",
+    "G2 Esports"
+   ],
+   "etaMin": 19.2,
+   "etaEstimated": false,
+   "vodId": "JL_ia_YJ6Rs",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-18",
+   "matchId": "596408",
+   "eventId": "2682",
+   "teams": [
+    "MIBR",
+    "FURIA"
+   ],
+   "etaMin": 25.4,
+   "etaEstimated": false,
+   "vodId": "2nuQ5fkLFGk",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-19",
+   "matchId": "596409",
+   "eventId": "2682",
+   "teams": [
+    "LOUD",
+    "100 Thieves"
+   ],
+   "etaMin": 19.0,
+   "etaEstimated": false,
+   "vodId": "D603rD725pQ",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-20",
+   "matchId": "596411",
+   "eventId": "2682",
+   "teams": [
+    "KRÜ Esports",
+    "ENVY"
+   ],
+   "etaMin": 22.4,
+   "etaEstimated": false,
+   "vodId": "a4PMYtY2YUE",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-21",
+   "matchId": "596412",
+   "eventId": "2682",
+   "teams": [
+    "LEVIATÁN",
+    "Cloud9"
+   ],
+   "etaMin": 23.4,
+   "etaEstimated": false,
+   "vodId": "ETqZ_YTVlOQ",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-22",
+   "matchId": "596413",
+   "eventId": "2682",
+   "teams": [
+    "100 Thieves",
+    "Sentinels"
+   ],
+   "etaMin": 25.4,
+   "etaEstimated": false,
+   "vodId": "AmvrcShytZk",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-23",
+   "matchId": "596415",
+   "eventId": "2682",
+   "teams": [
+    "NRG",
+    "100 Thieves"
+   ],
+   "etaMin": 26.0,
+   "etaEstimated": false,
+   "vodId": "kr3KkXnXVuc",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-24",
+   "matchId": "596416",
+   "eventId": "2682",
+   "teams": [
+    "G2 Esports",
+    "Cloud9"
+   ],
+   "etaMin": 22.3,
+   "etaEstimated": false,
+   "vodId": "K_SWch_HQzs",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-25",
+   "matchId": "596417",
+   "eventId": "2682",
+   "teams": [
+    "NRG",
+    "G2 Esports"
+   ],
+   "etaMin": 18.0,
+   "etaEstimated": false,
+   "vodId": "GoLVlVZAk6E",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-26",
+   "matchId": "596418",
+   "eventId": "2682",
+   "teams": [
+    "MIBR",
+    "G2 Esports"
+   ],
+   "etaMin": 20.8,
+   "etaEstimated": false,
+   "vodId": "M4HMHKkw5dg",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-27",
+   "matchId": "596419",
+   "eventId": "2682",
+   "teams": [
+    "LOUD",
+    "Evil Geniuses"
+   ],
+   "etaMin": 21.7,
+   "etaEstimated": false,
+   "vodId": "XUztw0huqes",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-28",
+   "matchId": "596420",
+   "eventId": "2682",
+   "teams": [
+    "KRÜ Esports",
+    "LEVIATÁN"
+   ],
+   "etaMin": 26.1,
+   "etaEstimated": false,
+   "vodId": "8ofWXovoRpk",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-29",
+   "matchId": "596421",
+   "eventId": "2682",
+   "teams": [
+    "ENVY",
+    "Evil Geniuses"
+   ],
+   "etaMin": 19.7,
+   "etaEstimated": false,
+   "vodId": "_VQ0oqsW8Hw",
+   "status": "planned"
+  },
+  {
+   "date": "2026-11-30",
+   "matchId": "596422",
+   "eventId": "2682",
+   "teams": [
+    "Sentinels",
+    "LEVIATÁN"
+   ],
+   "etaMin": 25.5,
+   "etaEstimated": false,
+   "vodId": "Q4tnXfb5HLA",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-01",
+   "matchId": "596423",
+   "eventId": "2682",
+   "teams": [
+    "100 Thieves",
+    "Evil Geniuses"
+   ],
+   "etaMin": 28.9,
+   "etaEstimated": false,
+   "vodId": "INfYhfn_JyA",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-02",
+   "matchId": "596424",
+   "eventId": "2682",
+   "teams": [
+    "Cloud9",
+    "LEVIATÁN"
+   ],
+   "etaMin": 20.7,
+   "etaEstimated": false,
+   "vodId": "2jfOt2WnDFY",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-03",
+   "matchId": "596425",
+   "eventId": "2682",
+   "teams": [
+    "100 Thieves",
+    "Cloud9"
+   ],
+   "etaMin": 18.5,
+   "etaEstimated": false,
+   "vodId": "RvpGZattJ14",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-04",
+   "matchId": "596426",
+   "eventId": "2682",
+   "teams": [
+    "NRG",
+    "100 Thieves"
+   ],
+   "etaMin": 21.6,
+   "etaEstimated": false,
+   "vodId": "RnH3HOFi2tY",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-05",
+   "matchId": "596427",
+   "eventId": "2682",
+   "teams": [
+    "MIBR",
+    "NRG"
+   ],
+   "etaMin": 24.4,
+   "etaEstimated": false,
+   "vodId": "Hf2z6kOPeG4",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-06",
+   "matchId": "598921",
+   "eventId": "2685",
+   "teams": [
+    "All Gamers",
+    "Nova Esports"
+   ],
+   "etaMin": 141.9,
+   "etaEstimated": false,
+   "vodId": "ol0k3j1KwwA",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-07",
+   "matchId": "598922",
+   "eventId": "2685",
+   "teams": [
+    "JD Gaming",
+    "Titan Esports Club"
+   ],
+   "etaMin": 141.9,
+   "etaEstimated": false,
+   "vodId": "ol0k3j1KwwA",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-08",
+   "matchId": "598923",
+   "eventId": "2685",
+   "teams": [
+    "Trace Esports",
+    "Wolves Esports"
+   ],
+   "etaMin": 127.2,
+   "etaEstimated": false,
+   "vodId": "5Rkiwl1nAQw",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-09",
+   "matchId": "598924",
+   "eventId": "2685",
+   "teams": [
+    "FunPlus Phoenix",
+    "TYLOO"
+   ],
+   "etaMin": 127.2,
+   "etaEstimated": false,
+   "vodId": "5Rkiwl1nAQw",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-10",
+   "matchId": "598925",
+   "eventId": "2685",
+   "teams": [
+    "Bilibili Gaming",
+    "All Gamers"
+   ],
+   "etaMin": 138.7,
+   "etaEstimated": false,
+   "vodId": "gxmSibPwVa0",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-11",
+   "matchId": "598926",
+   "eventId": "2685",
+   "teams": [
+    "Dragon Ranger Gaming",
+    "JD Gaming"
+   ],
+   "etaMin": 138.7,
+   "etaEstimated": false,
+   "vodId": "gxmSibPwVa0",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-12",
+   "matchId": "598927",
+   "eventId": "2685",
+   "teams": [
+    "Xi Lai Gaming",
+    "Wolves Esports"
+   ],
+   "etaMin": 118.1,
+   "etaEstimated": false,
+   "vodId": "KJakzKO9ZNc",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-13",
+   "matchId": "598928",
+   "eventId": "2685",
+   "teams": [
+    "EDward Gaming",
+    "TYLOO"
+   ],
+   "etaMin": 118.1,
+   "etaEstimated": false,
+   "vodId": "KJakzKO9ZNc",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-14",
+   "matchId": "598929",
+   "eventId": "2685",
+   "teams": [
+    "All Gamers",
+    "Dragon Ranger Gaming"
+   ],
+   "etaMin": 193.6,
+   "etaEstimated": false,
+   "vodId": "HnbqptWth3c",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-15",
+   "matchId": "598930",
+   "eventId": "2685",
+   "teams": [
+    "Xi Lai Gaming",
+    "EDward Gaming"
+   ],
+   "etaMin": 123.0,
+   "etaEstimated": false,
+   "vodId": "YMeVs8FovWs",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-16",
+   "matchId": "598931",
+   "eventId": "2685",
+   "teams": [
+    "All Gamers",
+    "Xi Lai Gaming"
+   ],
+   "etaMin": 197.1,
+   "etaEstimated": false,
+   "vodId": "BPBpSlcjJkQ",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-17",
+   "matchId": "598932",
+   "eventId": "2685",
+   "teams": [
+    "Nova Esports",
+    "TYLOO"
+   ],
+   "etaMin": 128.4,
+   "etaEstimated": false,
+   "vodId": "h2nIgi0Zxck",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-18",
+   "matchId": "598933",
+   "eventId": "2685",
+   "teams": [
+    "Titan Esports Club",
+    "Wolves Esports"
+   ],
+   "etaMin": 128.4,
+   "etaEstimated": false,
+   "vodId": "h2nIgi0Zxck",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-19",
+   "matchId": "598934",
+   "eventId": "2685",
+   "teams": [
+    "Trace Esports",
+    "JD Gaming"
+   ],
+   "etaMin": 134.6,
+   "etaEstimated": false,
+   "vodId": "S_10Zxu6P1Y",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-20",
+   "matchId": "598935",
+   "eventId": "2685",
+   "teams": [
+    "FunPlus Phoenix",
+    "Bilibili Gaming"
+   ],
+   "etaMin": 134.6,
+   "etaEstimated": false,
+   "vodId": "S_10Zxu6P1Y",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-21",
+   "matchId": "598936",
+   "eventId": "2685",
+   "teams": [
+    "TYLOO",
+    "Titan Esports Club"
+   ],
+   "etaMin": 176.2,
+   "etaEstimated": false,
+   "vodId": "hmat3Zf61Dg",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-22",
+   "matchId": "598937",
+   "eventId": "2685",
+   "teams": [
+    "Trace Esports",
+    "Bilibili Gaming"
+   ],
+   "etaMin": 176.2,
+   "etaEstimated": false,
+   "vodId": "hmat3Zf61Dg",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-23",
+   "matchId": "598938",
+   "eventId": "2685",
+   "teams": [
+    "Dragon Ranger Gaming",
+    "TYLOO"
+   ],
+   "etaMin": 151.2,
+   "etaEstimated": false,
+   "vodId": "LBY_hD9216c",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-24",
+   "matchId": "598939",
+   "eventId": "2685",
+   "teams": [
+    "EDward Gaming",
+    "Bilibili Gaming"
+   ],
+   "etaMin": 149.7,
+   "etaEstimated": false,
+   "vodId": "SMQAfOk2I4Q",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-25",
+   "matchId": "598940",
+   "eventId": "2685",
+   "teams": [
+    "Dragon Ranger Gaming",
+    "Bilibili Gaming"
+   ],
+   "etaMin": 125.0,
+   "etaEstimated": false,
+   "vodId": "LCK_c_jvQAI",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-26",
+   "matchId": "598941",
+   "eventId": "2685",
+   "teams": [
+    "Xi Lai Gaming",
+    "Bilibili Gaming"
+   ],
+   "etaMin": 176.9,
+   "etaEstimated": false,
+   "vodId": "XH9kJ6LHF8w",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-27",
+   "matchId": "598942",
+   "eventId": "2685",
+   "teams": [
+    "Nova Esports",
+    "Wolves Esports"
+   ],
+   "etaMin": 193.6,
+   "etaEstimated": false,
+   "vodId": "HnbqptWth3c",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-28",
+   "matchId": "598943",
+   "eventId": "2685",
+   "teams": [
+    "JD Gaming",
+    "FunPlus Phoenix"
+   ],
+   "etaMin": 123.0,
+   "etaEstimated": false,
+   "vodId": "YMeVs8FovWs",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-29",
+   "matchId": "598944",
+   "eventId": "2685",
+   "teams": [
+    "Trace Esports",
+    "Wolves Esports"
+   ],
+   "etaMin": 151.2,
+   "etaEstimated": false,
+   "vodId": "LBY_hD9216c",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-30",
+   "matchId": "598945",
+   "eventId": "2685",
+   "teams": [
+    "Titan Esports Club",
+    "JD Gaming"
+   ],
+   "etaMin": 149.7,
+   "etaEstimated": false,
+   "vodId": "SMQAfOk2I4Q",
+   "status": "planned"
+  },
+  {
+   "date": "2026-12-31",
+   "matchId": "598946",
+   "eventId": "2685",
+   "teams": [
+    "TYLOO",
+    "Trace Esports"
+   ],
+   "etaMin": 127.0,
+   "etaEstimated": false,
+   "vodId": "IvBEi6Wy8no",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-01",
+   "matchId": "598947",
+   "eventId": "2685",
+   "teams": [
+    "EDward Gaming",
+    "JD Gaming"
+   ],
+   "etaMin": 127.0,
+   "etaEstimated": false,
+   "vodId": "IvBEi6Wy8no",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-02",
+   "matchId": "598948",
+   "eventId": "2685",
+   "teams": [
+    "TYLOO",
+    "EDward Gaming"
+   ],
+   "etaMin": 125.0,
+   "etaEstimated": false,
+   "vodId": "LCK_c_jvQAI",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-03",
+   "matchId": "598949",
+   "eventId": "2685",
+   "teams": [
+    "Dragon Ranger Gaming",
+    "EDward Gaming"
+   ],
+   "etaMin": 197.1,
+   "etaEstimated": false,
+   "vodId": "BPBpSlcjJkQ",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-04",
+   "matchId": "598950",
+   "eventId": "2685",
+   "teams": [
+    "Bilibili Gaming",
+    "EDward Gaming"
+   ],
+   "etaMin": 113.7,
+   "etaEstimated": false,
+   "vodId": "bJy2X-c2iB0",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-05",
+   "matchId": "644652",
+   "eventId": "2775",
+   "teams": [
+    "Gen G",
+    "Global Esports"
+   ],
+   "etaMin": 111.1,
+   "etaEstimated": false,
+   "vodId": "m9Ievrepbww",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-06",
+   "matchId": "644653",
+   "eventId": "2775",
+   "teams": [
+    "T1",
+    "Varrel"
+   ],
+   "etaMin": 111.1,
+   "etaEstimated": false,
+   "vodId": "m9Ievrepbww",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-07",
+   "matchId": "644654",
+   "eventId": "2775",
+   "teams": [
+    "Nongshim Redforce",
+    "Paper Rex"
+   ],
+   "etaMin": 125.1,
+   "etaEstimated": false,
+   "vodId": "9YY2O5Tx0Pw",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-08",
+   "matchId": "644655",
+   "eventId": "2775",
+   "teams": [
+    "Full Sense",
+    "Detonation Focusme"
+   ],
+   "etaMin": 125.1,
+   "etaEstimated": false,
+   "vodId": "9YY2O5Tx0Pw",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-09",
+   "matchId": "644656",
+   "eventId": "2775",
+   "teams": [
+    "Team Secret",
+    "Drx"
+   ],
+   "etaMin": 127.8,
+   "etaEstimated": false,
+   "vodId": "_oZviE6kAas",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-10",
+   "matchId": "644657",
+   "eventId": "2775",
+   "teams": [
+    "Rex Regum Qeon",
+    "Zeta Division"
+   ],
+   "etaMin": 127.8,
+   "etaEstimated": false,
+   "vodId": "_oZviE6kAas",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-11",
+   "matchId": "644658",
+   "eventId": "2775",
+   "teams": [
+    "Detonation Focusme",
+    "T1"
+   ],
+   "etaMin": 136.9,
+   "etaEstimated": false,
+   "vodId": "44oMtwXAYf8",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-12",
+   "matchId": "644659",
+   "eventId": "2775",
+   "teams": [
+    "Nongshim Redforce",
+    "Drx"
+   ],
+   "etaMin": 136.9,
+   "etaEstimated": false,
+   "vodId": "44oMtwXAYf8",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-13",
+   "matchId": "644660",
+   "eventId": "2775",
+   "teams": [
+    "Team Secret",
+    "Global Esports"
+   ],
+   "etaMin": 119.7,
+   "etaEstimated": false,
+   "vodId": "Qp4zxBw1u4c",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-14",
+   "matchId": "644661",
+   "eventId": "2775",
+   "teams": [
+    "Rex Regum Qeon",
+    "Varrel"
+   ],
+   "etaMin": 119.7,
+   "etaEstimated": false,
+   "vodId": "Qp4zxBw1u4c",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-15",
+   "matchId": "644662",
+   "eventId": "2775",
+   "teams": [
+    "Full Sense",
+    "Zeta Division"
+   ],
+   "etaMin": 122.1,
+   "etaEstimated": false,
+   "vodId": "Tea_WwGFJc8",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-16",
+   "matchId": "644663",
+   "eventId": "2775",
+   "teams": [
+    "Gen G",
+    "Paper Rex"
+   ],
+   "etaMin": 122.1,
+   "etaEstimated": false,
+   "vodId": "Tea_WwGFJc8",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-17",
+   "matchId": "644665",
+   "eventId": "2775",
+   "teams": [
+    "Full Sense",
+    "Varrel"
+   ],
+   "etaMin": 9.0,
+   "etaEstimated": false,
+   "vodId": "4WeL6e1g3Gk",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-18",
+   "matchId": "644666",
+   "eventId": "2775",
+   "teams": [
+    "Team Secret",
+    "Paper Rex"
+   ],
+   "etaMin": 110.7,
+   "etaEstimated": false,
+   "vodId": "2IwKw_LG64U",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-19",
+   "matchId": "644667",
+   "eventId": "2775",
+   "teams": [
+    "Kiwoom Drx",
+    "Global Esports"
+   ],
+   "etaMin": 125.7,
+   "etaEstimated": false,
+   "vodId": "QLsCFQ9yzpE",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-20",
+   "matchId": "644668",
+   "eventId": "2775",
+   "teams": [
+    "Zeta Division",
+    "Detonation Focusme"
+   ],
+   "etaMin": 125.7,
+   "etaEstimated": false,
+   "vodId": "QLsCFQ9yzpE",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-21",
+   "matchId": "644669",
+   "eventId": "2775",
+   "teams": [
+    "Rex Regum Qeon",
+    "T1"
+   ],
+   "etaMin": 111.7,
+   "etaEstimated": false,
+   "vodId": "JiyDFdTz11c",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-22",
+   "matchId": "644670",
+   "eventId": "2775",
+   "teams": [
+    "Nongshim Redforce",
+    "Gen G"
+   ],
+   "etaMin": 111.7,
+   "etaEstimated": false,
+   "vodId": "JiyDFdTz11c",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-23",
+   "matchId": "644671",
+   "eventId": "2775",
+   "teams": [
+    "Rex Regum Qeon",
+    "Full Sense"
+   ],
+   "etaMin": 121.6,
+   "etaEstimated": false,
+   "vodId": "xC4V8x91ALQ",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-24",
+   "matchId": "644672",
+   "eventId": "2775",
+   "teams": [
+    "Paper Rex",
+    "Global Esports"
+   ],
+   "etaMin": 121.6,
+   "etaEstimated": false,
+   "vodId": "xC4V8x91ALQ",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-25",
+   "matchId": "644673",
+   "eventId": "2775",
+   "teams": [
+    "Gen G",
+    "Kiwoom Drx"
+   ],
+   "etaMin": 160.2,
+   "etaEstimated": false,
+   "vodId": "4Ll6PfUa3_I",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-26",
+   "matchId": "644674",
+   "eventId": "2775",
+   "teams": [
+    "Detonation Focusme",
+    "Varrel"
+   ],
+   "etaMin": 160.2,
+   "etaEstimated": false,
+   "vodId": "4Ll6PfUa3_I",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-27",
+   "matchId": "644675",
+   "eventId": "2775",
+   "teams": [
+    "T1",
+    "Zeta Division"
+   ],
+   "etaMin": 119.9,
+   "etaEstimated": false,
+   "vodId": "znMI4eE9_3Y",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-28",
+   "matchId": "644676",
+   "eventId": "2775",
+   "teams": [
+    "Nongshim Redforce",
+    "Team Secret"
+   ],
+   "etaMin": 119.9,
+   "etaEstimated": false,
+   "vodId": "znMI4eE9_3Y",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-29",
+   "matchId": "644677",
+   "eventId": "2775",
+   "teams": [
+    "Gen G",
+    "Team Secret"
+   ],
+   "etaMin": 146.3,
+   "etaEstimated": false,
+   "vodId": "Czkh8wierro",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-30",
+   "matchId": "644678",
+   "eventId": "2775",
+   "teams": [
+    "Varrel",
+    "Zeta Division"
+   ],
+   "etaMin": 146.3,
+   "etaEstimated": false,
+   "vodId": "Czkh8wierro",
+   "status": "planned"
+  },
+  {
+   "date": "2027-01-31",
+   "matchId": "644679",
+   "eventId": "2775",
+   "teams": [
+    "T1",
+    "Full Sense"
+   ],
+   "etaMin": 149.3,
+   "etaEstimated": false,
+   "vodId": "9cRHCZoUBwI",
+   "status": "planned"
+  },
+  {
+   "date": "2027-02-01",
+   "matchId": "644680",
+   "eventId": "2775",
+   "teams": [
+    "Nongshim Redforce",
+    "Global Esports"
+   ],
+   "etaMin": 149.3,
+   "etaEstimated": false,
+   "vodId": "9cRHCZoUBwI",
+   "status": "planned"
+  },
+  {
+   "date": "2027-02-02",
+   "matchId": "644681",
+   "eventId": "2775",
+   "teams": [
+    "Paper Rex",
+    "Kiwoom Drx"
+   ],
+   "etaMin": 124.8,
+   "etaEstimated": false,
+   "vodId": "f6VXtU2i110",
+   "status": "planned"
+  },
+  {
+   "date": "2027-02-03",
+   "matchId": "644682",
+   "eventId": "2775",
+   "teams": [
+    "Rex Regum Qeon",
+    "Detonation Focusme"
+   ],
+   "etaMin": 124.8,
+   "etaEstimated": false,
+   "vodId": "f6VXtU2i110",
+   "status": "planned"
+  },
+  {
+   "date": "2027-02-04",
+   "matchId": "645474",
+   "eventId": "2860",
+   "teams": [
+    "Sentinels",
+    "KR Esports"
+   ],
+   "etaMin": 43.1,
+   "etaEstimated": false,
+   "vodId": "ct0Joh3wM4A",
+   "status": "planned"
+  },
+  {
+   "date": "2027-02-05",
+   "matchId": "645475",
+   "eventId": "2860",
+   "teams": [
+    "G2 Esports",
+    "MIBR"
+   ],
+   "etaMin": 46.9,
+   "etaEstimated": false,
+   "vodId": "DTydETzMCng",
+   "status": "planned"
+  },
+  {
+   "date": "2027-02-06",
+   "matchId": "645476",
+   "eventId": "2860",
+   "teams": [
+    "100 Thieves",
+    "Evil Geniuses"
+   ],
+   "etaMin": 33.6,
+   "etaEstimated": false,
+   "vodId": "L8XWhie7-xU",
+   "status": "planned"
+  },
+  {
+   "date": "2027-02-07",
+   "matchId": "645477",
+   "eventId": "2860",
+   "teams": [
+    "Envy",
+    "LOUD"
+   ],
+   "etaMin": 49.3,
+   "etaEstimated": false,
+   "vodId": "ZXTW6zboQiw",
+   "status": "planned"
+  },
+  {
+   "date": "2027-02-08",
+   "matchId": "645478",
+   "eventId": "2860",
+   "teams": [
+    "Cloud9",
+    "LEVIATÁN"
+   ],
+   "etaMin": 30.1,
+   "etaEstimated": false,
+   "vodId": "B6dG1DMwgsM",
+   "status": "planned"
+  },
+  {
+   "date": "2027-02-09",
+   "matchId": "645479",
+   "eventId": "2860",
+   "teams": [
+    "FURIA",
+    "NRG"
+   ],
+   "etaMin": 37.6,
+   "etaEstimated": false,
+   "vodId": "qpOdR-5BwcQ",
+   "status": "planned"
+  },
+  {
+   "date": "2027-02-10",
+   "matchId": "645480",
+   "eventId": "2860",
+   "teams": [
+    "Cloud9",
+    "Envy"
+   ],
+   "etaMin": 50.1,
+   "etaEstimated": false,
+   "vodId": "_pt_MSdXVEk",
+   "status": "planned"
+  },
+  {
+   "date": "2027-02-11",
+   "matchId": "645481",
+   "eventId": "2860",
+   "teams": [
+    "FURIA",
+    "Evil Geniuses"
+   ],
+   "etaMin": 55.8,
+   "etaEstimated": false,
+   "vodId": "GzuTUW1tP68",
+   "status": "planned"
+  },
+  {
+   "date": "2027-02-12",
+   "matchId": "645482",
+   "eventId": "2860",
+   "teams": [
+    "G2 Esports",
+    "LEVIATÁN"
+   ],
+   "etaMin": 57.3,
+   "etaEstimated": false,
+   "vodId": "jv7LJzwuokY",
+   "status": "planned"
+  },
+  {
+   "date": "2027-02-13",
+   "matchId": "645483",
+   "eventId": "2860",
+   "teams": [
+    "MIBR",
+    "LOUD"
+   ],
+   "etaMin": 32.4,
+   "etaEstimated": false,
+   "vodId": "ZI2jSqfHdm8",
+   "status": "planned"
+  },
+  {
+   "date": "2027-02-14",
+   "matchId": "645484",
+   "eventId": "2860",
+   "teams": [
+    "NRG",
+    "KR Esports"
+   ],
+   "etaMin": 38.7,
+   "etaEstimated": false,
+   "vodId": "x6LFJnpvMRE",
+   "status": "planned"
+  },
+  {
+   "date": "2027-02-15",
+   "matchId": "645485",
+   "eventId": "2860",
+   "teams": [
+    "100 Thieves",
+    "Sentinels"
+   ],
+   "etaMin": 50.6,
+   "etaEstimated": false,
+   "vodId": "_IrPrWDAB1s",
+   "status": "planned"
+  },
+  {
+   "date": "2027-02-16",
+   "matchId": "645486",
+   "eventId": "2860",
+   "teams": [
+    "LEVIATÁN",
+    "Envy"
+   ],
+   "etaMin": 24.5,
+   "etaEstimated": false,
+   "vodId": "VnytL8XDSmg",
+   "status": "planned"
+  },
+  {
+   "date": "2027-02-17",
+   "matchId": "645487",
+   "eventId": "2860",
+   "teams": [
+    "G2 Esports",
+    "LOUD"
+   ],
+   "etaMin": 46.0,
+   "etaEstimated": false,
+   "vodId": "IhVSNUbjXR0",
+   "status": "planned"
+  },
+  {
+   "date": "2027-02-18",
+   "matchId": "645488",
+   "eventId": "2860",
+   "teams": [
+    "FURIA",
+    "KR Esports"
+   ],
+   "etaMin": 34.3,
+   "etaEstimated": false,
+   "vodId": "uYZsaHU7gW4",
+   "status": "planned"
+  },
+  {
+   "date": "2027-02-19",
+   "matchId": "645489",
+   "eventId": "2860",
+   "teams": [
+    "NRG",
+    "100 Thieves"
+   ],
+   "etaMin": 51.8,
+   "etaEstimated": false,
+   "vodId": "QMxxfPzit4g",
+   "status": "planned"
+  },
+  {
+   "date": "2027-02-20",
+   "matchId": "645490",
+   "eventId": "2860",
+   "teams": [
+    "Evil Geniuses",
+    "Sentinels"
+   ],
+   "etaMin": 40.7,
+   "etaEstimated": false,
+   "vodId": "03yockOAQzU",
+   "status": "planned"
+  },
+  {
+   "date": "2027-02-21",
+   "matchId": "645491",
+   "eventId": "2860",
+   "teams": [
+    "MIBR",
+    "Cloud9"
+   ],
+   "etaMin": 13.5,
+   "etaEstimated": false,
+   "vodId": "hCvq8dVe5lI",
+   "status": "planned"
+  },
+  {
+   "date": "2027-02-22",
+   "matchId": "645492",
+   "eventId": "2860",
+   "teams": [
+    "Evil Geniuses",
+    "NRG"
+   ],
+   "etaMin": 100.6,
+   "etaEstimated": false,
+   "vodId": "GSaXyaOnXRM",
+   "status": "planned"
+  },
+  {
+   "date": "2027-02-23",
+   "matchId": "645493",
+   "eventId": "2860",
+   "teams": [
+    "LEVIATÁN",
+    "MIBR"
+   ],
+   "etaMin": 100.6,
+   "etaEstimated": false,
+   "vodId": "GSaXyaOnXRM",
+   "status": "planned"
+  },
+  {
+   "date": "2027-02-24",
+   "matchId": "645494",
+   "eventId": "2860",
+   "teams": [
+    "KR Esports",
+    "100 Thieves"
+   ],
+   "etaMin": 46.4,
+   "etaEstimated": false,
+   "vodId": "-IrSl9jG9EM",
+   "status": "planned"
+  },
+  {
+   "date": "2027-02-25",
+   "matchId": "645495",
+   "eventId": "2860",
+   "teams": [
+    "FURIA",
+    "Sentinels"
+   ],
+   "etaMin": 45.4,
+   "etaEstimated": false,
+   "vodId": "Acj6ehFzTQA",
+   "status": "planned"
+  },
+  {
+   "date": "2027-02-26",
+   "matchId": "645496",
+   "eventId": "2860",
+   "teams": [
+    "LOUD",
+    "Cloud9"
+   ],
+   "etaMin": 47.5,
+   "etaEstimated": false,
+   "vodId": "dsgMtXS74go",
+   "status": "planned"
+  },
+  {
+   "date": "2027-02-27",
+   "matchId": "645497",
+   "eventId": "2860",
+   "teams": [
+    "G2 Esports",
+    "Envy"
+   ],
+   "etaMin": 28.9,
+   "etaEstimated": false,
+   "vodId": "fz0q7FiVySA",
+   "status": "planned"
+  },
+  {
+   "date": "2027-02-28",
+   "matchId": "645498",
+   "eventId": "2860",
+   "teams": [
+    "KR Esports",
+    "Evil Geniuses"
+   ],
+   "etaMin": 57.2,
+   "etaEstimated": false,
+   "vodId": "4xnKkjoO1T0",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-01",
+   "matchId": "645499",
+   "eventId": "2860",
+   "teams": [
+    "FURIA",
+    "100 Thieves"
+   ],
+   "etaMin": 52.6,
+   "etaEstimated": false,
+   "vodId": "H6WqH91EsNI",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-02",
+   "matchId": "645500",
+   "eventId": "2860",
+   "teams": [
+    "G2 Esports",
+    "Cloud9"
+   ],
+   "etaMin": 39.8,
+   "etaEstimated": false,
+   "vodId": "YlXGMj_h6k8",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-03",
+   "matchId": "645501",
+   "eventId": "2860",
+   "teams": [
+    "Envy",
+    "MIBR"
+   ],
+   "etaMin": 27.0,
+   "etaEstimated": false,
+   "vodId": "tDwXiL5DgJc",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-04",
+   "matchId": "645502",
+   "eventId": "2860",
+   "teams": [
+    "LOUD",
+    "LEVIATÁN"
+   ],
+   "etaMin": 54.1,
+   "etaEstimated": false,
+   "vodId": "HL6dGXZ9-tc",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-05",
+   "matchId": "645503",
+   "eventId": "2860",
+   "teams": [
+    "Sentinels",
+    "NRG"
+   ],
+   "etaMin": 64.7,
+   "etaEstimated": false,
+   "vodId": "1ojedIDPBYY",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-06",
+   "matchId": "660369",
+   "eventId": "2860",
+   "teams": [
+    "FURIA",
+    "LEVIATÁN"
+   ],
+   "etaMin": 46.2,
+   "etaEstimated": false,
+   "vodId": "81FqgWS0xRU",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-07",
+   "matchId": "660371",
+   "eventId": "2860",
+   "teams": [
+    "MIBR",
+    "LEVIATÁN"
+   ],
+   "etaMin": 51.1,
+   "etaEstimated": false,
+   "vodId": "62rQ6rGBSBc",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-08",
+   "matchId": "660372",
+   "eventId": "2860",
+   "teams": [
+    "KRÜ Esports",
+    "G2 Esports"
+   ],
+   "etaMin": 41.2,
+   "etaEstimated": false,
+   "vodId": "54eg6P-o6Gc",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-09",
+   "matchId": "660373",
+   "eventId": "2860",
+   "teams": [
+    "LEVIATÁN",
+    "G2 Esports"
+   ],
+   "etaMin": 50.3,
+   "etaEstimated": false,
+   "vodId": "h8Bf3y9FcNw",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-10",
+   "matchId": "666488",
+   "eventId": "2775",
+   "teams": [
+    "Rex Regum Qeon",
+    "Global Esports"
+   ],
+   "etaMin": 115.6,
+   "etaEstimated": false,
+   "vodId": "hurmbylV3os",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-11",
+   "matchId": "666489",
+   "eventId": "2775",
+   "teams": [
+    "KIWOOM DRX",
+    "FULL SENSE"
+   ],
+   "etaMin": 115.6,
+   "etaEstimated": false,
+   "vodId": "hurmbylV3os",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-12",
+   "matchId": "666490",
+   "eventId": "2775",
+   "teams": [
+    "Paper Rex",
+    "Global Esports"
+   ],
+   "etaMin": 129.6,
+   "etaEstimated": false,
+   "vodId": "hdotlYcOOIs",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-13",
+   "matchId": "666491",
+   "eventId": "2775",
+   "teams": [
+    "T1",
+    "FULL SENSE"
+   ],
+   "etaMin": 129.6,
+   "etaEstimated": false,
+   "vodId": "hdotlYcOOIs",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-14",
+   "matchId": "666492",
+   "eventId": "2775",
+   "teams": [
+    "Global Esports",
+    "FULL SENSE"
+   ],
+   "etaMin": 138.7,
+   "etaEstimated": false,
+   "vodId": "QgtNfkdSgvA",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-15",
+   "matchId": "666493",
+   "eventId": "2775",
+   "teams": [
+    "FULL SENSE",
+    "Paper Rex"
+   ],
+   "etaMin": 114.2,
+   "etaEstimated": false,
+   "vodId": "oRPT3H09ZB0",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-16",
+   "matchId": "666494",
+   "eventId": "2775",
+   "teams": [
+    "Rex Regum Qeon",
+    "DetonatioN FocusMe"
+   ],
+   "etaMin": 150.6,
+   "etaEstimated": false,
+   "vodId": "iBwAs5NCvac",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-17",
+   "matchId": "666495",
+   "eventId": "2775",
+   "teams": [
+    "KIWOOM DRX",
+    "Nongshim RedForce"
+   ],
+   "etaMin": 150.6,
+   "etaEstimated": false,
+   "vodId": "iBwAs5NCvac",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-18",
+   "matchId": "666496",
+   "eventId": "2775",
+   "teams": [
+    "T1",
+    "Rex Regum Qeon"
+   ],
+   "etaMin": 142.5,
+   "etaEstimated": false,
+   "vodId": "dDovFH9LH00",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-19",
+   "matchId": "666497",
+   "eventId": "2775",
+   "teams": [
+    "Paper Rex",
+    "KIWOOM DRX"
+   ],
+   "etaMin": 142.5,
+   "etaEstimated": false,
+   "vodId": "dDovFH9LH00",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-20",
+   "matchId": "666498",
+   "eventId": "2775",
+   "teams": [
+    "T1",
+    "Paper Rex"
+   ],
+   "etaMin": 138.7,
+   "etaEstimated": false,
+   "vodId": "QgtNfkdSgvA",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-21",
+   "matchId": "666499",
+   "eventId": "2775",
+   "teams": [
+    "Global Esports",
+    "Paper Rex"
+   ],
+   "etaMin": 86.9,
+   "etaEstimated": false,
+   "vodId": "kDs1EZW3k44",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-22",
+   "matchId": "626537",
+   "eventId": "2760",
+   "teams": [
+    "Nongshim RedForce",
+    "Gentle Mates"
+   ],
+   "etaMin": 34.2,
+   "etaEstimated": false,
+   "vodId": "-wX7dk_wdRU",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-23",
+   "matchId": "626538",
+   "eventId": "2760",
+   "teams": [
+    "All Gamers",
+    "G2 Esports"
+   ],
+   "etaMin": 33.6,
+   "etaEstimated": false,
+   "vodId": "Hl65QMr-f8w",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-24",
+   "matchId": "626539",
+   "eventId": "2760",
+   "teams": [
+    "FURIA",
+    "Paper Rex"
+   ],
+   "etaMin": 47.9,
+   "etaEstimated": false,
+   "vodId": "CSk1dca-rss",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-25",
+   "matchId": "626540",
+   "eventId": "2760",
+   "teams": [
+    "BBL Esports",
+    "NRG"
+   ],
+   "etaMin": 56.0,
+   "etaEstimated": false,
+   "vodId": "ufgHES26TeE",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-26",
+   "matchId": "626541",
+   "eventId": "2760",
+   "teams": [
+    "Nongshim RedForce",
+    "G2 Esports"
+   ],
+   "etaMin": 52.2,
+   "etaEstimated": false,
+   "vodId": "EpC_Wn5viOQ",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-27",
+   "matchId": "626542",
+   "eventId": "2760",
+   "teams": [
+    "Paper Rex",
+    "NRG"
+   ],
+   "etaMin": 44.4,
+   "etaEstimated": false,
+   "vodId": "lbH8PxtdlHs",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-28",
+   "matchId": "626543",
+   "eventId": "2760",
+   "teams": [
+    "Nongshim RedForce",
+    "NRG"
+   ],
+   "etaMin": 39.3,
+   "etaEstimated": false,
+   "vodId": "zSks_VrlpCE",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-29",
+   "matchId": "626544",
+   "eventId": "2760",
+   "teams": [
+    "Nongshim RedForce",
+    "Paper Rex"
+   ],
+   "etaMin": 44.8,
+   "etaEstimated": false,
+   "vodId": "NR1AEXusjac",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-30",
+   "matchId": "626545",
+   "eventId": "2760",
+   "teams": [
+    "Gentle Mates",
+    "All Gamers"
+   ],
+   "etaMin": 47.6,
+   "etaEstimated": false,
+   "vodId": "3cyBswcpKBg",
+   "status": "planned"
+  },
+  {
+   "date": "2027-03-31",
+   "matchId": "626546",
+   "eventId": "2760",
+   "teams": [
+    "FURIA",
+    "BBL Esports"
+   ],
+   "etaMin": 54.6,
+   "etaEstimated": false,
+   "vodId": "timJ-FSwaAM",
+   "status": "planned"
+  },
+  {
+   "date": "2027-04-01",
+   "matchId": "626547",
+   "eventId": "2760",
+   "teams": [
+    "Paper Rex",
+    "All Gamers"
+   ],
+   "etaMin": 52.0,
+   "etaEstimated": false,
+   "vodId": "6OBZIQwBmM8",
+   "status": "planned"
+  },
+  {
+   "date": "2027-04-02",
+   "matchId": "626548",
+   "eventId": "2760",
+   "teams": [
+    "G2 Esports",
+    "BBL Esports"
+   ],
+   "etaMin": 37.1,
+   "etaEstimated": false,
+   "vodId": "nFCE8az8CTw",
+   "status": "planned"
+  },
+  {
+   "date": "2027-04-03",
+   "matchId": "626549",
+   "eventId": "2760",
+   "teams": [
+    "Paper Rex",
+    "G2 Esports"
+   ],
+   "etaMin": 49.5,
+   "etaEstimated": false,
+   "vodId": "Q5-jDQhlYTE",
+   "status": "planned"
+  },
+  {
+   "date": "2027-04-04",
+   "matchId": "626550",
+   "eventId": "2760",
+   "teams": [
+    "NRG",
+    "Paper Rex"
+   ],
+   "etaMin": 65.5,
+   "etaEstimated": false,
+   "vodId": "khErde2Dhbg",
+   "status": "planned"
+  },
+  {
+   "date": "2027-04-05",
+   "matchId": "670464",
+   "eventId": "2765",
+   "teams": [
+    "G2 Esports",
+    "Xi Lai Gaming"
+   ],
+   "etaMin": 53.6,
+   "etaEstimated": false,
+   "vodId": "z2p_eCxcIAI",
+   "status": "planned"
+  },
+  {
+   "date": "2027-04-06",
+   "matchId": "670465",
+   "eventId": "2765",
+   "teams": [
+    "EDward Gaming",
+    "FUT Esports"
+   ],
+   "etaMin": 47.7,
+   "etaEstimated": false,
+   "vodId": "vFmM51y2IEk",
+   "status": "planned"
+  },
+  {
+   "date": "2027-04-07",
+   "matchId": "670466",
+   "eventId": "2765",
+   "teams": [
+    "Paper Rex",
+    "LEVIATÁN"
+   ],
+   "etaMin": 32.7,
+   "etaEstimated": false,
+   "vodId": "BAH3zpoOYXQ",
+   "status": "planned"
+  },
+  {
+   "date": "2027-04-08",
+   "matchId": "670467",
+   "eventId": "2765",
+   "teams": [
+    "Team Heretics",
+    "Team Vitality"
+   ],
+   "etaMin": 36.0,
+   "etaEstimated": false,
+   "vodId": "pMYvVg8VjWE",
+   "status": "planned"
+  },
+  {
+   "date": "2027-04-09",
+   "matchId": "670468",
+   "eventId": "2765",
+   "teams": [
+    "Xi Lai Gaming",
+    "EDward Gaming"
+   ],
+   "etaMin": 52.8,
+   "etaEstimated": false,
+   "vodId": "9PwEfkFweiE",
+   "status": "planned"
+  },
+  {
+   "date": "2027-04-10",
+   "matchId": "670469",
+   "eventId": "2765",
+   "teams": [
+    "Paper Rex",
+    "Team Vitality"
+   ],
+   "etaMin": 44.7,
+   "etaEstimated": false,
+   "vodId": "1VqGWzbVVL8",
+   "status": "planned"
+  },
+  {
+   "date": "2027-04-11",
+   "matchId": "670470",
+   "eventId": "2765",
+   "teams": [
+    "EDward Gaming",
+    "Paper Rex"
+   ],
+   "etaMin": 57.6,
+   "etaEstimated": false,
+   "vodId": "-nfe8xeT-ao",
+   "status": "planned"
+  },
+  {
+   "date": "2027-04-12",
+   "matchId": "670471",
+   "eventId": "2765",
+   "teams": [
+    "Paper Rex",
+    "LEVIATÁN"
+   ],
+   "etaMin": 76.2,
+   "etaEstimated": false,
+   "vodId": "yWqPVOvSJPg",
+   "status": "planned"
+  },
+  {
+   "date": "2027-04-13",
+   "matchId": "670472",
+   "eventId": "2765",
+   "teams": [
+    "G2 Esports",
+    "FUT Esports"
+   ],
+   "etaMin": 43.1,
+   "etaEstimated": false,
+   "vodId": "QCianVVO54A",
+   "status": "planned"
+  },
+  {
+   "date": "2027-04-14",
+   "matchId": "670473",
+   "eventId": "2765",
+   "teams": [
+    "LEVIATÁN",
+    "Team Heretics"
+   ],
+   "etaMin": 48.4,
+   "etaEstimated": false,
+   "vodId": "vaEwNmGq364",
+   "status": "planned"
+  },
+  {
+   "date": "2027-04-15",
+   "matchId": "670474",
+   "eventId": "2765",
+   "teams": [
+    "Team Vitality",
+    "FUT Esports"
+   ],
+   "etaMin": 33.1,
+   "etaEstimated": false,
+   "vodId": "FpGHDFsnKJM",
+   "status": "planned"
+  },
+  {
+   "date": "2027-04-16",
+   "matchId": "670475",
+   "eventId": "2765",
+   "teams": [
+    "Xi Lai Gaming",
+    "LEVIATÁN"
+   ],
+   "etaMin": 32.3,
+   "etaEstimated": false,
+   "vodId": "yuN_-2pPxAQ",
+   "status": "planned"
+  },
+  {
+   "date": "2027-04-17",
+   "matchId": "670476",
+   "eventId": "2765",
+   "teams": [
+    "Team Vitality",
+    "LEVIATÁN"
+   ],
+   "etaMin": 33.4,
+   "etaEstimated": false,
+   "vodId": "Zxy9lFlO8Jc",
+   "status": "planned"
+  },
+  {
+   "date": "2027-04-18",
+   "matchId": "670477",
+   "eventId": "2765",
+   "teams": [
+    "EDward Gaming",
+    "LEVIATÁN"
+   ],
+   "etaMin": 50.7,
+   "etaEstimated": false,
+   "vodId": "n4jX567C_hw",
+   "status": "planned"
+  }
+ ],
+ "unschedulable": [
+  {
+   "matchId": "596410",
+   "reason": "no-vod",
+   "teams": [
+    "Evil Geniuses",
+    "Sentinels"
+   ]
+  },
+  {
+   "matchId": "596414",
+   "reason": "no-vod",
+   "teams": [
+    "ENVY",
+    "Cloud9"
+   ]
+  }
+ ]
+}

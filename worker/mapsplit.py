@@ -36,6 +36,16 @@ def strip_label(img) -> str | None:
 
 
 def main() -> int:
+    import argparse
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--video", type=str, default="")
+    ap.add_argument("--out", type=str, default="")
+    a = ap.parse_args()
+    global VIDEO, OUT
+    if a.video:
+        VIDEO = Path(a.video)
+    if a.out:
+        OUT = Path(a.out)
     import cv2
     from scan import write_progress
     cap = cv2.VideoCapture(str(VIDEO))
